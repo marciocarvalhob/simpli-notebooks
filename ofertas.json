@@ -1,0 +1,89 @@
+{
+  "melhores_notebooks": [
+    {
+      "posicao": 1,
+      "modelo": "VAIO FE16 VJFE69F11X-B0121H",
+      "preco": "R$ 3.782,00",
+      "link": "https://produto.mercadolivre.com.br/MLB-3561664177-notebook-vaio-fe16-amd-ryzen-7-5825u-linux-16gb-ram-512gb-ssd-wi-fi-6-tela-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe69f11xb0121h-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_720023-MLB70542385311_072023-F.webp",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "IPS WUXGA (1920x1200)",
+      "analise": "Excelente para produtividade e multitarefas, com um potente Ryzen 7 e 16GB de RAM. A tela WUXGA IPS de 16 polegadas é um diferencial para quem busca mais espaço de trabalho e qualidade visual. O armazenamento SSD de 512GB garante agilidade. Vem com Linux, mas a instalação do Windows é relativamente simples.",
+      "notas": {
+        "performance": 9,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 2,
+      "modelo": "Positivo Vision R15M R516512BI",
+      "preco": "R$ 3.679,00",
+      "link": "https://www.kabum.com.br/produto/501257/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto",
+      "foto": "https://images.kabum.com.br/produtos/fotos/501257/501257_1697207604_g.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Um notebook com ótimo custo-benefício, destacando-se pela Minitela integrada para notificações. O Ryzen 5, 16GB de RAM e 512GB SSD oferecem performance sólida para uso geral e multitarefas. A tela IPS Full HD é um ponto forte.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
+      "preco": "R$ 3.500,00",
+      "link": "https://www.oficinadanet.com.br/hardware/46564-samsung-galaxy-book4-np750xgj-kg5br-ficha-tecnica",
+      "foto": "https://assets.oficinadanet.com.br/upload/noticias/2024/04/10/galaxy-book4-oficina-da-net-1.jpeg",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8GB LPDDR4X",
+      "ssd": "256GB NVMe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Com design premium e leve, o Galaxy Book4 oferece uma tela IPS Full HD de excelente qualidade e boa portabilidade. O Core i3 de 13ª geração e 8GB de RAM são adequados para tarefas diárias, estudos e trabalho com pacote Office. O SSD de 256GB é um pouco limitado, mas contribui para a agilidade do sistema.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-58M-586X",
+      "preco": "R$ 3.699,00 (Preço médio, variação esperada)",
+      "link": "https://www.acer.com/br-pt/laptops/aspire/aspire-5/pdp/NX.KHFAA.004",
+      "foto": "https://static.acer.com/up/Resource/Acer/Laptops/Aspire_5/media/Acer-Aspire-5-A515-58M-55B1-overview-main.png",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "O Acer Aspire 5 é um clássico custo-benefício, e esta configuração com Intel Core i5 de 12ª geração e 512GB de SSD oferece bom desempenho para multitarefas. A tela IPS Full HD proporciona cores vibrantes, e o chassi em alumínio confere um toque premium.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "ASUS VivoBook 15 X1502ZA-EJ1362W",
+      "preco": "R$ 3.499,00 (Preço médio, variação esperada)",
+      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-15-x1502/",
+      "foto": "https://dlcdnwebimgs.asus.com/files/media/27F47717-E560-4927-BA8F-09945BE5B4BA/v1/img/main/gallery/gallery1.png",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Um notebook equilibrado para o dia a dia, com processador Intel Core i5 de 12ª geração e um SSD de 512GB que garantem boa responsividade. A tela IPS Full HD oferece uma experiência visual agradável para consumo de conteúdo e trabalho. O design é elegante e leve.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    }
+  ]
+}
