@@ -1,0 +1,34 @@
+name: Atualização Diária Simpli
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # 12:00 UTC = 08h ou 09h no Brasil (dependendo do fuso)
+  workflow_dispatch: # Permite rodar manualmente com um clique
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependências
+        run: pip install google-genai
+
+      - name: Rodar Monitor de Ofertas
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python monitor.py
+
+      - name: Salvar alterações no GitHub
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add ofertas.json
+          git commit -m "🤖 Ofertas atualizadas via automação" || echo "Sem mudanças"
+          git push
