@@ -4,77 +4,53 @@ from google.genai import types
 import json
 import re
 
-# 1. CONFIGURAÇÃO - Cole sua chave aqui
+# Pega a chave do ambiente (Segurança para GitHub)
 MINHA_CHAVE = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=MINHA_CHAVE)
 
 def buscar_ofertas():
-    print("🔎 Iniciando varredura técnica (Radar de Custo-Benefício)...")
+    print("🔎 Iniciando varredura técnica de mercado...")
     
-    # Instrução "Dura": Forçamos a IA a dar notas para o gráfico
     instrucao = """
-    Aja como um analista de hardware sênior. 
-    Busque 5 notebooks IPS no Brasil (R$ 2.500 - R$ 3.800).
-    
-    REGRAS DO JSON:
-    - url_foto: Tente o link da imagem oficial (Samsung, Asus, Dell) ou link direto .jpg/.png.
-    - link_direto: URL real da oferta (Amazon, Kabum, Magalu, Mercado Livre).
-    - notas: Dê notas de 1 a 10 para Performance, Tela e Custo-Benefício.
-
-    RETORNE APENAS O JSON (SEM MARKDOWN):
+    Aja como um analista de hardware. Busque 5 notebooks IPS no Brasil (R$ 2.500 - 3.800).
+    FORMATO JSON OBRIGATÓRIO:
     {
       "melhores_notebooks": [
         {
           "posicao": 1,
-          "modelo": "Nome do Modelo",
+          "modelo": "Nome Completo",
           "preco": "R$ 0.000,00",
-          "link": "URL",
-          "foto": "URL da Imagem",
+          "link": "URL real da loja ou deixe vazio se não tiver certeza",
+          "foto": "URL direta da imagem",
           "cpu": "Processador",
           "ram": "Memória",
-          "ssd": "Armazenamento",
+          "ssd": "SSD",
           "tela": "IPS Full HD",
-          "analise": "Resumo técnico curto",
+          "analise": "Veredito técnico curto",
           "notas": { "performance": 8, "tela": 9, "custo_beneficio": 10 }
         }
       ]
     }
     """
 
-    response = None
-
     try:
-        # CHAMADA DA API - Usando Gemini 2.5 Flash (Equilíbrio de 2026)
         response = client.models.generate_content(
             model="gemini-2.5-flash", 
             config=types.GenerateContentConfig(
                 system_instruction=instrucao,
                 tools=[types.Tool(google_search=types.GoogleSearch())]
             ),
-            contents="Quais os 5 melhores notebooks custo-benefício IPS hoje no Brasil?"
+            contents="Top 5 notebooks custo-benefício hoje."
         )
 
-        # LIMPEZA DO JSON (Tratando textos extras da IA)
-        texto_bruto = response.text
-        # Pega tudo que estiver entre o primeiro { e o último }
-        match = re.search(r'(\{.*\})', texto_bruto, re.DOTALL)
-        
+        match = re.search(r'(\{.*\})', response.text, re.DOTALL)
         if match:
-            json_limpo = match.group(1)
-            dados = json.loads(json_limpo)
-            
+            dados = json.loads(match.group(1))
             with open('ofertas.json', 'w', encoding='utf-8') as f:
                 json.dump(dados, f, ensure_ascii=False, indent=2)
-            
-            print("✅ SUCESSO! O gráfico de radar e os cards já podem ser visualizados.")
-        else:
-            print("❌ Erro: A IA não enviou os dados no formato esperado.")
-            print("Resposta bruta:", texto_bruto)
-
+            print("✅ Sucesso: ofertas.json atualizado.")
     except Exception as e:
-        print(f"❌ Falha na operação: {e}")
-        if response:
-            print("Conteúdo bruto recebido para análise técnica:", response.text)
+        print(f"❌ Erro: {e}")
 
 if __name__ == "__main__":
     buscar_ofertas()
