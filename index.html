@@ -47,7 +47,7 @@
                         labels: ['Performance', 'Tela', 'Custo-Benefício'],
                         datasets: lista.map((n, i) => ({
                             label: n.modelo.split(' ')[0] + ' ' + (n.modelo.split(' ')[1] || ''),
-                            data: [n.notas?.performance, n.notas?.tela, n.notas?.custo_beneficio],
+                            data: [n.notas?.performance || 5, n.notas?.tela || 5, n.notas?.custo_beneficio || 5],
                             backgroundColor: cores[i] + '33',
                             borderColor: cores[i],
                             borderWidth: 2,
@@ -64,13 +64,11 @@
                 const cards = document.getElementById('container-cards');
                 cards.innerHTML = lista.map(n => {
                     
-                    // LÓGICA DE FALLBACK (A que você perguntou)
-                    // Se o link for vazio ou não começar com http, criamos uma busca no Google Shopping
-                    const linkFinal = (n.link && n.link.startsWith('http')) 
-                        ? n.link 
-                        : `https://www.google.com/search?q=preço+notebook+${encodeURIComponent(n.modelo)}&tbm=shop`;
+                    // LÓGICA DIRETA: SEMPRE GOOGLE SHOPPING
+                    const linkFinal = `https://www.google.com/search?q=comprar+notebook+${encodeURIComponent(n.modelo)}&tbm=shop`;
 
-                    const textoWhats = encodeURIComponent(`Oi! Veja este notebook que o Simpli recomendou: ${n.modelo} por ${n.preco}. Link: ${linkFinal}`);
+                    // MENSAGEM DO WHATSAPP
+                    const textoWhats = encodeURIComponent(`Oi! Veja este notebook que o Simpli recomendou: ${n.modelo}. Pesquisa de preços aqui: ${linkFinal}`);
                     const linkWhats = `https://wa.me/?text=${textoWhats}`;
 
                     return `
@@ -107,7 +105,7 @@
 
             } catch (e) {
                 console.error(e);
-                document.getElementById('container-cards').innerHTML = "<p class='text-center text-red-500'>Erro ao carregar dados. Verifique se o monitor.py gerou o arquivo ofertas.json.</p>";
+                document.getElementById('container-cards').innerHTML = "<p class='text-center text-red-500'>Erro ao carregar dados. Verifique o console.</p>";
             }
         }
         carregarDados();
