@@ -39,7 +39,6 @@
 
                 const cores = ['#f43f5e', '#3b82f6', '#eab308', '#22c55e', '#a855f7'];
 
-                // CONFIGURAÇÃO DO GRÁFICO
                 const ctx = document.getElementById('graficoComparativo').getContext('2d');
                 new Chart(ctx, {
                     type: 'radar',
@@ -60,14 +59,10 @@
                     }
                 });
 
-                // GERAR CARDS
                 const cards = document.getElementById('container-cards');
                 cards.innerHTML = lista.map(n => {
                     
-                    // LÓGICA DIRETA: SEMPRE GOOGLE SHOPPING
                     const linkFinal = `https://www.google.com/search?q=comprar+notebook+${encodeURIComponent(n.modelo)}&tbm=shop`;
-
-                    // MENSAGEM DO WHATSAPP
                     const textoWhats = encodeURIComponent(`Oi! Veja este notebook que o Simpli recomendou: ${n.modelo}. Pesquisa de preços aqui: ${linkFinal}`);
                     const linkWhats = `https://wa.me/?text=${textoWhats}`;
 
@@ -83,10 +78,14 @@
                                     <span class="text-2xl font-black text-green-400 bg-green-400/10 px-4 py-2 rounded-2xl">${n.preco}</span>
                                 </div>
                                 <h2 class="text-2xl font-bold mb-4">${n.modelo}</h2>
-                                <div class="grid grid-cols-2 gap-4 text-[10px] bg-gray-900/50 p-5 rounded-3xl mb-8 border border-gray-700/50">
+                                
+                                <div class="grid grid-cols-2 gap-x-6 gap-y-4 text-[10px] bg-gray-900/50 p-6 rounded-3xl mb-8 border border-gray-700/50">
                                     <p><span class="text-gray-500 block font-bold mb-1 uppercase tracking-tighter">Processador</span>${n.cpu}</p>
                                     <p><span class="text-gray-500 block font-bold mb-1 uppercase tracking-tighter">Memória</span>${n.ram}</p>
+                                    <p><span class="text-gray-500 block font-bold mb-1 uppercase tracking-tighter">Armazenamento</span>${n.ssd}</p>
+                                    <p><span class="text-gray-500 block font-bold mb-1 uppercase tracking-tighter">Tela</span>${n.tela}</p>
                                 </div>
+
                                 <p class="text-gray-400 text-sm italic mb-10 leading-relaxed">"${n.analise}"</p>
                                 
                                 <div class="flex gap-3">
