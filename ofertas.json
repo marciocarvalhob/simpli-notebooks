@@ -2,32 +2,66 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-NP550XED-KF4BR-Grafite/dp/B0BFDPYV9H",
-      "foto": "https://m.media-amazon.com/images/I/71N7x7K+g-L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD NVMe + 1 TB HDD (híbrido)",
-      "tela": "IPS Full HD",
-      "analise": "Excelente equilíbrio entre desempenho para tarefas diárias e tela IPS de boa qualidade. O armazenamento híbrido é um diferencial. Processador de 12ª geração garante fluidez.",
+      "modelo": "Acer Aspire 5 A515-58P-560J",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.lojaacer.com.br/notebook-acer-aspire-5-a515-58p-560j-intel-core-i5-1335u-8gb-512gb-ssd-15-6-fhd-ips-windows-11-silver/p",
+      "foto": "https://cdn.dooca.store/14494/products/notebook-acer-aspire-5-a515-58p-560j-intel-core-i5-1335u-8gb-512gb-ssd-15-6-fhd-ips-windows-11-silver.jpg?v=1700259838",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR5",
+      "ssd": "512GB NVMe PCIe Gen4",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Excelente equilíbrio entre performance e tela. O processador de 13ª geração e o SSD rápido garantem fluidez para multitarefas e produtividade. A tela IPS é um grande diferencial para consumo de mídia e trabalho com imagens.",
       "notas": {
-        "performance": 8,
+        "performance": 9,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-57-54J6",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-intel-core-i5-1235u-8gb-ram-256gb-ssd-tela-15-6-full-hd-windows-11-silver-a515-57-54j6/p/236113900/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-intel-core-i5-1235u-8gb-ram-256gb-ssd-tela-15-6-full-hd-windows-11-silver-a515-57-54j6/magazineluiza/236113900/600bf867c46923b7a5a8164bb853198e.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD NVMe",
-      "tela": "IPS Full HD",
-      "analise": "Um clássico da Acer, este Aspire 5 oferece um ótimo processador de 12ª geração e tela IPS, ideal para produtividade e consumo de mídia. Possui bom desempenho para o dia a dia.",
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG4BR",
+      "preco": "R$ 3.806,40",
+      "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book4-intel-core-i5-1335u-156-8gb-ram-256gb-ssd-windows-11-home-np750xgj-kg4br/p/MLB28120359?pdp_filters=category:MLB1652#reco_item_pos=3&reco_backend=url_param&reco_backend_type=URL_PARAM&reco_client=home_navigation-recommendations&reco_id=f0144f80-77a7-4f81-8b01-9f9b5a1b5590",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLA74071370845_012024-F.webp",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR4X",
+      "ssd": "256GB NVMe SSD (com slot adicional)",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Um notebook com design premium e leve. O processador de 13ª geração oferece desempenho sólido para diversas tarefas. A tela IPS e a integração com o ecossistema Samsung são pontos fortes. O SSD de 256GB pode ser uma limitação para alguns, mas há a possibilidade de upgrade.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 15AMN8 (Ryzen 5 7520U)",
+      "preco": "R$ 2.469,00",
+      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3-15amn8-82xq00rsus-amd-ryzen-5-7520u-8gb-ram-ddr5-512gb-ssd-m2-156-fhd-ips-tela-sensivel-ao-toque-teclado-ingles-retroiluminado-em-ingles-cor-da-tela-de-toque-cinza-artico-hf/p/MLB28509838?pdp_filters=category:MLB1652#reco_item_pos=0&reco_backend=url_param&reco_backend_type=URL_PARAM&reco_client=home_navigation-recommendations&reco_id=f0144f80-77a7-4f81-8b01-9f9b5a1b5590",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704705-MLA74606259020_022024-F.webp",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB DDR5",
+      "ssd": "512GB NVMe M.2",
+      "tela": "IPS Full HD (1920x1080) Touchscreen",
+      "analise": "Excelente opção de entrada, com um processador Ryzen 5 moderno e 8GB de RAM DDR5, o que garante bom desempenho para o dia a dia. A tela IPS touchscreen é um diferencial impressionante para a faixa de preço, oferecendo versatilidade.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "ASUS Vivobook 15 X1504VA-NJ1741 (Linux)",
+      "preco": "R$ 2.974,00",
+      "link": "https://www.kabum.com.br/produto/505378/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-ssd-512gb-linux-keepos-intel-iris-xe-tela-15-6-led-fhd-silver-nj1741",
+      "foto": "https://images.kabum.com.br/produtos/fotos/505378/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-ssd-512gb-linux-keepos-intel-iris-xe-tela-15-6-led-fhd-silver-nj1741_1707936162_g.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB RAM",
+      "ssd": "512GB SSD",
+      "tela": "LED Full HD (1920x1080) IPS",
+      "analise": "Configuração robusta com processador Intel Core i5 de 13ª geração e 512GB de SSD. Embora o sistema operacional seja Linux (KeepOS), é facilmente substituível por Windows, o que o torna uma excelente base para um notebook de alto desempenho a um preço muito competitivo, com tela IPS.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -35,54 +69,20 @@
       }
     },
     {
-      "posicao": 3,
-      "modelo": "ASUS VivoBook 15 X1502ZA (Variante com IPS)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.kabum.com.br/produto/423351/notebook-asus-vivobook-15-intel-core-i5-1235u-8gb-ram-256gb-ssd-15-6-full-hd-windows-11-cinza-x1502za-ej1167w",
-      "foto": "https://images.kabum.com.br/produtos/fotos/423351/notebook-asus-vivobook-15-intel-core-i5-1235u-8gb-ram-256gb-ssd-15-6-full-hd-windows-11-cinza-x1502za-ej1167w_1669828859_g.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD NVMe",
-      "tela": "IPS Full HD",
-      "analise": "O VivoBook 15 é uma opção sólida, com processador Intel de 12ª geração e design elegante. É importante verificar a variante com painel IPS, pois há modelos TN. Bom para uso geral e estudos.",
-      "notas": {
-        "performance": 8,
-        "tela": 7,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad 3i (Variante com IPS)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Intel-i5-1135G7/dp/B0BPXJ14F2",
-      "foto": "https://m.media-amazon.com/images/I/61iVvW8NqJL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD NVMe",
-      "tela": "IPS Full HD",
-      "analise": "O IdeaPad 3i com Core i5 de 11ª geração oferece bom desempenho para as tarefas diárias. É crucial buscar as versões com painel IPS, que proporcionam melhor experiência visual em comparação com as variantes TN.",
-      "notas": {
-        "performance": 7,
-        "tela": 7,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "Dell Inspiron 15 (Variante com IPS)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.dell.com/pt-br/shop/laptops/notebook-inspiron-15/spd/inspiron-15-3520-laptop",
-      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-laptop-gallery-1?op_usm=1.75,0.3,2,0&fit=max&wid=4000&hei=3000&fmt=jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD NVMe",
-      "tela": "IPS Full HD",
-      "analise": "A linha Inspiron 15 é conhecida pela confiabilidade Dell. Versões mais recentes podem incluir painel WVA (similar ao IPS) para melhor qualidade de imagem. Ideal para quem busca uma marca com boa assistência.",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.099,00",
+      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe69f11x-b0411h/",
+      "foto": "https://br.vaio.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/f/e/fe16_amd_cinza_grafite.png",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS WUXGA (1920x1200) Antirreflexo",
+      "analise": "O VAIO FE16 oferece uma tela WUXGA de 16 polegadas com proporção 16:10, excelente para produtividade. O Ryzen 5 5625U entrega bom desempenho para o dia a dia e multitarefas. O SSD de 256GB pode ser um gargalo para alguns, mas o conjunto geral é muito bom para o preço.",
       "notas": {
         "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 7
+        "tela": 9,
+        "custo_beneficio": 8
       }
     }
   ]
