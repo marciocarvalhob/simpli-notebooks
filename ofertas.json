@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Positivo Vision R15M (AMD Ryzen 5 5625U)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto",
-      "foto": "https://images.loja.positivo.com.br/Positivo_Vision_R15M_AMD_Ryzen_5_5625U_Linux_16GB_RAM_512GB_SSD_Wi_Fi_6_15_Full_HD_IPS_Minitela_Preto_1.png",
+      "modelo": "Positivo Vision R15M AMD Ryzen 5",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-r516512bi-15-amd-ryzen-5-5625u-156-fhd-16gb-ram-512gb-ssd-linux-cinza-grafite/p/MLB25016027",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910384-MLA72087262947_092023-F.webp",
       "cpu": "AMD Ryzen 5 5625U",
-      "ram": "16GB DDR4 3200MHz (expansível até 64GB)",
-      "ssd": "512GB NVMe PCIe (expansível até 4TB)",
-      "tela": "IPS Full HD 15.6'' (1920x1080) antirreflexo 60Hz com Minitela 1.54\" IPS",
-      "analise": "Um excelente custo-benefício com processador potente da série 5000U, 16GB de RAM e SSD generoso. O diferencial da minitela é uma inovação interessante para produtividade. A tela IPS principal garante ótima qualidade visual.",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "O Positivo Vision R15M oferece um excelente conjunto com Ryzen 5 de boa performance, 16GB de RAM e SSD rápido, tudo em um chassi com tela IPS de qualidade. Ótimo para produtividade e multitarefas.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R2A3 (AMD Ryzen 5 5500U)",
-      "preco": "R$ 2.822,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R2A3-Windows/dp/B0BP386T1Z",
-      "foto": "https://m.media-amazon.com/images/I/71I3Rk9J+pL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível até 20GB)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6'' (1920x1080) 60Hz",
-      "analise": "Ótima opção para uso geral, com um Ryzen 5 5500U que oferece bom desempenho para multitarefas e edição leve. A tela IPS é um ponto forte nesta faixa de preço. O SSD de 512GB é um bom ponto de partida.",
+      "modelo": "Acer Aspire Go 15 AG15-31P-39MU",
+      "preco": "R$ 3.200,99",
+      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-go-15-intel-core-i3-1305u-8gb-256gb-ssd-windows-11-15-3-ips-full-hd-prata-ag15-31p-39mu/p/237276900/in/note/?&seller_id=aceroficial",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-acer-aspire-go-15-intel-core-i3-1305u-8gb-256gb-ssd-windows-11-15-3-ips-full-hd-prata-ag15-31p-39mu/aceroficial/237276900/d7788421b8f1c8411b06822fcb82522e.jpeg",
+      "cpu": "Intel Core i3 1305U",
+      "ram": "8GB DDR5",
+      "ssd": "256GB SSD PCIe NVMe",
+      "tela": "IPS Full HD 15.3\"",
+      "analise": "Com um processador de 13ª geração e 8GB de RAM DDR5, este Aspire Go 15 entrega boa performance para o dia a dia e estudos, destacando-se pela tela IPS e bom custo-benefício.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3i (Intel Core i5-13420H)",
-      "preco": "R$ 3.525,14",
-      "link": "https://www.fastshop.com.br/web/p/produto/lenovo-ideapad-slim-3i-intel-core-i5-13420h-8gb-512gb-ssd-linux-153-wuxga-fastshop-83ns0002br/LV83NS0002BR",
-      "foto": "https://img.fastshop.com.br/83NS0002BR/LV83NS0002BR_PM1_93610.jpg",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR5 4800MHz (soldado, algumas versões com slot SO-DIMM livre para expansão)",
-      "ssd": "512GB SSD M.2 PCIe Gen4",
-      "tela": "IPS WUXGA 15.3'' (1920x1200) antirreflexo",
-      "analise": "Excelente performance para produtividade com o i5 de 13ª geração e RAM DDR5. A tela WUXGA IPS oferece um pouco mais de espaço vertical, ideal para trabalho. O preço pode variar, mas é uma ótima compra.",
+      "modelo": "Samsung Galaxy Book4 NP750XGK-KF5BR",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book4-15-inch-i3-8gb-256gb-np750xgk-kf5br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgk-kf5br/gallery/br-galaxy-book4-np750xgk-kf5br-np750xgk-kf5br-539066699?$GM_PRD_IMAGE_CHANNEL_SEARCH_RESULT_MO$",
+      "cpu": "Intel Core i3 1315U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe SSD",
+      "tela": "LED Full HD 15.6\" (IPS-like)",
+      "analise": "O Galaxy Book4 é uma opção sólida para quem busca integração com o ecossistema Samsung e um design premium. O processador de 13ª geração e a tela de qualidade garantem uma boa experiência. A tela Samsung é classificada como 'LED Full HD', mas em testes práticos, entrega qualidades visuais muito próximas ao IPS.",
       "notas": {
-        "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "ASUS Vivobook 15 M1502YA (AMD Ryzen 7 5825U)",
-      "preco": "R$ 3.399,15",
-      "link": "https://www.kabum.com.br/produto/478580/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512gb-ssd-linux-keepos-15",
-      "foto": "https://images.kabum.com.br/produtos/fotos/478580/478580_1688640306_p.jpg",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB RAM (expansível)",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD 15.6'' (1920x1080) antirreflexo",
-      "analise": "Um processador Ryzen 7 oferece poder de fogo para multitarefas mais exigentes e até mesmo edição de vídeo leve. A tela IPS é um bônus, e a capacidade de upgrade da RAM o torna mais versátil.",
-      "notas": {
-        "performance": 9,
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR (Intel Core i5-1235U)",
-      "preco": "R$ 3.899,00",
-      "link": "https://www.samsung.com/br/notebooks/galaxy-book/galaxy-book2-15inch-i5-8gb-256gb-np550xed-kf2br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-graphite-thumb-535352328?$344_344_PNG$",
-      "cpu": "Intel Core i5-1235U",
+      "posicao": 4,
+      "modelo": "Dell Inspiron 15 3530 Intel Core i3 1305U",
+      "preco": "R$ 3.039,05",
+      "link": "https://www.extra.com.br/notebook-dell-inspiron-15-3530-intel-i3-1305u-15-6-8gb-ssd-1tb-windows-11-brpichbto3530gqbtw/p/55078519",
+      "foto": "https://www.extra-imagens.com.br/fotos/55078519/Multi/55078519_1_X.jpg",
+      "cpu": "Intel Core i3 1305U",
       "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
-      "tela": "Full HD LED 15.6''",
-      "analise": "Um notebook equilibrado para uso diário e estudos, com um processador Intel de 12ª geração e design elegante. Embora algumas versões mais antigas pudessem ter telas TN, esta configuração é tipicamente associada a painéis de melhor qualidade (WVA/IPS-level). O SSD de 256GB é o mínimo recomendado.",
+      "ssd": "1TB SSD NVMe",
+      "tela": "WVA Full HD 15.6\" (IPS-like)",
+      "analise": "Com um Intel Core i3 de 13ª geração e um SSD generoso de 1TB, este Dell Inspiron 15 é excelente para quem precisa de bastante espaço de armazenamento e uma experiência fluida no dia a dia. A tela WVA oferece bons ângulos de visão.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 7
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Positivo Vision i15M Intel Core i3-N300",
+      "preco": "R$ 2.369,00",
+      "link": "https://produto.mercadolivre.com.br/MLB-3075276329-notebook-positivo-vision-i15m-intel-core-i3-n300-16gb-256gb-ssd-156-fhd-ips-linux-preto-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_824147-MLA73570375960_122023-F.webp",
+      "cpu": "Intel Core i3-N300",
+      "ram": "16GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Para o segmento de entrada, este Positivo se destaca pelos 16GB de RAM e a tela IPS, raros nesta faixa de preço. Ideal para uso básico a intermediário com foco em produtividade e excelente custo-benefício.",
+      "notas": {
+        "performance": 6,
+        "tela": 9,
+        "custo_beneficio": 10
       }
     }
   ]
