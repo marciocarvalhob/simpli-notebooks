@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3 83MM0004BO (AMD Ryzen 7-7735HS)",
-      "preco": "R$ 3.233,00",
-      "link": "https://www.shopee.com.br/lenovo-ideapad-slim-3-83mm0004bo-amd-ryzen-7-7735hs-i.XXXXXXXX.XXXXXXXXX",
-      "foto": "URL da imagem (Não disponível diretamente na busca, buscar imagem genérica do modelo)",
-      "cpu": "AMD Ryzen 7-7735HS",
-      "ram": "8GB (expansível até 40GB)",
-      "ssd": "512GB",
-      "tela": "IPS WUXGA (1920x1200)",
-      "analise": "Excelente desempenho com o Ryzen 7 de última geração e tela WUXGA de alta qualidade. Ótimo para produtividade e multitarefas. A memória RAM é expansível, um grande diferencial.",
+      "modelo": "Positivo Vision R15",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15-amd-ryzen-5-5500u-16gb-512gb-ssd-radeon-vega-7-ips-full-hd-windows-11/p/237220500/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-positivo-vision-r15-amd-ryzen-5-5500u-16gb-512gb-ssd-radeon-vega-7-ips-full-hd-windows-11/magazineluiza/237220500/7a3424d193d5c9533a825b06d8601662.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "Excelente custo-benefício com tela IPS de boa qualidade e processador Ryzen 5 que oferece desempenho robusto para multitarefas e até jogos leves. A capacidade de RAM de 16GB de fábrica é um diferencial na faixa de preço.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Positivo Vision R15M R516512BI-15 (AMD Ryzen 5 5625U)",
-      "preco": "R$ 2.701,00",
-      "link": "https://www.shopee.com.br/positivo-vision-r15m-r516512bi-15-amd-ryzen-5-5625u-i.XXXXXXXX.XXXXXXXXX",
-      "foto": "URL da imagem (Não disponível diretamente na busca, buscar imagem genérica do modelo)",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "16GB (expansível até 64GB)",
-      "ssd": "512GB",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Configuração robusta com Ryzen 5 e 16GB de RAM, ideal para quem precisa de mais memória. Tela IPS de boa qualidade e ótimo custo-benefício para trabalho e estudo.",
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
+      "preco": "R$ 3.329,10",
+      "link": "https://www.casasbahia.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-156-full-hd-led-155-kg-grafite/p/55073040/pr/1000216713?sellerid=25573489000100",
+      "foto": "https://www.casasbahia.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-156-full-hd-led-155-kg-grafite/p/55073040/Im.55073040.jpg",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8GB LPDDR4X",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD",
+      "analise": "Com um design premium em metal e processador Intel de 13ª geração, oferece ótima experiência para uso diário e estudos. A tela IPS e a construção de qualidade justificam o investimento para quem busca um notebook equilibrado e portátil.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 3,
-      "modelo": "Samsung Galaxy Book2 (Intel Core i5-1235U)",
-      "preco": "R$ 3.899,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15-inch-i5-8gb-256gb-np550xed-kf2br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-532296767?$GM_PRD_IMAGE_ZOOM$",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB",
-      "ssd": "256GB",
-      "tela": "Full HD LED (IPS não explicitamente confirmado em todas as fontes, mas geralmente em modelos Book2)",
-      "analise": "Design premium e boa integração com o ecossistema Samsung. O processador Intel de 12ª geração oferece performance sólida para o uso diário. A tela, embora não sempre especificada como 'IPS' diretamente nas buscas brasileiras, tende a ter boa qualidade visual nos modelos Book2.",
+      "modelo": "Lenovo IdeaPad Slim 3 15amn8 (Ryzen 5 7520U)",
+      "preco": "R$ 2.469,55",
+      "link": "https://produto.mercadolivre.com.br/MLB-4581452932-lenovo-ideapad-slim-3-15amn8-82xq00rsus-amd-ryzen-5-7520u-8gb-ram-ddr5-512gb-ssd-m2-156-fhd-ips-tela-sensivel-ao-toque-teclado-ingls-retroiluminado-em-ingls-cor-da-tela-de-toque-cinza-artico-hf-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_792518-MLU75908359737_042024-F.webp",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB DDR5",
+      "ssd": "512GB SSD M.2",
+      "tela": "IPS Full HD (Touchscreen)",
+      "analise": "O processador Ryzen 7000-series e a memória DDR5 garantem bom desempenho para as tarefas cotidianas, com a vantagem de uma tela IPS Full HD sensível ao toque. O grande SSD de 512GB é um bônus.",
       "notas": {
         "performance": 8,
-        "tela": 7,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-45-R043 (AMD Ryzen 5 5500U)",
-      "preco": "R$ 3.399,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-XXXXXXXX-notebook-acer-aspire-5-a515-45-r043-amd-ryzen-5-5500u-16-gb-ddr4-512-gb-ssd-tela-156-fhd-ips-windows-11-home-wi-fi-6-_JM",
-      "foto": "URL da imagem (Não disponível diretamente na busca, buscar imagem genérica do modelo)",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Uma excelente combinação de hardware com o Ryzen 5, 16GB de RAM e 512GB de SSD. A tela IPS e o Wi-Fi 6 complementam um pacote muito bom para diversas tarefas.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Lenovo IdeaPad 3 15ITL6 (Intel Core i5-1135G7)",
-      "preco": "R$ 2.949,00",
-      "link": "https://www.kabum.com.br/produto/XXXXXX/notebook-lenovo-ideapad-slim-3i-core-i5-1135g7-8gb-ram-512gb-ssd-tela-15-6-fhd-win11",
-      "foto": "URL da imagem (Não disponível diretamente na busca, buscar imagem genérica do modelo)",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Opção equilibrada com processador Intel de 11ª geração e 512GB de SSD. A tela IPS garante boa experiência visual para trabalho e consumo de conteúdo. Um sólido custo-benefício para uso geral.",
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-45-R478",
+      "preco": "R$ 3.779,91",
+      "link": "https://www.netshoes.com.br/notebook-acer-aspire-a515-45-r1ac-ryzen-5-5500u-memoria-8gb-ddr4-ssd-256gb-tela-15.6--IPS-60Hz-Unissex-062-8179-110",
+      "foto": "https://static.netshoes.com.br/produtos/notebook-acer-aspire-a515-45-r1ac-ryzen-5-5500u-memoria-8gb-ddr4-ssd-256gb-tela-15.6-ips-60hz-unissex/10/062-8179-110/062-8179-110_zoom1.jpg?ts=1700683246&ims=544x",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um clássico da Acer, este modelo com Ryzen 5 5500U oferece um bom equilíbrio entre desempenho e durabilidade. A tela IPS Full HD é ideal para consumo de conteúdo e trabalho com imagens.",
       "notas": {
         "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "VAIO FE16 AMD Ryzen 7-5825U",
+      "preco": "R$ 3.799,01",
+      "link": "https://shopee.com.br/Notebook-VAIO-FE16-AMD-Ryzen-7-5825U-Linux-24GB-RAM-512GB-SSD-16-IPS-WUXGA-Antirreflexo---Cinza-i.480088219.22986423588",
+      "foto": "https://down-br.img.susercontent.com/file/sg-11134201-22120-u7p0hax18mvb20",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "24GB RAM",
+      "ssd": "512GB SSD",
+      "tela": "IPS WUXGA (1920x1200)",
+      "analise": "Para quem busca mais performance e uma tela de maior resolução (WUXGA é superior a Full HD), o VAIO FE16 com Ryzen 7 e 24GB de RAM é uma opção robusta. Ideal para multitarefas pesadas e produtividade.",
+      "notas": {
+        "performance": 9,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     }
   ]
