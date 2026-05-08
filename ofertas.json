@@ -2,32 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Positivo Vision R15M AMD Ryzen 5-5625U",
-      "preco": "R$ 3.139,00",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-preto/p/MLB25470438",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_906935-MLA75590924151_042024-O.webp",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe SSD (expansível)",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.samsung.com/br/notebooks/galaxy-book/galaxy-book2-i5-12th-gen-np550xed-kf2br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-silver-thumb-533596238?$SG_THUMB_TYPE$",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício com processador Ryzen 5 de boa performance para multitarefas e gráficos integrados competentes. A tela IPS é um diferencial na categoria. Vem com Linux, mas a instalação do Windows é direta.",
-      "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "Dell Inspiron 15 3530 (i1300-A30P)",
-      "preco": "R$ 3.000,00",
-      "link": "https://www.dell.com/pt-br/shop/notebooks-dell/novo-inspiron-15/spd/inspiron-15-3530-laptop/cai15_i1300_a30p",
-      "foto": "https://i.dell.com/is/image/DellIns/inspiron-15-3530-laptop-gallery-1?op_usm=acutex,2&fit=bounds&wid=500&hei=400",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR4 (expansível até 32GB)",
-      "ssd": "512GB NVMe SSD (expansível)",
-      "tela": "WVA Full HD 15.6\" 120Hz",
-      "analise": "Uma opção robusta com Intel Core i5 de 13ª geração e SSD generoso. A tela WVA (similar ao IPS) de 120Hz oferece fluidez extra, ideal para uso geral e consumo de mídia. Marca com boa reputação de pós-venda.",
+      "analise": "Excelente equilíbrio entre desempenho e portabilidade. A tela IPS é um diferencial, e o processador de 12ª geração garante boa fluidez para multitarefas. Bom para estudos e trabalho.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -35,33 +18,50 @@
       }
     },
     {
+      "posicao": 2,
+      "modelo": "ASUS Vivobook 15 X1504V (similar ao X1504VA-EJ1132W)",
+      "preco": "R$ 3.078,00",
+      "link": "URL da loja pode variar, busca por 'ASUS Vivobook 15 i5 13ª geração IPS'",
+      "foto": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-15-x1504/images/Vivobook_15_X1504.webp",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB DDR4 (4GB soldado + 4GB slot)",
+      "ssd": "256GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um dos melhores custo-benefício atuais, com processador de 13ª geração e tela IPS. Ideal para uso geral e produtividade. Verificar a configuração de RAM, pois há versões com 4GB onboard.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
       "posicao": 3,
-      "modelo": "ASUS VivoBook 16 X1605VA-MB742",
-      "preco": "R$ 3.200,00",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-X1605VA-MB742-processador/dp/B0BXZXW2G2",
-      "foto": "https://m.media-amazon.com/images/I/71YyP9fA+0L._AC_UF894,1000_QL80_.jpg",
-      "cpu": "Intel Core i7-1355U",
-      "ram": "8GB DDR4 (expansível até 24GB)",
-      "ssd": "512GB NVMe SSD (expansível)",
-      "tela": "IPS WUXGA 16.0\" (1920x1200)",
-      "analise": "Destaque pelo processador Core i7 de 13ª geração e tela IPS WUXGA de 16 polegadas, oferecendo mais espaço de trabalho vertical. Boa opção para produtividade e multitarefas.",
+      "modelo": "Lenovo IdeaPad Slim 3i 83NS0002BR (ou similar com tela WUXGA WVA)",
+      "preco": "R$ 3.799,00",
+      "link": "URL da loja pode variar, buscar por 'Lenovo IdeaPad Slim 3i i5-13420H'",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3-15-intel-hero-removebg.png?context=bWFzdGVyfHJvb3R8MTU4Nzc3fGltYWdlL3BuZ3xoMjUvaDQ4Lzk2MzM5OTYyNTU2NDYucG5nfGFlM2ZhZTQ5ZGM3YjI3NGZlMTVkN2VmNjNhNzMzMGM3Y2UwODZlNTU2ZjI0YTE1OTgzNzQ5YzVmYzVkOTFiMTc",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5 4800MHz",
+      "ssd": "512GB NVMe PCIe 4.0",
+      "tela": "WVA WUXGA 15.3\" (1920x1200)",
+      "analise": "Com um processador da série 'H', oferece desempenho superior para multitarefas. A tela WUXGA WVA de 16:10 é excelente para produtividade, com cores precisas e ângulos de visão amplos, similar ao IPS.",
       "notas": {
         "performance": 9,
         "tela": 9,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-45-r2a3",
+      "modelo": "Acer Aspire Go 15 AAG15-31-50E6 (ou similar i5 IPS)",
       "preco": "R$ 3.499,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R2A3-processador/dp/B0BDXF1M1B",
-      "foto": "https://m.media-amazon.com/images/I/61Kq-gQ30kL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe SSD",
+      "link": "URL da loja pode variar, buscar por 'Acer Aspire Go 15 i5 IPS'",
+      "foto": "https://static.acer.com/up/Resource/Acer/Laptops/Aspire_Go/Images/20230907/Acer-Aspire-Go-15-AAG15-31-AAG15-31P-AAG15-31T-AAG15-31PT-Black-01.png",
+      "cpu": "Intel Core i5-1334U (estimado)",
+      "ram": "8GB DDR5",
+      "ssd": "256GB NVMe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Um sólido intermediário com processador Ryzen 5 e 512GB de SSD, garantindo agilidade no sistema. A tela IPS Full HD é padrão para boa experiência visual. Ideal para quem busca um equilíbrio entre performance e preço.",
+      "analise": "Uma opção recente da Acer focada em custo-benefício. A tela IPS proporciona boa qualidade de imagem, e o processador i5 de 13ª geração é adequado para tarefas diárias e estudos.",
       "notas": {
         "performance": 7,
         "tela": 8,
@@ -70,18 +70,18 @@
     },
     {
       "posicao": 5,
-      "modelo": "VAIO FE16 (VJF161F11X-B0721L)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.kabum.com.br/produto/496095/notebook-vaio-fe16-amd-ryzen-7-5825u-16gb-ram-512gb-ssd-linux-prata-vjf161f11x-b0721l",
-      "foto": "https://images.kabum.com.br/produtos/fotos/496095/notebook-vaio-fe16-amd-ryzen-7-5825u-16gb-ram-512gb-ssd-linux-prata-vjf161f11x-b0721l_1693427993_g.jpg",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 16.0\"",
-      "analise": "Com um Ryzen 7 e 16GB de RAM, este VAIO FE16 oferece excelente performance para multitarefas e até edição leve. A tela IPS de 16 polegadas maximiza o espaço de trabalho. Embora o preço esteja no limite superior, as especificações justificam o investimento para usuários mais exigentes.",
+      "modelo": "Acer Aspire 5 A515-45-R478 (com 8GB RAM e Ryzen 5 5500U)",
+      "preco": "R$ 3.599,00",
+      "link": "URL da loja pode variar, buscar por 'Acer Aspire 5 R5 5500U IPS 8GB SSD 256GB'",
+      "foto": "https://images.kabum.com.br/produtos/fotos/952233/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta_1688665045_g.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "O Acer Aspire 5 é um clássico do custo-benefício. Com o Ryzen 5 5500U e tela IPS, oferece bom desempenho para uso geral e a possibilidade de upgrade de RAM aumenta sua longevidade.",
       "notas": {
-        "performance": 9,
-        "tela": 9,
+        "performance": 7,
+        "tela": 8,
         "custo_beneficio": 9
       }
     }
