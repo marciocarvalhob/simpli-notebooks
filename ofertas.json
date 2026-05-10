@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire Go 15 AG15-51P-55LL",
-      "preco": "R$ 3.013,00",
-      "link": "https://www.amazon.com.br/Acer-AG15-51P-55LL-i5-1334U-Windows-Teclado/dp/B0CQCQ8N6T (ou similar, preço e disponibilidade podem variar)",
-      "foto": "https://m.media-amazon.com/images/I/71Y8s4h4RPL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR5 (expansível até 64GB)",
-      "ssd": "256GB SSD NVMe (expansível)",
-      "tela": "IPS WUXGA 15.3\" (1920x1200)",
-      "analise": "Excelente custo-benefício para produtividade e estudos, com um processador de 13ª geração e tela WUXGA IPS de alta qualidade. A RAM DDR5 é um diferencial.",
+      "modelo": "Acer Aspire 5 A515-58M-57J8",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-58M-57J8-Processador/dp/B0CKZJNY5L/",
+      "foto": "https://m.media-amazon.com/images/I/71Yt4X0r0oL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1335U (13ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente equilíbrio entre performance e tela. O Core i5 de 13ª geração e o SSD de 512GB garantem fluidez para multitarefas e produtividade. A tela IPS é um grande diferencial para trabalho e consumo de mídia.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,32 +19,15 @@
     },
     {
       "posicao": 2,
-      "modelo": "Samsung Galaxy Book4 (NP750XGJ-KG7BR ou similar)",
-      "preco": "R$ 3.480,00",
-      "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-156-full-hd-led-155-kg-grafite/p/MLB28157929 (ou similar, verificar i5 para melhor performance)",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_904323-MLB75276595514_032024-O.webp",
-      "cpu": "Intel Core i3-1315U (ou i5-1335U em outras configurações)",
-      "ram": "8GB",
-      "ssd": "256GB SSD (expansível)",
+      "modelo": "ASUS Vivobook 15 X1502ZA-EJ1342W",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.kabum.com.br/produto/478586/notebook-asus-vivobook-15-intel-core-i5-1240p-8gb-ram-256gb-ssd-15-6-full-hd-windows-11-x1502za-ej1342w",
+      "foto": "https://images.kabum.com.br/produtos/fotos/478586/notebook-asus-vivobook-15-intel-core-i5-1240p-8gb-ram-256gb-ssd-15-6-full-hd-windows-11-x1502za-ej1342w_1699564205_g.jpg",
+      "cpu": "Intel Core i5-1240P (12ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Design premium, leve e com boa bateria, ideal para quem busca mobilidade. A tela IPS é um grande atrativo para consumo de mídia e trabalho.",
-      "notas": {
-        "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "VAIO FE16 VJFE69F11X-B0711S (ou similar)",
-      "preco": "R$ 3.059,90",
-      "link": "https://www.pontofrio.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-512gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite-55070289/p/55070289 (ou similar, preço e disponibilidade podem variar)",
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG5dY911VzFj3b2L5e0j-k42M-Vl0X0lQ_g&s",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB SSD NVMe",
-      "tela": "IPS WUXGA 16\" (1920x1200)",
-      "analise": "Destaca-se pela tela grande de 16 polegadas com painel IPS de alta qualidade e o processador Ryzen 5, que oferece excelente performance multitarefa para o dia a dia e até edição leve.",
+      "analise": "Processador i5 de 12ª geração com boa performance e tela IPS. O SSD de 256GB é razoável, mas a qualidade de tela e o custo-benefício o tornam uma ótima opção para uso geral.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -52,37 +35,54 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-45-R478",
-      "preco": "R$ 3.669,00",
-      "link": "https://www.kabum.com.br/produto/166947/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r",
-      "foto": "https://images.kabum.com.br/produtos/fotos/166947/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r_1638361719_g.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\" 60Hz",
-      "analise": "Configuração robusta com 16GB de RAM e 512GB de SSD, ideal para usuários que exigem mais desempenho em multitarefas e aplicativos mais exigentes. Tela IPS de qualidade.",
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 82XM0002BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-amd-ryzen-5-7520u-8gb-ssd-256gb-15-6-full-hd-windows-11-prata/p/236167800/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-lenovo-ideapad-slim-3-amd-ryzen-5-7520u-8gb-ssd-256gb-15-6-full-hd-windows-11-prata/magazineluiza/236167800/1057778b4ed76722d32dd32a76f2f270.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8 GB LPDDR5",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Bom desempenho para a categoria com o Ryzen 5 e RAM LPDDR5. A tela IPS e o design fino são pontos fortes. O SSD de 256GB é padrão, mas suficiente para a maioria dos usuários.",
       "notas": {
-        "performance": 9,
+        "performance": 7,
         "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG7BR",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.magazinevoce.com.br/magazinejuniorsan/notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-256gb-ssd-156-full-hd-ips-windows-11/p/237075700/in/nbok/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-256gb-ssd-156-full-hd-ips-windows-11/magazinejuniorsan/237075700/6908226ecf1373303d8d59d1c92ac192.jpg",
+      "cpu": "Intel Core i5-1335U (13ª Geração)",
+      "ram": "8 GB LPDDR4x",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Design elegante e tela IPS de excelente qualidade. O Core i5 de 13ª geração oferece desempenho sólido para uso diário e multitarefas. O SSD de 256GB é o mínimo recomendado.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Positivo Vision R15M (Ryzen 5 5625U)",
-      "preco": "R$ 2.969,00",
-      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-8gb-256gb-ssd-windows-11-15-6-full-hd-ips-cinza/p/236166000/in/notb/",
-      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-8gb-256gb-ssd-windows-11-15-6-full-hd-ips-cinza/magazineluiza/236166000/7750730d1d6423a2b724f1146747d953.jpg",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB SSD NVMe",
+      "modelo": "Dell Inspiron 15 3520 (Configuração com i5)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.dell.com/pt-br/shop/laptops/notebook-inspiron-15/spd/inspiron-15-3520-laptop/cai153520w11p1650br0",
+      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-laptop-gallery-4?fmt=png-alpha&wid=516&hei=370",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Surpreende pelo conjunto equilibrado com tela IPS e um Ryzen 5, oferecendo um excelente custo-benefício para uso geral, estudos e trabalho em escritório. A RAM é expansível.",
+      "analise": "Opção confiável da Dell com tela IPS. O Core i5 de 12ª geração garante bom desempenho. A memória e o armazenamento são adequados para uso geral, e a marca oferece boa durabilidade.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 10
+        "custo_beneficio": 8
       }
     }
   ]
