@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
-      "preco": "R$ 3.229,05 - R$ 3.500,00",
-      "link": "https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book2-np550xed-kf3br-intel-core-i5-1235u-15-6-8gb-ssd-512-gb-windows-11",
-      "foto": "https://m.media-amazon.com/images/I/71I6I9c03tL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U (12ª Geração)",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "512GB SSD (com slot para expansão)",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um excelente equilíbrio entre performance e qualidade de tela para produtividade e multitarefas. O SSD de 512GB e a possibilidade de expansão são grandes atrativos.",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.519,12 (à vista no Pix)",
+      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-windows-11-home-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite",
+      "foto": "https://br.vaio.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/f/e/fe16-ryzen5-gray-front-aberto-com-logo-v_1.png",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS WUXGA (1920x1200) Antirreflexo de 16 polegadas",
+      "analise": "Excelente tela IPS WUXGA de 16 polegadas que oferece mais espaço vertical. O Ryzen 5 5625U garante ótimo desempenho para multitarefas e produtividade. Um conjunto muito equilibrado para o preço.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,68 +19,68 @@
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R1AC",
-      "preco": "R$ 3.000,00 - R$ 3.600,00",
-      "link": "https://www.kabum.com.br/produto/344015/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata-a515-45-r1ac",
-      "foto": "https://images.kabum.com.br/produtos/fotos/344015/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata-a515-45-r1ac_1669830500_g.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\" antirreflexo",
-      "analise": "Ótimo para multitarefas e produtividade com o Ryzen 5. A tela IPS e o Wi-Fi 6 são pontos fortes para quem busca boa conectividade e experiência visual.",
-      "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Dell Inspiron 15 3520 (i5-1235U)",
-      "preco": "R$ 3.500,00 - R$ 3.800,00",
-      "link": "https://baratoefacil.com.br/notebook-dell-inspiron-15-com-intel-core-i5-12a-geracao-8gb-ram-ssd-256gb-e-tela-full-hd-15-6/",
-      "foto": "https://baratoefacil.com.br/wp-content/uploads/2023/07/Inspiron-15-3520-i5-1235U-8GB-256GB-SSD-FHD-W11.webp",
-      "cpu": "Intel Core i5-1235U (12ª Geração)",
-      "ram": "8GB DDR4 3200MHz",
-      "ssd": "256GB SSD PCIe NVMe M.2",
-      "tela": "WVA Full HD 15.6\" 120Hz antirreflexo",
-      "analise": "Um notebook robusto com processador de 12ª geração e tela WVA de 120Hz, proporcionando boa fluidez. Ideal para uso geral e tarefas que exigem um pouco mais de desempenho gráfico.",
-      "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ836W",
-      "preco": "R$ 2.700,00 - R$ 3.200,00",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-7520U/dp/B0C39K9S4N",
-      "foto": "https://m.media-amazon.com/images/I/71YyP9Qk8VL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "512GB SSD PCIe NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício para tarefas diárias e consumo de mídia. A tela IPS e o SSD de 512GB são grandes vantagens nesta faixa de preço, aliado à boa portabilidade.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-34KT",
+      "preco": "R$ 3.299,00 (à vista no Pix)",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-ag15-51p-34kt-intel-core-i3-1215u-12-geracao-8gb-ddr5-256gb-ssd-nvme-tela-153-windows-11/p/MLB28373801",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704770-MLB74415513296_022024-F.webp",
+      "cpu": "Intel Core i3-1215U (12ª Geração)",
+      "ram": "8GB DDR5",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD (1920x1080) de 15.3 polegadas",
+      "analise": "Um dos melhores custo-benefício com Intel de 12ª geração e RAM DDR5. A tela IPS de 15.3 polegadas é um diferencial, e o SSD NVMe garante boa velocidade. Ideal para estudos e trabalho.",
       "notas": {
         "performance": 7,
-        "tela": 9,
+        "tela": 8,
         "custo_beneficio": 10
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Lenovo IdeaPad Slim 3 Core i5-13420H",
-      "preco": "R$ 3.600,00 - R$ 3.800,00",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-slim-series/IdeaPad-Slim-3i-Gen-8-15-inch-Intel/p/len101i0062",
-      "foto": "https://p3-ofp.static.pub/fes/cms/2023/03/17/l62f02f0p62m58c6wov797v90a8809985923.png",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB SSD PCIe NVMe",
-      "tela": "IPS Full HD 15.3\"",
-      "analise": "Um notebook com processador de 13ª geração focado em performance, ideal para quem precisa de mais poder de processamento. A tela IPS de 15.3\" com bordas finas garante uma boa experiência visual e a portabilidade é um diferencial.",
+      "posicao": 3,
+      "modelo": "Positivo Vision R15M AMD Ryzen 5-5625U",
+      "preco": "R$ 2.879,00 (à vista no Pix)",
+      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-ryzen-5-5625u-8gb-256gb-15-linux-minitela-r58256bi-15/p/237248100/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-positivo-vision-ryzen-5-5625u-8gb-256gb-15-linux-minitela-r58256bi-15/magazineluiza/237248100/b087a32ed3c47012301c37b6cf90f239.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD Antirreflexo de 15 polegadas",
+      "analise": "Um notebook com Ryzen 5 e tela IPS por um preço muito competitivo. Ótimo para usuários que buscam performance sólida para o dia a dia e um bom painel, mesmo vindo com Linux.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ836W",
+      "preco": "R$ 3.419,10 (à vista no Pix)",
+      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-e1504fa-nj836w/p/237257900/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-e1504fa-nj836w/magazineluiza/237257900/98d2495b45f1b1b072c47e70402b8b9f.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD (1920x1080) de 15.6 polegadas",
+      "analise": "O Vivobook Go 15 oferece um processador Ryzen série 7000 e 512GB de SSD, o que é excelente para o preço. A tela Full HD com tecnologia NanoEdge e antirreflexo é um grande benefício. Confirmação de tela IPS foi feita por verificação de especificações detalhadas do modelo E1504FA.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Acer Aspire 5 A515-45-R1AC",
+      "preco": "R$ 3.799,00 (à vista no Pix)",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R1AC-Prata/dp/B0B47Q5Y3J",
+      "foto": "https://m.media-amazon.com/images/I/61K53Wj+gSL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD (1920x1080) de 15.6 polegadas",
+      "analise": "Um clássico no mercado de custo-benefício, o Aspire 5 com Ryzen 5 5500U oferece um bom balanço entre desempenho e preço. A tela IPS é uma característica importante para quem busca qualidade de imagem.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
       }
