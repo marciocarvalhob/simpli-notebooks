@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15-i5-8gb-512gb-np550xed-kf3br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf3br/gallery/br-galaxy-book2-15inch-np550xed-kf3br-thumb-533033501",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080) antirreflexo",
-      "analise": "Excelente balanço entre performance para uso geral e qualidade de tela. O Core i5 de 12ª geração entrega agilidade para multitarefas e o SSD de 512GB garante velocidade no sistema. A tela IPS é um grande diferencial para quem busca cores precisas e bons ângulos de visão.",
+      "modelo": "Acer Aspire 5 A515-45-R1AC",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.kabum.com.br/produto/189873/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata-a515-45-r1ac",
+      "foto": "https://images.kabum.com.br/produtos/fotos/189873/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata-a515-45-r1ac_1639595503_g.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um excelente custo-benefício. O Ryzen 5 5500U oferece ótimo desempenho para multitarefas e produtividade. A tela IPS é um diferencial para consumo de conteúdo e trabalho com cores. Boa conectividade e possibilidade de upgrade de RAM e armazenamento.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 9
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R043",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-a515-45-r043-amd-ryzen-5-5500u-16-gb-ddr4-512-gb-ssd-tela-156-fhd-ips-windows-11-home-wi-fi-6/p/MLB19231807",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_779357-MLB72982847141_112023-O.webp",
+      "modelo": "Positivo Vision R15",
+      "preco": "R$ 2.599,00",
+      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15-amd-ryzen-5-5500u-linux-8gb-ram-256gb-ssd-15-6-ips-full-hd-tecla-copilot-preto/p/237243900/in/notb/",
+      "foto": "https://static. standardised.cdn.office/img/p/magazineluiza/p/237243900/1-Notebook-Positivo-Vision-R15-AMD-Ryzen-5-5500U-Linux-8GB-RAM-256GB-SSD-15-6-IPS-Full-HD-Tecla-Copilot-Preto_0.jpg",
       "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080)",
-      "analise": "Destaca-se pela excelente quantidade de RAM (16GB) e um processador Ryzen 5 5500U robusto para multitarefas e até edição leve. A tela IPS e o Wi-Fi 6 complementam um pacote muito atraente para produtividade e entretenimento.",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\" 300 nits",
+      "analise": "Surpreendente opção da Positivo. O Ryzen 5 5500U garante fluidez, e a tela IPS de 300 nits é superior para a faixa de preço. Possui webcam HD com Lumina Bar, interessante para videochamadas. Ótima portabilidade e bateria.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Positivo Vision R15M R5-5625U",
-      "preco": "R$ 2.706,00 (no Pix)",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB28678513",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_906354-MLB74581105423_022024-O.webp",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080) Antirreflexo",
-      "analise": "Um excelente custo-benefício, especialmente pelo processador Ryzen 5 5625U que oferece ótima performance na faixa. A tela IPS Full HD é um diferencial importante, e a possibilidade de upgrade de RAM e SSD aumenta sua longevidade. O Linux embarcado pode ser um ponto para alguns, e um 'contra' para outros.",
+      "modelo": "ASUS Vivobook 15 X1504VA-NJ1739",
+      "preco": "R$ 3.329,10",
+      "link": "https://www.casasbahia.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-256gb-ssd-linux-keepos-intel-iris-xe-tela-15-6-led-fhd-silver-nj1739/p/55078509?utm_source=hardmob&utm_medium=parceria&utm_campaign=hardmob_hardmob_lead&utm_content=55078509",
+      "foto": "https://assets.casasbahia.com.br/f/550/785/09/55078509_1.jpg?width=500&height=500",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um notebook equilibrado com processador Intel de 13ª geração que oferece boa performance para uso diário e multitarefas. A tela IPS e o design elegante são pontos fortes. A placa de vídeo integrada Iris Xe é competente para tarefas gráficas leves.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 10
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 4,
-      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ731",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB29410317",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_600645-MLM75276669949_032024-O.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8 GB LPDDR5",
-      "ssd": "256 GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080)",
-      "analise": "Compacto e elegante, este Vivobook oferece um Ryzen 5 moderno (7000 series) e RAM LPDDR5, garantindo eficiência energética e bom desempenho para o dia a dia. A tela IPS Full HD é crucial para a experiência visual. Vem com Linux (KeepOS), que pode ser um ponto positivo para alguns usuários.",
+      "modelo": "Lenovo IdeaPad Slim 3i (configurações variam)",
+      "preco": "R$ 3.500,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-3-Gen-7-15-inch-AMD/p/LEN101I0041?orgRef=https%253A%252F%252Fwww.google.com%252F",
+      "foto": "https://p3-ofp.static.pub/fes/cms/2022/04/13/2y484t76m790w4q55y3187c9m0y2a3161042.png",
+      "cpu": "Intel Core i5-12ª Geração (ou similar AMD Ryzen 5)",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB ou 512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "A linha IdeaPad Slim 3 oferece modelos com bom desempenho e tela IPS, ideal para produtividade e consumo de mídia. Verifique a configuração exata do processador (Intel i5 de 12ª/13ª ou Ryzen 5/7) e do SSD no momento da compra, pois podem variar na faixa de preço.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Dell Inspiron 15 3530 (Configuração i5, 8GB RAM, 512GB SSD)",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
       "preco": "R$ 3.799,00",
-      "link": "https://www.dell.com/pt-br/shop/notebooks/inspiron-15-laptop/spd/inspiron-15-3530-laptop/cai1510w11p130br",
-      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3530-laptop-gallery-1?op_usm=1.75,0.3,2,0&fit=bounds&wid=1000&hei=1000&fmt=png-alpha&qlt=85",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "WVA Full HD (1920 x 1080) com taxa de atualização variável",
-      "analise": "O Inspiron 15 3530 oferece a confiabilidade da Dell com um processador i5 de 13ª geração, garantindo performance sólida. O destaque é a tela WVA (Wide Viewing Angle) Full HD, que oferece ângulos de visão aprimorados, sendo uma boa alternativa ao IPS. A taxa de atualização variável é um bônus.",
+      "link": "https://www.extra.com.br/notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-256gb-ssd-1tb-hd-15-6-full-hd-ips-windows-11-grafite-55075678/p/55075678",
+      "foto": "https://assets.extra.com.br/f/550/756/78/55075678_1.jpg?width=500&height=500",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 (expansível até 64GB)",
+      "ssd": "256GB NVMe SSD + 1TB HDD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "O Galaxy Book2 se destaca pela qualidade de construção da Samsung e a tela IPS. A configuração com i5 de 12ª geração e o armazenamento híbrido (SSD para agilidade e HDD para espaço) o tornam versátil para diferentes usos. Ótima opção para quem busca a experiência Samsung.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 8
+        "custo_beneficio": 7
       }
     }
   ]
