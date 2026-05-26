@@ -2,49 +2,66 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3 15ARP10 (AMD Ryzen 7 7735HS)",
-      "preco": "R$ 3.086,54",
-      "link": "https://www.kabum.com.br/produto/493393/notebook-lenovo-ideapad-slim-3-amd-ryzen-7-7735hs-16gb-ram-amd-radeon-graphics-ssd-512gb-15-3-wuxga-linux-luna-grey-83mms00000",
-      "foto": "https://images.kabum.com.br/produtos/fotos/493393/493393_1688640776_g.jpg",
-      "cpu": "AMD Ryzen 7 7735HS",
-      "ram": "16GB DDR5",
-      "ssd": "512GB NVMe",
-      "tela": "IPS WUXGA (1920x1200) 15.3\"",
-      "analise": "O processador Ryzen 7 7735HS oferece excelente desempenho para multitarefas e produtividade, combinado com 16GB de RAM e SSD rápido. A tela WUXGA IPS é um grande diferencial para a faixa de preço. Um dos melhores conjuntos disponíveis em termos de processamento e tela.",
+      "modelo": "Lenovo IdeaPad Slim 3i (82X70002BR)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.loja.lenovo.com.br/notebook-lenovo-ideapad-slim-3i-i5-12450h-8gb-512gb-ssd-15-6-fhd-linux/p",
+      "foto": "https://www.loja.lenovo.com.br/arquivos/ids/634937-500-500/82X70002BR.png",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "8GB LPDDR5 4800MHz (soldada)",
+      "ssd": "512GB SSD NVMe PCIe 4.0",
+      "tela": "IPS Full HD (1920x1080) antirreflexo",
+      "analise": "Excelente balanço entre performance de CPU e armazenamento rápido para o dia a dia. A RAM soldada é um ponto a considerar para upgrades futuros, mas 8GB LPDDR5 são eficientes. Tela IPS é um destaque para a categoria.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R478",
-      "preco": "R$ 3.549,00",
-      "link": "https://www.kabum.com.br/produto/952233/notebook-acer-aspire-5-amd-ryzen-5-5500u-16gb-ram-ssd-512gb-15-6-full-hd-ips-linux-gutta-prata-nx-aydal-00r",
-      "foto": "https://images.kabum.com.br/produtos/fotos/952233/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-ssd-512gb-15-6-full-hd-ips-linux-gutta-prata-nx-aydal-00r_1680537443_g.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe PCIe 3.0",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "O Aspire 5 é um clássico custo-benefício, e esta configuração com Ryzen 5 e 16GB de RAM é robusta para o dia a dia e multitarefas. A tela IPS Full HD da Acer com ComfyView garante boa experiência visual.",
+      "modelo": "Acer Aspire 3 A315-24P-R6XQ",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-3-A315-24P-R6XQ/dp/B0BP619W1P",
+      "foto": "https://m.media-amazon.com/images/I/71R37C3N87L._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 3 7320U",
+      "ram": "8GB LPDDR5",
+      "ssd": "256GB SSD PCIe NVMe",
+      "tela": "IPS Full HD (1920x1080) Acer ComfyView™",
+      "analise": "Ótimo custo-benefício para usuários que precisam de uma tela IPS de qualidade e bom desempenho em tarefas básicas e intermediárias. O SSD de 256GB é aceitável, e a RAM LPDDR5 oferece boa velocidade.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 3,
-      "modelo": "ASUS Vivobook Go 15 E1504F (AMD Ryzen 5 7520U)",
-      "preco": "R$ 2.969,10",
-      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-go-15-e1504f/buy/",
-      "foto": "https://dlcdnwebimgs.asus.com/files/media/9d63c5c9-94b8-4c31-9a74-4b5b1ee99b3b/v1/img/product/overview/img1.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "16GB LPDDR5",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Excelente opção para quem busca portabilidade e boa performance para estudos e trabalho leve. O Ryzen 5 série 7000 e 16GB LPDDR5 garantem fluidez, e a tela IPS Full HD é um grande atrativo.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-i5-8gb-256gb-np550xed-kf2br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-open-graphite-532296541?$650_519_PNG$",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB SSD NVMe",
+      "tela": "LED Full HD (1920x1080) com painel tipo IPS",
+      "analise": "Design elegante e portabilidade com bom desempenho para produtividade. A tela com painel IPS oferece boa qualidade visual. O SSD de 256GB pode ser limitante para alguns, mas é expansível.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad 3 15ALC6 (Ryzen 5 5500U, 8GB, 512GB SSD)",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-3-156-fhd-ryzen-5-8-gb-256-gb-ssd/p/MLB20027733",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910080-MLA48437937402_122021-F.webp",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "512GB SSD NVMe",
+      "tela": "IPS Full HD (1920x1080) antirreflexo",
+      "analise": "Uma opção sólida com processador Ryzen 5 que oferece excelente multitarefas e gráficos integrados competentes. A possibilidade de expansão da RAM é um diferencial. Encontrado com 256GB ou 512GB SSD; priorize o de 512GB.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -52,37 +69,20 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Dell Inspiron 15 (i3520uadl1004w)",
-      "preco": "R$ 2.500,00 - R$ 2.800,00 (estimado)",
-      "link": "https://www.dell.com/pt-br/shop/laptops-2-em-1/inspiron-15/spd/inspiron-15-3520-laptop",
-      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-pdp-front-cnb?op_usm=1.75,0.75,0,0&fit=constrain&wid=4300&hei=3600&fmt=png-alpha",
-      "cpu": "Intel Core i3-1215U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe Gen4 x4",
-      "tela": "WVA (IPS) Full HD (1920x1080) 15.6\"",
-      "analise": "Um Dell com tela WVA (equivalente a IPS) nesta faixa de preço é raro e oferece excelente qualidade de imagem. O Core i3 de 12ª geração, combinado com 8GB de RAM e SSD de 512GB, é ideal para estudos e produtividade básica, com a confiabilidade da marca.",
-      "notas": {
-        "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "Notebook Samsung Galaxy Book4 (NP750XGJ-KG3BR)",
-      "preco": "R$ 3.403,08",
-      "link": "https://www.shopee.com.br/Notebook-Samsung-Galaxy-Book4-Windows-11-Home-Intel%C2%AE-Core%E2%84%A2-i3-8GB-256GB-SSD-15.6''-Full-HD-LED-1.55-kg-i.443916964.25055866170",
-      "foto": "https://down-br.img.susercontent.com/file/sg-11134201-22120-d38p0y39qplv6a",
-      "cpu": "Intel Core i3-1315U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "Full HD LED (provavelmente IPS/WVA) 15.6\"",
-      "analise": "A linha Galaxy Book da Samsung é conhecida pelo design premium e leveza. Com um Core i3 de 13ª geração e 8GB de RAM, é uma boa escolha para uso diário e leve. A tela Full HD LED da Samsung geralmente apresenta boa qualidade de visualização. É importante confirmar a tecnologia exata do painel, mas modelos mais recentes tendem a usar IPS ou similar.",
+      "modelo": "ASUS Vivobook Go 15 E1504FA (Ryzen 5 7520U, 8GB, 256GB SSD)",
+      "preco": "R$ 3.145,48",
+      "link": "https://shopee.com.br/Notebook-ASUS-Vivobook-Go-15-E1504FA-AMD-Ryzen-5-7520U-8Gb-Ram-256Gb-Ssd-Linux-15-6-FHD-NJ731-i.673858001.21980845348",
+      "foto": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo9418r240a552_tn",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5 (soldada)",
+      "ssd": "256GB SSD PCIe NVMe",
+      "tela": "FHD LED nível IPS (1920x1080)",
+      "analise": "Design leve e moderno com processador Ryzen série 7000 de baixo consumo. Ideal para estudos e trabalho, com boa autonomia de bateria. A RAM soldada e o SSD de 256GB são pontos de atenção para usuários mais exigentes.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     }
   ]
