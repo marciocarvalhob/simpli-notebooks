@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3i (82X70002BR)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.loja.lenovo.com.br/notebook-lenovo-ideapad-slim-3i-i5-12450h-8gb-512gb-ssd-15-6-fhd-linux/p",
-      "foto": "https://www.loja.lenovo.com.br/arquivos/ids/634937-500-500/82X70002BR.png",
-      "cpu": "Intel Core i5-12450H",
-      "ram": "8GB LPDDR5 4800MHz (soldada)",
-      "ssd": "512GB SSD NVMe PCIe 4.0",
-      "tela": "IPS Full HD (1920x1080) antirreflexo",
-      "analise": "Excelente balanço entre performance de CPU e armazenamento rápido para o dia a dia. A RAM soldada é um ponto a considerar para upgrades futuros, mas 8GB LPDDR5 são eficientes. Tela IPS é um destaque para a categoria.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-55C8",
+      "preco": "R$ 3.899,00",
+      "link": "https://www.amazon.com.br/Acer-Aspire-AG15-51P-55C8-i5-1335U-Windows/dp/B0CT1N99R6 (Verificar preço atual)",
+      "foto": "https://m.media-amazon.com/images/I/71G1P7L4mKL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB DDR5",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente equilíbrio entre desempenho e qualidade de tela para o dia a dia e multitarefas. O processador de 13ª geração e o SSD rápido garantem boa fluidez. A tela IPS é um grande diferencial para a faixa de preço.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,49 +19,15 @@
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 3 A315-24P-R6XQ",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-3-A315-24P-R6XQ/dp/B0BP619W1P",
-      "foto": "https://m.media-amazon.com/images/I/71R37C3N87L._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 3 7320U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB SSD PCIe NVMe",
-      "tela": "IPS Full HD (1920x1080) Acer ComfyView™",
-      "analise": "Ótimo custo-benefício para usuários que precisam de uma tela IPS de qualidade e bom desempenho em tarefas básicas e intermediárias. O SSD de 256GB é aceitável, e a RAM LPDDR5 oferece boa velocidade.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-i5-8gb-256gb-np550xed-kf2br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-open-graphite-532296541?$650_519_PNG$",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 3200MHz",
-      "ssd": "256GB SSD NVMe",
-      "tela": "LED Full HD (1920x1080) com painel tipo IPS",
-      "analise": "Design elegante e portabilidade com bom desempenho para produtividade. A tela com painel IPS oferece boa qualidade visual. O SSD de 256GB pode ser limitante para alguns, mas é expansível.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad 3 15ALC6 (Ryzen 5 5500U, 8GB, 512GB SSD)",
+      "modelo": "ASUS Vivobook 15 X1504VA-NJ1740W",
       "preco": "R$ 3.299,00",
-      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-3-156-fhd-ryzen-5-8-gb-256-gb-ssd/p/MLB20027733",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910080-MLA48437937402_122021-F.webp",
-      "cpu": "AMD Ryzen 5 5500U",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1504VA-NJ1740W-i5-1334U/dp/B0CRH7R24K (Verificar preço atual)",
+      "foto": "https://m.media-amazon.com/images/I/713f01-k+HL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1334U",
       "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB SSD NVMe",
-      "tela": "IPS Full HD (1920x1080) antirreflexo",
-      "analise": "Uma opção sólida com processador Ryzen 5 que oferece excelente multitarefas e gráficos integrados competentes. A possibilidade de expansão da RAM é um diferencial. Encontrado com 256GB ou 512GB SSD; priorize o de 512GB.",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Ótima opção para produtividade e uso geral, com um bom processador i5 de 13ª geração e SSD generoso. A tela IPS e o design leve o tornam versátil.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -69,20 +35,54 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "ASUS Vivobook Go 15 E1504FA (Ryzen 5 7520U, 8GB, 256GB SSD)",
-      "preco": "R$ 3.145,48",
-      "link": "https://shopee.com.br/Notebook-ASUS-Vivobook-Go-15-E1504FA-AMD-Ryzen-5-7520U-8Gb-Ram-256Gb-Ssd-Linux-15-6-FHD-NJ731-i.673858001.21980845348",
-      "foto": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo9418r240a552_tn",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5 (soldada)",
-      "ssd": "256GB SSD PCIe NVMe",
-      "tela": "FHD LED nível IPS (1920x1080)",
-      "analise": "Design leve e moderno com processador Ryzen série 7000 de baixo consumo. Ideal para estudos e trabalho, com boa autonomia de bateria. A RAM soldada e o SSD de 256GB são pontos de atenção para usuários mais exigentes.",
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 15IRU10 (Configuração com IPS)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-15-3-83nus00000-luna-grey/p/237190100/in/notn/?&seller_id=magazineluiza&utm_source=google&utm_medium=comparador&utm_campaign=product-ads&gbraid=0AAAAAD_1Q_C_G_E_P_R_S_T_A_I_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z&gclid=Cj0KCQjwgPKhBhDbARIsAPyJt6sQxL1sW9r1J1v0A82e4e7e6f8f9h0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z (Verificar preço e painel IPS)",
+      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-15-3-83nus00000-luna-grey/magazineluiza/237190100/8d8a57e3e48398184c7185387d8122d2.jpg",
+      "cpu": "Intel Core 3 100U",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD 15.3\"",
+      "analise": "Um notebook de entrada com uma tela IPS de boa qualidade, incomum para a faixa de preço. O processador Core 3 é adequado para tarefas básicas de estudo e trabalho, e a RAM DDR5 oferece boa velocidade. É importante confirmar o painel IPS na versão exata, pois alguns modelos Slim 3 podem vir com TN.",
       "notas": {
         "performance": 7,
         "tela": 8,
         "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book4",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.kabum.com.br/produto/501750/notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-ssd-512gb-15-6-full-hd-windows-11-home-grafite-np750xkg-kf1br (Verificar preço atual)",
+      "foto": "https://images.kabum.com.br/produtos/fotos/501750/501750_1688649423_g.jpg",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "PLS Full HD 15.6\"",
+      "analise": "O Galaxy Book4 se destaca pelo ecossistema Samsung e pela tela PLS, que oferece qualidade de imagem e ângulos de visão similares ao IPS. O processador de 13ª geração e o SSD rápido garantem boa performance para produtividade.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "VAIO FE16 (Configuração Intel Core i5)",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.amazon.com.br/Notebook-VAIO-FE16-i5-1235U-Windows/dp/B0BY619S6D (Verificar preço e painel IPS)",
+      "foto": "https://m.media-amazon.com/images/I/71R1sU+tW3L._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe (Verificar se há versão 512GB no preço)",
+      "tela": "IPS Full HD 16\"",
+      "analise": "Um notebook com tela maior de 16 polegadas, ideal para quem precisa de mais espaço de trabalho. O painel IPS garante boa qualidade visual, e o processador i5 de 12ª geração oferece performance sólida para o dia a dia. É crucial verificar a capacidade do SSD e a disponibilidade do painel IPS para a configuração exata.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 8
       }
     }
   ]
