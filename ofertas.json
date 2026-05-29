@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book4 (Intel Core i5-1335U)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.carrefour.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i5-8gb-256gb-ssd-15-6-full-hd-led-1-55kg-grafite/p/6280456?utm_source=sem_bing&utm_medium=comparador_buscape&dclid=CP7Lz5rPj_gCFQuGqQMd8lQLFg",
-      "foto": "https://carrefourbr.vtexassets.com/arquivos/ids/103126742-800-auto?v=638497676752000000",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB LPDDR4x",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) LED 15.6\"",
-      "analise": "Excelente opção com processador Intel de 13ª geração, oferecendo desempenho robusto para multitarefas e produtividade. A tela Full HD IPS garante ótima qualidade de imagem e o design leve facilita a portabilidade. O SSD de 256GB é um bom ponto de partida, mas pode ser limitado para usuários com muitos arquivos.",
+      "modelo": "Positivo Vision R15M (AMD Ryzen 5 5625U, 16GB RAM, 512GB SSD)",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto",
+      "foto": "https://images.tcdn.com.br/img/img_prod/1049969/notebook_positivo_vision_r15m_amd_ryzen_5_5625u_linux_16gb_ram_512gb_ssd_wi_fi_6_15_full_hd_ips_minitela_preto_2039_1_f56972411cf0988636b042b5ce97103a.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "16 GB DDR4",
+      "ssd": "512 GB NVMe",
+      "tela": "IPS Full HD",
+      "analise": "Configuração excelente para o preço, com 16GB de RAM e 512GB SSD, ideal para multitarefas e produtividade. O Ryzen 5 5625U oferece ótimo desempenho. O preço, especialmente em promoções, é imbatível.",
       "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 9
+        "performance": 9,
+        "tela": 8,
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-57-51W5 (Intel Core i5-12450H)",
-      "preco": "R$ 3.689,10 (via Pix em algumas lojas)",
-      "link": "https://www.fujiokadistribuidor.com.br/notebook-acer-aspire-5-a515-57-51w5-15-6-intel-core-i5-8gb-256gb-ssd-cinza-aco/p",
-      "foto": "https://fujiokadistribuidor.vtexassets.com/arquivos/ids/653063-800-auto?v=638493134105430000",
-      "cpu": "Intel Core i5-12450H",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Com um processador de alta performance da 12ª geração (linha H), este Aspire 5 é ideal para quem busca mais potência em tarefas exigentes. A tela IPS e a porta Thunderbolt 4 são grandes diferenciais. O SSD de 256GB é aceitável, mas o upgrade pode ser considerado.",
+      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ1288 (AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD)",
+      "preco": "R$ 3.229,00",
+      "link": "https://www.quarnotebookcomprar.com.br/notebook/asus-vivobook-go-15-e1504fa-nj1288-ryzen-5-ssd-512-gb/",
+      "foto": "https://images.kabum.com.br/produtos/fotos/506941/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-16gb-512gb-ssd-keepos-15-6-fhd-ips-mixed-black-e1504fa-nj1288_1708453483_g.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "16 GB LPDDR5",
+      "ssd": "512 GB NVMe",
+      "tela": "IPS Full HD",
+      "analise": "Processador Ryzen série 7000 moderno e eficiente, combinado com 16GB de RAM e 512GB de SSD, oferece excelente agilidade para uso geral e tarefas exigentes.",
       "notas": {
         "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3i Intel Core i5-1135G7",
-      "preco": "R$ 3.080,40 (via Pix em algumas lojas)",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-3i-Gen-6-15-Intel/p/82MD0007BR",
-      "foto": "https://p3-ofp.static.pub/fes/cms/2021/04/09/b7j24f0c6m87l5gch556j5y1r49xkp607076.png",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "WVA Full HD (1920x1080) 15.6\" Antirreflexo",
-      "analise": "Um notebook sólido para o dia a dia, com processador Intel de 11ª geração que lida bem com a maioria das tarefas. A tela WVA oferece boa qualidade visual e o preço é bastante competitivo para o conjunto. Ideal para estudantes e uso doméstico.",
-      "notas": {
-        "performance": 7,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Samsung Book (Intel Core i5-1135G7)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.samsung.com/br/notebooks/galaxy-book/notebook-book-i5-8gb-256gb-np550xdc-kf3br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xdc-kf3br/gallery/br-notebook-np550xdc-kf3br-front-graphite-416187515?$GM_PRD_IMGL$",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) LED 15.6\"",
-      "analise": "O Samsung Book oferece um bom equilíbrio entre design, desempenho e recursos de conectividade. A tela IPS Full HD é um destaque, e a facilidade de upgrade de memória e armazenamento prolonga a vida útil do aparelho.",
+      "posicao": 3,
+      "modelo": "VAIO FE16 (AMD Ryzen 5 5625U, 8GB RAM, 256GB SSD, Linux)",
+      "preco": "R$ 3.299,00",
+      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite",
+      "foto": "https://images.tcdn.com.br/img/img_prod/1049969/notebook_vaio_fe16_amd_ryzen_5_5625u_linux_8gb_ram_256gb_ssd_16_ips_wuxga_antirreflexo_cinza_grafite_2039_1_c8d20775d7b69c41f9801876e6a4b159.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS WUXGA (1920x1200)",
+      "analise": "Destaque para a tela WUXGA, que oferece mais espaço vertical e é excelente para produtividade. O Ryzen 5 5625U é um chip competente. A versão com Linux tem um ótimo custo-benefício.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-45-R1AC (AMD Ryzen 5 5500U, 8GB RAM, 256GB SSD)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.fujiokadistribuidor.com.br/notebook-acer-aspire-5-a515-45-r1ac-amd-ryzen-5-5500u-15-6-fhd-ips-8gb-ddr4-256gb-ssd-nvme-prata",
+      "foto": "https://images.fujioka.com.br/fujioka/products/7898516752238.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD",
+      "analise": "Um clássico do custo-benefício, o Aspire 5 com Ryzen 5 5500U é confiável para uso diário, estudos e trabalho, com boa tela IPS. Upgrade de RAM é possível para melhorar ainda mais o desempenho.",
+      "notas": {
+        "performance": 8,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "NIMO N152 (Ryzen 5 5500U)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.magazineluiza.com.br/notebook-nimo-n152-15-6-fhd-ips-ryzen-5-8-gb-256-gb-ssd/p/fj24g6c278/in/nbtt/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-nimo-n152-15-6-fhd-ips-ryzen-5-8-gb-256-gb-ssd/infonobresl/fj24g6c278/d90e637841c210549c4f1c1f93f63110.jpeg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Uma opção de excelente custo-benefício com processador AMD Ryzen 5 5500U, que entrega desempenho multitarefa e gráfico superior a muitos Intel Core i5 de gerações anteriores na mesma faixa de preço. A tela IPS é um grande atrativo neste valor.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR (Intel Core i5-1235U, 8GB RAM, 256GB SSD)",
+      "preco": "R$ 3.500,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-ssd-256gb-tela-15-6-full-hd-windows-11-grafite/p/235778700/in/nbga/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-ssd-256gb-tela-15-6-full-hd-windows-11-grafite/magazineluiza/235778700/039c4f74d47c703b0704944cf963b652.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD",
+      "analise": "O processador Intel de 12ª geração oferece um bom salto de performance. É um notebook bem equilibrado para uso geral, com o ecossistema Samsung como um diferencial. O preço médio pode variar, mas por volta de R$3500 é um bom negócio.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 10
+        "custo_beneficio": 8
       }
     }
   ]
