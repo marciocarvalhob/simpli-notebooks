@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Positivo Vision R15M (Ryzen 5-5625U)",
-      "preco": "R$ 2.699,00",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB25691060?pdp_filters=category:MLB165#searchVariation=MLB25691060&position=4&search_layout=grid&type=product&tracking_id=e7041a9a-685d-4f04-9273-df305740428d",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910006-MLB70499645511_072023-F.webp",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe (expansível)",
-      "tela": "IPS Full HD 15.6'' Antirreflexo",
-      "analise": "Excelente custo-benefício com um processador Ryzen 5 robusto para multitarefas e produtividade. A tela IPS é um grande diferencial nesta faixa de preço. Permite upgrade de RAM e SSD.",
+      "modelo": "Lenovo IdeaPad Slim 3 15ARP10 (AMD Ryzen 7 7735HS)",
+      "preco": "R$ 3.849,96",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-slim-series/IdeaPad-Slim-3-Gen-8-15-inch-AMD/p/LEN101I0078",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3-15-amd-gen-8-hero.png?context=bWFzdGVyfHJvb3R8MTU4ODE2fGltYWdlL3BuZ3xoZWIvODEwLzExMjcxODc3MDYwNjM4LnBuZ3w3NmVlMTAxNzZhODVmNTZmNDkyNThjN2NlZGU3ZmE5NDkyYjVlZjQyM2E0MDI5MjJkNjRjYWE1OWY4MzA3YWY2",
+      "cpu": "AMD Ryzen 7 7735HS",
+      "ram": "8 GB DDR5 4800 MHz (expansível até 24 GB)",
+      "ssd": "512 GB SSD M.2 PCIe Gen4",
+      "tela": "IPS WUXGA (1920x1200) antirreflexo, 300 nits, 60 Hz",
+      "analise": "Performance excepcional para a faixa de preço, com um Ryzen 7 potente e RAM DDR5 rápida. A tela WUXGA IPS oferece mais espaço de trabalho e excelente qualidade de imagem. Ideal para multitarefas e tarefas mais exigentes.",
       "notas": {
-        "performance": 8,
+        "performance": 10,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire Go 15 AG15-51P-55LL",
-      "preco": "R$ 3.859,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-ag15-51p-55ll-intel-core-i5-1334u-153-8gb-256gb-ssd-windows-11-home/p/MLB28120349?pdp_filters=category:MLB165#searchVariation=MLB28120349&position=5&search_layout=grid&type=product&tracking_id=e7041a9a-685d-4f04-9273-df305740428d",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_612267-MLB72795856407_112023-F.webp",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD 15.3''",
-      "analise": "Processador de 13ª geração oferece bom desempenho para uso geral e a tela IPS garante qualidade visual. Um pouco mais próximo do limite de preço, mas com hardware atualizado.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-379H",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-i3-1215u-8gb-256gb-ag15-51p-379h/p/MLB28678601",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_794276-MLA75355448356_032024-F.webp",
+      "cpu": "Intel Core i3-1215U (12ª Geração)",
+      "ram": "8 GB DDR5 4800 MHz (expansível até 32 GB)",
+      "ssd": "256 GB SSD NVMe PCIe 4.0",
+      "tela": "IPS WUXGA (1920 x 1200) antirreflexo, 300 nits",
+      "analise": "Ótimo equilíbrio entre preço e recursos. O processador de 12ª geração e a RAM DDR5 garantem boa fluidez para o dia a dia. A tela WUXGA IPS é um grande diferencial para produtividade e consumo de mídia.",
       "notas": {
         "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "ASUS Vivobook Go 15 E1504GA-NJ435W",
+      "preco": "R$ 3.419,00",
+      "link": "https://produto.mercadolivre.com.br/MLB-3569473873-notebook-asus-vivobook-go-15-intel-core-i3-n305-8gb-512gb-ssd-windows-11-home-tela-nanoedge-156-fhd-cool-silver-e1504ga-nj435w-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910609-MLB72905141203_112023-F.webp",
+      "cpu": "Intel Core i3 N305",
+      "ram": "8 GB DDR4 (onboard)",
+      "ssd": "512 GB SSD PCIe 3.0",
+      "tela": "IPS Full HD (1920x1080) antirreflexo",
+      "analise": "Design leve e compacto com boa quantidade de SSD. O processador Intel Core i3 N305 é eficiente para tarefas cotidianas. A tela IPS Full HD oferece boa qualidade visual, e a construção atende a padrões militares de durabilidade.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Acer Aspire 5 A515-45-R2A3 (Ryzen 5)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-a515-45-r2a3-r5-8gb-512gb-ssd-156/p/MLB26139987?pdp_filters=category:MLB165#searchVariation=MLB26139987&position=19&search_layout=grid&type=product&tracking_id=e7041a9a-685d-4f04-9273-df305740428d",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910609-MLB70498877526_072023-F.webp",
-      "cpu": "AMD Ryzen 5 (modelo específico pode variar, mas geralmente é um 5500U ou similar)",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD 15.6''",
-      "analise": "O Acer Aspire 5 é um clássico em custo-benefício. Com Ryzen 5 e 512GB de SSD, oferece boa performance e espaço. A tela IPS é uma característica valorizada para o dia a dia e consumo de mídia.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
       "posicao": 4,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book2-NP550XED-KF3BR/dp/B0C3992Y17/",
-      "foto": "https://m.media-amazon.com/images/I/61k1l71k7OL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD 15.6''",
-      "analise": "Design premium e leve, com bom desempenho para tarefas cotidianas e profissionais. A tela IPS e a possibilidade de expansão da RAM e SSD são pontos muito positivos.",
+      "modelo": "Samsung Galaxy Book4 (Intel Core i3-1335U)",
+      "preco": "R$ 3.625,00",
+      "link": "https://produto.mercadolivre.com.br/MLB-4395276331-notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-156-full-hd-led-155-kg-grafite-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_892976-MLB74737089182_022024-F.webp",
+      "cpu": "Intel Core i3-1335U (13ª Geração)",
+      "ram": "8 GB LPDDR4x",
+      "ssd": "256 GB SSD NVMe (expansível até 2 TB)",
+      "tela": "IPS Full HD LED (1920x1080) antirreflexo",
+      "analise": "Um notebook elegante com acabamento em metal. O Core i3 de 13ª geração é moderno e eficiente para o uso diário, e a tela Full HD com painel IPS proporciona boa experiência visual. A possibilidade de expansão do SSD é um ponto positivo.",
       "notas": {
-        "performance": 8,
-        "tela": 9,
+        "performance": 7,
+        "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "VAIO FE15 (Ryzen 5-5625U)",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe15-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-156-full-hd-ips-antirreflexo-minitela-cinza-titanio/p/MLB25586675?pdp_filters=category:MLB165",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_616434-MLB70499026403_072023-F.webp",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe (expansível)",
-      "tela": "IPS Full HD 15.6'' Antirreflexo",
-      "analise": "Similar ao Positivo Vision R15M em configurações, o VAIO FE15 oferece um bom balanço de desempenho com o Ryzen 5 e uma tela IPS de qualidade, ideal para produtividade e consumo de conteúdo.",
+      "modelo": "Positivo Vision i15M (Intel Core i3-N300)",
+      "preco": "R$ 3.299,90",
+      "link": "https://www.casasbahia.com.br/notebook-positivo-vision-i15m-i3-n300-8gb-256gb-windowns-11-preto-1506456277/p/1506456277",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_666014-MLB74415516053_022024-F.webp",
+      "cpu": "Intel Core i3-N300",
+      "ram": "8 GB (expansível até 16 GB)",
+      "ssd": "256 GB (expansível até 4 TB)",
+      "tela": "IPS Full HD (1920x1080) antirreflexo",
+      "analise": "Destaque pela inovadora 'Minitela' e o Lumina Bar para chamadas de vídeo. O processador i3-N300 é adequado para tarefas básicas a intermediárias, e a tela IPS Full HD oferece cores vivas. Boa opção para quem busca funcionalidades extras.",
       "notas": {
-        "performance": 8,
+        "performance": 6,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 7
       }
     }
   ]
