@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 3 A315-24PT-R90Z (AMD Ryzen 5 7520U)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.casasbahia.com.br/notebook-acer-aspire-3-a315-24pt-r90z-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-fhd-ips-windows-11-azul/p/55078518",
-      "foto": "https://www.casasbahia.com.br/notebook-acer-aspire-3-a315-24pt-r90z-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-fhd-ips-windows-11-azul/p/55078518/imagem.axd?params=w_2000,h_2000",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" Touchscreen (1920x1080)",
-      "analise": "Excelente equilíbrio entre desempenho para tarefas diárias, armazenamento e a qualidade de uma tela IPS touchscreen. O Ryzen 5 7520U oferece boa eficiência energética.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
+      "preco": "R$ 3.519,12",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book2-np550xed-kf4br-intel-core-i5-1235u-8gb-256gb-ssd-1tb-hd-windows-11-home-tela-15-6/p/236166100/in/nbok/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book2-np550xed-kf4br-intel-core-i5-1235u-8gb-256gb-ssd-1tb-hd-windows-11-home-tela-15-6/magazineluiza/236166100/5086ee46f888f8d229e612a45d064dd0.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD + 1TB HD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente balanço entre performance e armazenamento híbrido, ideal para multitarefas e guardar muitos arquivos com a qualidade de tela IPS.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,70 +19,70 @@
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad Slim 3 (AMD Ryzen 5 7520U)",
-      "preco": "R$ 2.899,00",
-      "link": "https://www.amazon.com.br/Lenovo-IdeaPad-Slim-3-7520U/dp/B0BNW1R9D7",
-      "foto": "https://m.media-amazon.com/images/I/61Nl8s+XWRL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
+      "modelo": "Acer Aspire Go 15 AG15-51P-39MU",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-ag15-51p-39mu-intel-core-i3-1305u-8gb-256ssd-windows-11-home-153/p/MLB28670417",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_995722-MLB72950961314_112023-F.webp",
+      "cpu": "Intel Core i3-1305U",
+      "ram": "8GB DDR5",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" (1920x1080)",
-      "analise": "Um notebook muito competitivo, com o mesmo processador do Aspire 3, mas geralmente encontrado com SSD de 256GB, o que o torna mais acessível. A tela IPS é um diferencial na categoria.",
+      "tela": "IPS WUXGA 15.3\" (1920x1200)",
+      "analise": "Um notebook moderno com tela WUXGA IPS para maior área de trabalho, processador de 13ª geração e RAM DDR5, ótimo para produtividade diária e consumo de conteúdo.",
       "notas": {
         "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "ASUS Vivobook 15 M1502YA-BQ966W (AMD Ryzen 7 5825U)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.kabum.com.br/produto/496245/notebook-asus-vivobook-15-amd-ryzen-7-5825u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-cinza-m1502ya-bq966w",
-      "foto": "https://images.kabum.com.br/produtos/fotos/496245/notebook-asus-vivobook-15-amd-ryzen-7-5825u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-cinza-m1502ya-bq966w_1688661601_m.jpg",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" (1920x1080)",
-      "analise": "Com um Ryzen 7 de série 5000, este Vivobook oferece um desempenho superior para multitarefas e cargas de trabalho mais exigentes, mantendo a qualidade da tela IPS. A RAM expansível é um ponto positivo.",
-      "notas": {
-        "performance": 9,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Positivo Vision R15M (AMD Ryzen 7 5825U)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.lojadopositivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-32gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto",
-      "foto": "https://www.lojadopositivo.com.br/arquivos/Vision-R15M-R7-5825U-PRETO-32GB-512SSD-Linux-Miniteclado.png?v=638446979685600000",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "32GB RAM",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" (1920x1080)",
-      "analise": "Surpreendente configuração para a marca, oferecendo um Ryzen 7 5825U com absurdos 32GB de RAM, o que o torna ideal para usuários que necessitam de muita memória. O sistema Linux pode ser um atrativo para alguns, ou um custo extra para Windows.",
-      "notas": {
-        "performance": 9,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Samsung Galaxy Book 4 (Intel Core 7 150U)",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Book4-Processador-i5-120U/dp/B0CQ4975YQ",
-      "foto": "https://m.media-amazon.com/images/I/61k1qHw7QGL._AC_SL1500_.jpg",
-      "cpu": "Intel Core 7 150U (14ª Geração)",
-      "ram": "8GB LPDDR4x",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" (1920x1080)",
-      "analise": "O Galaxy Book 4 com Intel Core 7 de 14ª geração traz um processador atualizado para um desempenho eficiente em tarefas diárias. A qualidade de construção da Samsung e a tela IPS contribuem para uma boa experiência, embora 256GB de SSD possa ser limitante para alguns.",
+      "posicao": 3,
+      "modelo": "Positivo Vision R15M AMD Ryzen 5-5625U",
+      "preco": "R$ 2.699,00",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB25039233",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_897103-MLB72949755535_112023-F.webp",
+      "cpu": "AMD Ryzen 5-5625U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Destaque pela Minitela integrada, processador Ryzen 5 competente para o dia a dia e tela IPS de qualidade, além de oferecer opções de upgrade.",
       "notas": {
         "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
+      "preco": "R$ 3.519,12",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-15-6-full-hd-led-1-55-kg/p/237243300/in/nbok/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i3-8gb-256gb-ssd-15-6-full-hd-led-1-55-kg/magazineluiza/237243300/f34fb19d4b6842779a5522e831623910.jpg",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe SSD",
+      "tela": "FHD LED 15.6\"",
+      "analise": "Um modelo atual com processador de 13ª geração e design elegante, ideal para produtividade e portabilidade, com a promessa de uma tela de alta qualidade visual. Apesar da descrição como 'FHD LED', a série Book4 geralmente usa IPS ou painéis de qualidade equivalente para boa visualização.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Lenovo IdeaPad Slim 3i 83NUS00000",
+      "preco": "R$ 2.639,20",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-15-3-83nus00000-luna-grey/p/236688500/in/nbok/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-15-3-83nus00000-luna-grey/magazineluiza/236688500/039c05e1654e532f6277a0acb57d0794.jpg",
+      "cpu": "Intel Core 3 100U",
+      "ram": "8GB DDR5",
+      "ssd": "256GB NVMe Gen4 SSD",
+      "tela": "WUXGA IPS 15.3\" (1920x1200)",
+      "analise": "Oferece um excelente custo-benefício com tela IPS WUXGA para mais espaço de trabalho, processador Intel Core 3 e RAM DDR5, ideal para estudos e trabalho leve.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 10
       }
     }
   ]
