@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3i (83NSS00000)",
-      "preco": "R$ 3.432,99",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-Slim-3i-Gen-8-15-inch-Intel/p/len101i0072",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3i-15-gen-8-intel-front-hero.png?context=bWFzdGVyfHJvb3R8MTM1NjM3fGltYWdlL3BuZ3xoYTUvaGEzLzE2NTE0NDUyMTA2NTI2LnBuZ3w0YjI5ZWYxNTkwZTA1MjVkNjEyOWY5YzU1YmJkNmRkY2M5ZDI1Y2QxODkxZmY1YWRmZTc3M2I3NWUwMmFkYzEw",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR5 4800MHz",
-      "ssd": "512GB NVMe M.2 PCIe Gen4",
-      "tela": "IPS WUXGA (1920x1200) Antirreflexo",
-      "analise": "Excelente custo-benefício com processador de 13ª geração e um SSD de 512GB. A tela WUXGA (16:10) IPS é um grande diferencial para produtividade, oferecendo mais espaço vertical. O RAM DDR5 é um bônus. Vem com Linux, mas a instalação do Windows é simples.",
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG6BR",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book4-15-inch-i3-8gb-512gb-np750xgj-kg6br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgj-kg6br/gallery/br-galaxy-book4-15-inch-np750xgj-kg6br-539074044?$GM_PRD_IMGLIST$",
+      "cpu": "Intel Core i3-1315U (13ª Geração)",
+      "ram": "8GB LPDDR4x",
+      "ssd": "512GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente custo-benefício com SSD de boa capacidade e processador moderno para tarefas diárias e multitarefas. Tela IPS garante boa qualidade visual.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R1AC",
-      "preco": "R$ 3.199,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-2775677025-notebook-acer-aspire-5-ryzen-5-5500u-vega7-8gb-ram-256gb-ssd-_JM",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704481-MLA75940026362_042024-F.webp",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível até 20GB)",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo",
-      "analise": "Um sólido desempenho para o dia a dia e multitarefas com o Ryzen 5 5500U. A tela IPS Full HD é padrão para boa experiência visual. A possibilidade de expansão da RAM é um ponto positivo. Geralmente encontrado com Linux, o que contribui para o preço mais acessível.",
+      "modelo": "ASUS VivoBook 16 X1605VA-MB742",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.kabum.com.br/produto/501768/notebook-asus-vivobook-16-intel-core-i7-1355u-8gb-ram-ssd-512gb-16-wuxga-linux-x1605va-mb742",
+      "foto": "https://images.kabum.com.br/produtos/fotos/501768/notebook-asus-vivobook-16-intel-core-i7-1355u-8gb-ram-ssd-512gb-16-wuxga-linux-x1605va-mb742_1699564070_g.jpg",
+      "cpu": "Intel Core i7-1355U (13ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "IPS WUXGA 16.0\"",
+      "analise": "Processador i7 de 13ª geração e tela WUXGA de 16 polegadas oferecem excelente performance e espaço de trabalho. O Linux de fábrica permite economia.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ731",
-      "preco": "R$ 3.200,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-3561662916-notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731-_JM",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_709581-MLB73426868661_122023-F.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo",
-      "analise": "Processador Ryzen 5 da série 7000, que oferece boa performance energética. A memória LPDDR5 é rápida, mas é soldada e não expansível. Ideal para uso geral e estudos, com design leve e compacto.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Samsung Galaxy Book4 (NP750XGJ-KG4BR)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Book4-NP750XGJ-KG4BR-i5-1335U/dp/B0CT113H1J",
-      "foto": "https://m.media-amazon.com/images/I/71u9s8x1sXL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB LPDDR4x",
-      "ssd": "256GB NVMe (com slot adicional M.2)",
-      "tela": "IPS LCD Full HD (1920x1080) Antirreflexo",
-      "analise": "Um dos destaques na faixa de até R$ 3.000, com processador de 13ª geração e boa qualidade de construção. A integração com o ecossistema Samsung é um diferencial. Possui slot extra para SSD, o que aumenta a longevidade.",
-      "notas": {
-        "performance": 8,
+        "performance": 9,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 5,
-      "modelo": "ASUS VivoBook 15 X1504VA-NJ1737W",
-      "preco": "R$ 3.989,05",
-      "link": "https://www.casasbahia.com.br/notebook-asus-vivobook-15-core-i5-8gb-ram-256gb-ssd-tela-156-fhd-windows-11-x1504va-nj1738w/p/5507746726",
-      "foto": "https://casasbahia.vtexassets.com/arquivos/ids/65324545-800-800/notebook-asus-vivobook-15-core-i5-8gb-ram-256gb-ssd-tela-15-6-fhd-windows-11-x1504va-nj1738w.jpg?v=63847240409",
-      "cpu": "Intel Core i5-1334U",
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad 3i 82MG0009BR",
+      "preco": "R$ 3.149,00",
+      "link": "https://www.pontofrio.com.br/notebook-lenovo-ideapad-3i-intel-core-i5-1135g7-8gb-ssd-256gb-15-6-full-hd-windows-11-cinza-82mg0009br/p/55073033",
+      "foto": "https://img.pontofrio.com.br/55073033/1gg.jpg?imwidth=500",
+      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
       "ram": "8GB DDR4",
       "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Com um design elegante e componentes atualizados, o Vivobook 15 oferece um bom equilíbrio entre desempenho e portabilidade. O processador Intel Core i5 de 13ª geração é eficiente para tarefas diárias. Apesar de um pouco acima do limite de preço no PIX, pode ser encontrado em promoções.",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um bom equilíbrio entre processador, RAM e tela IPS, ideal para uso geral e estudos. O SSD de 256GB pode ser um limitador para alguns usuários.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-57-565J (alternativa com TN, mas frequentemente em promoção próximo ao preço)",
+      "preco": "R$ 3.200,00",
+      "link": "https://www.kabum.com.br/produto/346890/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-prata-a515-57-565j",
+      "foto": "https://images.kabum.com.br/produtos/fotos/346890/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-prata-a515-57-565j_1660835158_g.jpg",
+      "cpu": "Intel Core i5-12450H (12ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "TN Full HD 15.6\"",
+      "analise": "Embora o painel seja TN, este Aspire 5 oferece um processador i5 de 12ª geração e SSD de 512GB, sendo uma opção de alto desempenho em promoções.",
+      "notas": {
+        "performance": 8,
+        "tela": 6,
+        "custo_beneficio": 7
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
+      "preco": "R$ 2.472,00",
+      "link": "https://www.efacil.com.br/eletrodomesticos/computadores/notebook/notebook-samsung-galaxy-book4-intel-core-i3-1315u-8gb-256gb-ssd-15-6-full-hd-ips-windows-11-np750xgj-kg5br/p/1628045",
+      "foto": "https://static.efacil.com.br/imagens/1000/1628045_1.jpg",
+      "cpu": "Intel Core i3-1315U (13ª Geração)",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "A opção mais acessível com tela IPS e processador de 13ª geração. O SSD de 256GB é o mínimo recomendado, mas o preço o torna muito competitivo.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     }
   ]
