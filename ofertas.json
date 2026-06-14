@@ -2,32 +2,49 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG6BR",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book4-15-inch-i3-8gb-512gb-np750xgj-kg6br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgj-kg6br/gallery/br-galaxy-book4-15-inch-np750xgj-kg6br-539074044?$GM_PRD_IMGLIST$",
+      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
+      "preco": "R$ 2.472,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/p/237078300/in/note/?&seller_id=samsung&variant_id=237078300",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/samsung/237078300/a35d79435a242c75a4087961b7e289f0.jpg",
       "cpu": "Intel Core i3-1315U (13ª Geração)",
-      "ram": "8GB LPDDR4x",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício com SSD de boa capacidade e processador moderno para tarefas diárias e multitarefas. Tela IPS garante boa qualidade visual.",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe",
+      "tela": "15.6\" IPS Full HD",
+      "analise": "Excelente entrada no mundo IPS. O Core i3 de 13ª geração e o SSD rápido garantem agilidade para tarefas do dia a dia e multitarefa leve. A tela IPS Full HD é o grande diferencial nesta faixa de preço. Ideal para estudos, home office e consumo de mídia.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
+      "modelo": "ASUS VivoBook 15 X1504VA-NJ1741",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-15-x1504/where-to-buy/pc-asus-vivobook-15-x1504va-nj1741-intel-core-i5-13a-geracao-8gb-512gb-ssd-keepos-15-6-lcd-led-fhd-nivel-ips-cool-silver",
+      "foto": "https://www.asus.com/media/global/products/2_7D3gBv61wXo0y63/img/overview/Product_large.png",
+      "cpu": "Intel Core i5-1334U (13ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe",
+      "tela": "15.6\" IPS Full HD",
+      "analise": "Um notebook muito bem equilibrado com um Core i5 de última geração e 512GB de SSD. A tela IPS oferece ótima qualidade visual, e a construção é robusta para o dia a dia. Acompanha Linux KeepOS, o que contribui para o excelente custo-benefício.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
       "modelo": "ASUS VivoBook 16 X1605VA-MB742",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.kabum.com.br/produto/501768/notebook-asus-vivobook-16-intel-core-i7-1355u-8gb-ram-ssd-512gb-16-wuxga-linux-x1605va-mb742",
-      "foto": "https://images.kabum.com.br/produtos/fotos/501768/notebook-asus-vivobook-16-intel-core-i7-1355u-8gb-ram-ssd-512gb-16-wuxga-linux-x1605va-mb742_1699564070_g.jpg",
+      "preco": "R$ 3.250,04",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1605VA-MB742-Processador/dp/B0CKD331J9",
+      "foto": "https://m.media-amazon.com/images/I/71D0Y3bE3zL._AC_UF894,1000_QL80_.jpg",
       "cpu": "Intel Core i7-1355U (13ª Geração)",
       "ram": "8GB DDR4",
       "ssd": "512GB NVMe",
-      "tela": "IPS WUXGA 16.0\"",
-      "analise": "Processador i7 de 13ª geração e tela WUXGA de 16 polegadas oferecem excelente performance e espaço de trabalho. O Linux de fábrica permite economia.",
+      "tela": "16.0\" IPS WUXGA (1920x1200)",
+      "analise": "Para quem busca mais performance, este VivoBook 16 oferece um Core i7 de 13ª geração e uma tela IPS WUXGA de 16 polegadas, ideal para produtividade com mais espaço vertical. O SSD de 512GB complementa o pacote. Vem com Linux KeepOS, permitindo economia.",
       "notas": {
         "performance": 9,
         "tela": 9,
@@ -35,54 +52,37 @@
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3i 82MG0009BR",
-      "preco": "R$ 3.149,00",
-      "link": "https://www.pontofrio.com.br/notebook-lenovo-ideapad-3i-intel-core-i5-1135g7-8gb-ssd-256gb-15-6-full-hd-windows-11-cinza-82mg0009br/p/55073033",
-      "foto": "https://img.pontofrio.com.br/55073033/1gg.jpg?imwidth=500",
-      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-57-51W5",
+      "preco": "R$ 3.899,00",
+      "link": "https://www.fujiokadistribuidor.com.br/notebook-acer-aspire-5-a515-57-51w5-156-intel-core-i5-8gb-256gb-ssd-cinza-aco/p",
+      "foto": "https://static.fujiokadistribuidor.com.br/arquivos/img_prod/15479/571713_0.png",
+      "cpu": "Intel Core i5-12450H (12ª Geração)",
       "ram": "8GB DDR4",
       "ssd": "256GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um bom equilíbrio entre processador, RAM e tela IPS, ideal para uso geral e estudos. O SSD de 256GB pode ser um limitador para alguns usuários.",
+      "tela": "15.6\" IPS Full HD",
+      "analise": "Um notebook robusto para trabalho e estudo, com processador Core i5 de 12ª geração e tela Full HD de 15.6 polegadas. A linha Aspire 5 é conhecida pela boa construção e desempenho consistente. O sistema Linux Gutta mantém o preço competitivo.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-57-565J (alternativa com TN, mas frequentemente em promoção próximo ao preço)",
-      "preco": "R$ 3.200,00",
-      "link": "https://www.kabum.com.br/produto/346890/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-prata-a515-57-565j",
-      "foto": "https://images.kabum.com.br/produtos/fotos/346890/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-prata-a515-57-565j_1660835158_g.jpg",
-      "cpu": "Intel Core i5-12450H (12ª Geração)",
+      "posicao": 5,
+      "modelo": "HP Laptop 15-dw3005wm",
+      "preco": "R$ 3.500,00",
+      "link": "https://produto.mercadolivre.com.br/MLB-2729930776-notebook-hp-15-dw3005wm-prata-156-intel-core-i5-1135g7-8-gb-de-ram-ssd-de-512-gb-intel-iris-xe-graphics-g7-80eus-1920x1080px-windows-10-home-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_995475-MLM71092497645_082023-F.webp",
+      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
       "ram": "8GB DDR4",
       "ssd": "512GB NVMe",
-      "tela": "TN Full HD 15.6\"",
-      "analise": "Embora o painel seja TN, este Aspire 5 oferece um processador i5 de 12ª geração e SSD de 512GB, sendo uma opção de alto desempenho em promoções.",
-      "notas": {
-        "performance": 8,
-        "tela": 6,
-        "custo_beneficio": 7
-      }
-    },
-    {
-      "posicao": 5,
-      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
-      "preco": "R$ 2.472,00",
-      "link": "https://www.efacil.com.br/eletrodomesticos/computadores/notebook/notebook-samsung-galaxy-book4-intel-core-i3-1315u-8gb-256gb-ssd-15-6-full-hd-ips-windows-11-np750xgj-kg5br/p/1628045",
-      "foto": "https://static.efacil.com.br/imagens/1000/1628045_1.jpg",
-      "cpu": "Intel Core i3-1315U (13ª Geração)",
-      "ram": "8GB LPDDR4x",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "A opção mais acessível com tela IPS e processador de 13ª geração. O SSD de 256GB é o mínimo recomendado, mas o preço o torna muito competitivo.",
+      "tela": "15.6\" IPS Full HD",
+      "analise": "Com um Core i5 de 11ª geração e 512GB de SSD, este HP oferece um bom conjunto para tarefas cotidianas e um pouco mais. A tela IPS Full HD é um ponto positivo, garantindo cores vibrantes e bons ângulos de visão. Indicado para usuários que buscam confiabilidade e espaço de armazenamento.",
       "notas": {
         "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 9
+        "tela": 8,
+        "custo_beneficio": 8
       }
     }
   ]
