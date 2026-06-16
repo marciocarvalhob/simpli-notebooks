@@ -2,32 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book4 NP750XGJ-KG5BR",
-      "preco": "R$ 2.472,00",
-      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/p/237078300/in/note/?&seller_id=samsung&variant_id=237078300",
-      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/samsung/237078300/a35d79435a242c75a4087961b7e289f0.jpg",
-      "cpu": "Intel Core i3-1315U (13ª Geração)",
+      "modelo": "Notebook Samsung Galaxy Book4 (NP750XGJ-KG3BR)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-core-i5-8gb-512gb-ssd-15-6-full-hd-windows-11-np750xgj-kg3br/p/237279100/in/nbga/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book4-intel-core-i5-8gb-512gb-ssd-15-6-full-hd-windows-11-np750xgj-kg3br/magazineluiza/237279100/e65e8a5b1fb406a40552b757f58a3350.jpg",
+      "cpu": "Intel Core i5-1335U",
       "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "15.6\" IPS Full HD",
-      "analise": "Excelente entrada no mundo IPS. O Core i3 de 13ª geração e o SSD rápido garantem agilidade para tarefas do dia a dia e multitarefa leve. A tela IPS Full HD é o grande diferencial nesta faixa de preço. Ideal para estudos, home office e consumo de mídia.",
-      "notas": {
-        "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "ASUS VivoBook 15 X1504VA-NJ1741",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-15-x1504/where-to-buy/pc-asus-vivobook-15-x1504va-nj1741-intel-core-i5-13a-geracao-8gb-512gb-ssd-keepos-15-6-lcd-led-fhd-nivel-ips-cool-silver",
-      "foto": "https://www.asus.com/media/global/products/2_7D3gBv61wXo0y63/img/overview/Product_large.png",
-      "cpu": "Intel Core i5-1334U (13ª Geração)",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "15.6\" IPS Full HD",
-      "analise": "Um notebook muito bem equilibrado com um Core i5 de última geração e 512GB de SSD. A tela IPS oferece ótima qualidade visual, e a construção é robusta para o dia a dia. Acompanha Linux KeepOS, o que contribui para o excelente custo-benefício.",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Excelente custo-benefício com processador de 13ª geração e SSD espaçoso. A tela IPS e a construção leve são diferenciais para o dia a dia e produtividade.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -35,54 +18,71 @@
       }
     },
     {
-      "posicao": 3,
-      "modelo": "ASUS VivoBook 16 X1605VA-MB742",
-      "preco": "R$ 3.250,04",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1605VA-MB742-Processador/dp/B0CKD331J9",
-      "foto": "https://m.media-amazon.com/images/I/71D0Y3bE3zL._AC_UF894,1000_QL80_.jpg",
-      "cpu": "Intel Core i7-1355U (13ª Geração)",
+      "posicao": 2,
+      "modelo": "Notebook Asus Vivobook 15 (X1504VA-NJ1737W)",
+      "preco": "R$ 3.060,00",
+      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-15-intel-core-i5-1334u-13-ghz-8gb-ram-256gb-ssd-tela-156-fhd-windows-11-home-quiet-blue-x1504va-nj1737w/p/MLB28509047",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704603-MLB74418659550_022024-F.webp",
+      "cpu": "Intel Core i5-1334U",
       "ram": "8GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "16.0\" IPS WUXGA (1920x1200)",
-      "analise": "Para quem busca mais performance, este VivoBook 16 oferece um Core i7 de 13ª geração e uma tela IPS WUXGA de 16 polegadas, ideal para produtividade com mais espaço vertical. O SSD de 512GB complementa o pacote. Vem com Linux KeepOS, permitindo economia.",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Processador Intel de 13ª geração e tela IPS em um pacote com ótimo preço. O SSD de 256GB é suficiente para o uso básico, e a robustez da linha Vivobook é um ponto positivo.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Notebook Acer Aspire 5 (A515-45-R1AC)",
+      "preco": "R$ 3.254,07",
+      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-15-6-full-hd-ips-a51545r1ac-amd-ryzen-5-5500u-8gb-ddr4-256gb-ssd-nvme-linux-gutta-64-bits-prata/p/236162300/in/nbac/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-15-6-full-hd-ips-a51545r1ac-amd-ryzen-5-5500u-8gb-ddr4-256gb-ssd-nvme-linux-gutta-64-bits-prata/magazineluiza/236162300/f65910df6df9a49931b6df332ee40b8a.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Com um Ryzen 5 5500U, este Aspire 5 oferece excelente desempenho multitarefa. A tela IPS é garantida, e o preço o torna uma opção muito atraente para quem busca produtividade.",
+      "notas": {
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-57-51W5",
-      "preco": "R$ 3.899,00",
-      "link": "https://www.fujiokadistribuidor.com.br/notebook-acer-aspire-5-a515-57-51w5-156-intel-core-i5-8gb-256gb-ssd-cinza-aco/p",
-      "foto": "https://static.fujiokadistribuidor.com.br/arquivos/img_prod/15479/571713_0.png",
-      "cpu": "Intel Core i5-12450H (12ª Geração)",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "15.6\" IPS Full HD",
-      "analise": "Um notebook robusto para trabalho e estudo, com processador Core i5 de 12ª geração e tela Full HD de 15.6 polegadas. A linha Aspire 5 é conhecida pela boa construção e desempenho consistente. O sistema Linux Gutta mantém o preço competitivo.",
+      "modelo": "Notebook Lenovo IdeaPad Slim 3i (83NS0001BR)",
+      "preco": "R$ 3.432,99",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-Slim-3-15IRU8/p/83NS0001BR",
+      "foto": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTU4Nzc2fGltYWdlL3BuZ3xoZGMvaDlmLzExMjE0MzE5MDcxMjk0LnBuZ3w3M2JjNjYwMWQzMmRjNDc5OWRlYzQ2NjUyYzZmZWU1MTM1OWVlYzU3YzYwNjdiMjgxNDFlYjFkOTdjYTBkMGZk/lenovo-laptop-ideapad-slim-3i-15-intel-hero.png",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS WUXGA (1920x1200)",
+      "analise": "Um processador robusto da 13ª geração, 8GB de RAM DDR5 e um SSD de 512GB fazem deste Lenovo uma potência para o trabalho. A tela WUXGA IPS oferece mais espaço vertical, ideal para produtividade.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
+        "performance": 9,
+        "tela": 9,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "HP Laptop 15-dw3005wm",
-      "preco": "R$ 3.500,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-2729930776-notebook-hp-15-dw3005wm-prata-156-intel-core-i5-1135g7-8-gb-de-ram-ssd-de-512-gb-intel-iris-xe-graphics-g7-80eus-1920x1080px-windows-10-home-_JM",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_995475-MLM71092497645_082023-F.webp",
-      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "15.6\" IPS Full HD",
-      "analise": "Com um Core i5 de 11ª geração e 512GB de SSD, este HP oferece um bom conjunto para tarefas cotidianas e um pouco mais. A tela IPS Full HD é um ponto positivo, garantindo cores vibrantes e bons ângulos de visão. Indicado para usuários que buscam confiabilidade e espaço de armazenamento.",
+      "modelo": "Notebook Positivo Vision R15M (AMD Ryzen 5-5625U)",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.lojadopositivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p",
+      "foto": "https://cdn.shopify.com/s/files/1/0569/2464/3482/products/NOTEBOOK-POSITIVO-VISION-R15M-AMD-RYZEN-5-5625U-LINUX-16GB-RAM-512GB-SSD-WI-FI-6-15-FULL-HD-IPS-MINITELA-PRETO-02.png?v=1678894236",
+      "cpu": "AMD Ryzen 5-5625U",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Surpreendente configuração da Positivo com 16GB de RAM e 512GB SSD, combinada com um Ryzen 5 potente e tela IPS. O Linux pode ser um atrativo para alguns e um ponto de atenção para outros.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     }
   ]
