@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3 (Ryzen 7 7735HS)",
-      "preco": "R$ 3.500,00 - R$ 3.900,00 (em promoção)",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 7 7735HS",
-      "ram": "8GB/16GB DDR5",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD (16:10)",
-      "analise": "O mais potente da lista sem ser gamer dedicado, ideal para multitarefas e produtividade. Seu processador Ryzen 7 7735HS com gráficos integrados Radeon 680M oferece desempenho superior para a faixa de preço, podendo até rodar jogos leves. A tela IPS Full HD com proporção 16:10 é um diferencial significativo. É necessário ficar atento às promoções para encaixar no orçamento.",
+      "modelo": "ASUS Vivobook 15 M1502YA AMD Ryzen 7 5825U",
+      "preco": "R$ 3.509,10",
+      "link": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-15-6-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/55060411",
+      "foto": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-15-6-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/55060411?displayType=image",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente custo-benefício com um Ryzen 7 potente e 512GB SSD, ideal para multitarefas e produtividade. Tela IPS de qualidade para consumo de conteúdo e trabalho.",
       "notas": {
         "performance": 9,
         "tela": 9,
@@ -19,15 +19,49 @@
     },
     {
       "posicao": 2,
-      "modelo": "VAIO FE16 VJFE69F11X-B0411H",
-      "preco": "R$ 3.000,00 - R$ 3.800,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "256GB/512GB NVMe SSD",
-      "tela": "IPS WUXGA (16 polegadas)",
-      "analise": "Excelente opção para quem busca uma tela maior e de qualidade, com 16 polegadas IPS WUXGA. O Ryzen 5 5625U oferece um bom equilíbrio entre desempenho e eficiência energética para tarefas diárias e produtividade. A capacidade de expansão da RAM é um ponto forte para longevidade.",
+      "modelo": "Lenovo IdeaPad Slim 3 Intel Core i5-13420H",
+      "preco": "R$ 3.610,82",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-i5-13420h-8gb-512gb-ssd-tela-15-6-fhd-ips-windows-11/p/237248500/in/note/?&seller_id=lojasmm&utm_source=google&utm_medium=comparador&utm_campaign=ML_PRC_RLW_CMP_NOTEBOOKS_PLA_COMP&sertp=offer&sertp=offer",
+      "foto": "https://static.paodeacucar.com/static/pa/product/906/17154906_1.jpg?width=400",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "512GB NVMe PCIe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Processador Intel de 13ª geração oferece desempenho robusto para trabalho e estudo. A tela IPS e o SSD generoso são ótimos para a categoria.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Positivo Vision R15M AMD Ryzen 7-5825U",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-24gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p",
+      "foto": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-24gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "24GB DDR4 (Verificar compatibilidade da loja, pode ser 8GB + 16GB upgrade)",
+      "ssd": "512GB NVMe PCIe SSD",
+      "tela": "IPS Full HD 15\"",
+      "analise": "Configuração robusta com Ryzen 7 e 24GB de RAM (se confirmar o upgrade) para multitarefas pesadas e até edição. A tela IPS é um diferencial em um Positivo.",
+      "notas": {
+        "performance": 9,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "MSI Modern 14 AMD Ryzen 5-7530U",
+      "preco": "R$ 2.751,14",
+      "link": "https://www.kabum.com.br/produto/620577/notebook-msi-modern-14-amd-ryzen-5-7530u-8gb-ram-ssd-512gb-14-fhd-ips-win-11h-standard-prata-9s7-14jk11-282",
+      "foto": "https://images.kabum.com.br/produtos/fotos/620577/notebook-msi-modern-14-amd-ryzen-5-7530u-8gb-ram-ssd-512gb-14-fhd-ips-win-11h-standard-prata-9s7-14jk11-282_1707920194_p.jpg",
+      "cpu": "AMD Ryzen 5 7530U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe Gen3 SSD",
+      "tela": "IPS Full HD 14\"",
+      "analise": "Portátil e com um bom processador Ryzen 5 da série 7000. A tela IPS de 14\" é excelente para mobilidade e oferece boa qualidade visual em um design premium.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -35,54 +69,20 @@
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Acer Aspire Go 15 AG15-51P",
-      "preco": "R$ 2.800,00 - R$ 3.500,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-13420H ou i5-1335U",
-      "ram": "8GB/16GB DDR5",
-      "ssd": "256GB/512GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "A linha Aspire Go 15, especificamente a versão 51P, é elogiada pela boa tela IPS e conectividade atualizada, incluindo USB-C com carregamento. O Core i5 de 13ª geração oferece um desempenho sólido para trabalho e estudo. Fique atento para garantir que seja a versão com tela IPS (51P e não a 71P TN).",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "ASUS VivoBook 15 (M1502YA-NJ612)",
-      "preco": "R$ 2.900,00 - R$ 3.600,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB (8GB soldado + slot)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Este modelo se destaca pela construção e acabamento, incluindo certificação militar e tela IPS. A versão NJ612 é importante por ter memória em dual channel (8GB soldados + slot), otimizando o desempenho gráfico integrado do Ryzen 5 7520U. É uma ótima opção para estudos e trabalho moderado.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "Positivo Vision R15M",
-      "preco": "R$ 2.600,00 - R$ 3.200,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 5500U",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.399,00",
+      "link": "https://www.magazineluiza.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-16-full-hd-ips-prata-vjfe69f11x-b0411h/p/237077600/in/note/?&seller_id=lojasmm&utm_source=google&utm_medium=comparador&utm_campaign=ML_PRC_RLW_CMP_NOTEBOOKS_PLA_COMP&sertp=offer&sertp=offer",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-16-full-hd-ips-prata-vjfe69f11x-b0411h/lojasmm/237077600/bcf739b6b72a0840d2105e468ffb368a.jpeg",
+      "cpu": "AMD Ryzen 5 5625U",
       "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (15.6 polegadas)",
-      "analise": "O Positivo Vision R15M surpreende pelo painel IPS Full HD na sua faixa de preço, oferecendo ângulos de visão e cores superiores. Com o Ryzen 5 5500U e 8GB de RAM, ele oferece um desempenho bom para uso geral, estudos e home office, sendo uma opção de entrada com um diferencial de tela. A marca melhorou o material de construção em relação a modelos anteriores.",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD 16\"",
+      "analise": "Tela de 16 polegadas IPS, ideal para quem precisa de mais espaço de trabalho. O Ryzen 5 5625U oferece bom desempenho para as tarefas diárias, e o Wi-Fi 6 é um bônus.",
       "notas": {
         "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 9
+        "tela": 9,
+        "custo_beneficio": 8
       }
     }
   ]
