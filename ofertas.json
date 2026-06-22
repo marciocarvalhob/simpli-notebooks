@@ -2,66 +2,49 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "ASUS Vivobook 15 M1502YA AMD Ryzen 7 5825U",
-      "preco": "R$ 3.509,10",
-      "link": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-15-6-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/55060411",
-      "foto": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-15-6-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/55060411?displayType=image",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício com um Ryzen 7 potente e 512GB SSD, ideal para multitarefas e produtividade. Tela IPS de qualidade para consumo de conteúdo e trabalho.",
+      "modelo": "Acer Aspire 5 A515-45-R478",
+      "preco": "R$ 3.509,10 (via Pix)",
+      "link": "https://www.kabum.com.br/produto/478544/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r",
+      "foto": "URL da foto do Acer Aspire 5 A515-45-R478",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16 GB DDR4 3200 MHz",
+      "ssd": "512 GB NVMe PCIe 3.0 x4 M.2",
+      "tela": "IPS Full HD (1920x1080) 15.6\"",
+      "analise": "Excelente custo-benefício com 16GB de RAM e um Ryzen 5 potente para multitarefas e uso geral, ideal para quem busca performance sólida. O sistema operacional é Linux Gutta, o que pode ser um diferencial para alguns ou exigir a instalação do Windows.",
       "notas": {
         "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 9
+        "tela": 8,
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad Slim 3 Intel Core i5-13420H",
-      "preco": "R$ 3.610,82",
-      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-i5-13420h-8gb-512gb-ssd-tela-15-6-fhd-ips-windows-11/p/237248500/in/note/?&seller_id=lojasmm&utm_source=google&utm_medium=comparador&utm_campaign=ML_PRC_RLW_CMP_NOTEBOOKS_PLA_COMP&sertp=offer&sertp=offer",
-      "foto": "https://static.paodeacucar.com/static/pa/product/906/17154906_1.jpg?width=400",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe PCIe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Processador Intel de 13ª geração oferece desempenho robusto para trabalho e estudo. A tela IPS e o SSD generoso são ótimos para a categoria.",
+      "modelo": "ASUS Vivobook 15 M1502YA-BQ966W",
+      "preco": "R$ 3.509,10 (via Pix)",
+      "link": "https://www.casasbahia.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-15-6-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/1582494929",
+      "foto": "URL da foto do ASUS Vivobook 15 M1502YA-BQ966W",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB SSD PCIe NVMe M2",
+      "tela": "IPS Full HD (1920x1080) 15.6\"",
+      "analise": "Processador Ryzen 7 oferece ótimo desempenho para produtividade e multitarefas. A tela IPS é um ponto forte para qualidade de imagem, e o SSD de 512GB proporciona boa velocidade. A RAM de 8GB pode ser um limitador para uso mais pesado.",
       "notas": {
         "performance": 8,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Positivo Vision R15M AMD Ryzen 7-5825U",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-24gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p",
-      "foto": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-24gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "24GB DDR4 (Verificar compatibilidade da loja, pode ser 8GB + 16GB upgrade)",
-      "ssd": "512GB NVMe PCIe SSD",
-      "tela": "IPS Full HD 15\"",
-      "analise": "Configuração robusta com Ryzen 7 e 24GB de RAM (se confirmar o upgrade) para multitarefas pesadas e até edição. A tela IPS é um diferencial em um Positivo.",
-      "notas": {
-        "performance": 9,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "MSI Modern 14 AMD Ryzen 5-7530U",
-      "preco": "R$ 2.751,14",
-      "link": "https://www.kabum.com.br/produto/620577/notebook-msi-modern-14-amd-ryzen-5-7530u-8gb-ram-ssd-512gb-14-fhd-ips-win-11h-standard-prata-9s7-14jk11-282",
-      "foto": "https://images.kabum.com.br/produtos/fotos/620577/notebook-msi-modern-14-amd-ryzen-5-7530u-8gb-ram-ssd-512gb-14-fhd-ips-win-11h-standard-prata-9s7-14jk11-282_1707920194_p.jpg",
-      "cpu": "AMD Ryzen 5 7530U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe Gen3 SSD",
-      "tela": "IPS Full HD 14\"",
-      "analise": "Portátil e com um bom processador Ryzen 5 da série 7000. A tela IPS de 14\" é excelente para mobilidade e oferece boa qualidade visual em um design premium.",
+      "modelo": "Positivo Vision R15M (Ryzen 5, 16GB RAM, 512GB SSD)",
+      "preco": "R$ 3.509,10 (via Pix)",
+      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15-r516512a-15-amd-ryzen-5-16gb-ram-ssd-512gb-15-6-full-hd-windows-11-3002956/p/237248300/in/note/",
+      "foto": "URL da foto do Positivo Vision R15M",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16 GB",
+      "ssd": "512 GB SSD",
+      "tela": "IPS Full HD (1920x1080) 15.6\"",
+      "analise": "Combinação robusta de Ryzen 5 e 16GB de RAM, ideal para diversas aplicações. A tela IPS e a Minitela integrada são diferenciais interessantes para produtividade e monitoramento de informações. Vem com Windows 11.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -69,20 +52,37 @@
       }
     },
     {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
+      "preco": "R$ 2.429,00 (via Pix)",
+      "link": "https://produto.mercadolivre.com.br/MLB-3694605963-notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-256gb-ssd-1tb-hd-windows-11-home-tela-156-np550xed-kf4br-_JM",
+      "foto": "URL da foto do Samsung Galaxy Book2 NP550XED-KF4BR",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB SSD + 1 TB HD (híbrido)",
+      "tela": "IPS Full HD (1920x1080) 15.6\"",
+      "analise": "Um notebook equilibrado para o dia a dia, com bom processador Intel de 12ª geração e tela IPS de qualidade. A combinação de SSD e HD oferece agilidade e espaço. Bom para estudos e trabalho leve.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
       "posicao": 5,
-      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.magazineluiza.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-16-full-hd-ips-prata-vjfe69f11x-b0411h/p/237077600/in/note/?&seller_id=lojasmm&utm_source=google&utm_medium=comparador&utm_campaign=ML_PRC_RLW_CMP_NOTEBOOKS_PLA_COMP&sertp=offer&sertp=offer",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-16-full-hd-ips-prata-vjfe69f11x-b0411h/lojasmm/237077600/bcf739b6b72a0840d2105e468ffb368a.jpeg",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD 16\"",
-      "analise": "Tela de 16 polegadas IPS, ideal para quem precisa de mais espaço de trabalho. O Ryzen 5 5625U oferece bom desempenho para as tarefas diárias, e o Wi-Fi 6 é um bônus.",
+      "modelo": "Positivo Vision R15M (Ryzen 5, 8GB RAM, 256GB SSD)",
+      "preco": "R$ 2.249,00 (via Pix)",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB27988358",
+      "foto": "URL da foto do Positivo Vision R15M",
+      "cpu": "AMD Ryzen 5-5625U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB M.2 NVMe",
+      "tela": "IPS Full HD (1920x1080) 15.6\"",
+      "analise": "Opção com excelente custo-benefício, oferecendo Ryzen 5, tela IPS e o diferencial da Minitela por um preço muito competitivo. Ideal para estudantes e uso básico a intermediário. A expansibilidade da RAM e SSD é um ponto positivo. O sistema operacional padrão é Linux.",
       "notas": {
         "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 8
+        "tela": 8,
+        "custo_beneficio": 10
       }
     }
   ]
