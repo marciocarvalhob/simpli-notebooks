@@ -2,32 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-58M-54LG",
+      "modelo": "Positivo Vision R15M AMD Ryzen 7-5825U",
       "preco": "R$ 3.799,00",
-      "link": "https://www.amazon.com.br/Acer-Aspire-5-A515-58M-54LG-Processador/dp/B0BNW1R59W",
-      "foto": "https://m.media-amazon.com/images/I/71D0Y7tGvUL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "16GB LPDDR5",
-      "ssd": "512GB NVMe SSD",
+      "link": "https://www.loja.positivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-32gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto",
+      "foto": "https://www.loja.positivo.com.br/arquivos/Vision-R15M-Ryzen7-Linux-32gb-512ssd-Foto-1.png?v=638531275470700000",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "32GB DDR4",
+      "ssd": "512GB NVMe PCIe Gen3 x4",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente equilíbrio de desempenho e tela, ideal para multitarefas e consumo de conteúdo. O Core i5 de 13ª geração e 16GB de RAM oferecem fluidez notável.",
+      "analise": "O campeão do custo-benefício. Com um Ryzen 7 de bom desempenho e incríveis 32GB de RAM, ele entrega performance de sobra para multitarefas pesadas e produtividade. A tela IPS é um diferencial na categoria.",
       "notas": {
         "performance": 9,
         "tela": 9,
-        "custo_beneficio": 9
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book2-intel-core-i5-1235u-windows-11-home-8gb-256gb-ssd-intel-iris-xe-156-full-hd-led/p/236162100/in/nbga/",
-      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-samsung-galaxy-book2-intel-core-i5-1235u-windows-11-home-8gb-256gb-ssd-intel-iris-xe-156-full-hd-led/magazineluiza/236162100/4096d203f16960d73f4738593a1910a3.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
+      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ1942W",
+      "preco": "R$ 3.824,15",
+      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-16gb-ram-512gb-ssd-windows-11-home-156-lcd-led-fhd-nivel-ips-nj1942w/p/237667200/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-16gb-ram-512gb-ssd-windows-11-home-156-lcd-led-fhd-nivel-ips-nj1942w/magazineluiza/237667200/cf92a5ec2c6b412b1d31a547743b1745.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "16GB LPDDR5",
+      "ssd": "512GB NVMe PCIe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Design premium e tela IPS de ótima qualidade para o preço. O processador de 12ª geração entrega bom desempenho para o dia a dia, e a portabilidade é um diferencial.",
+      "analise": "Excelente opção com processador Ryzen série 7000 e 16GB de RAM LPDDR5, garantindo fluidez e bom desempenho para uso geral e produtividade. A tela IPS e o SSD de 512GB complementam o pacote.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -36,52 +36,52 @@
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3 15ALC6 (Ryzen 5 5500U)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.mercadolivre.com.br/notebook-lenovo-amd-ryzen-5-5500u-8gb-256gb-ssd-156-novo-lacrado/p/MLB28906566",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLB78386121857_082024-F.webp",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um processador Ryzen 5 5500U potente para sua faixa, excelente para produtividade e multitarefas. A tela IPS e o custo-benefício são pontos fortes.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ825W",
-      "preco": "R$ 3.401,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-28-ghz-8gb-ram-256gb-ssd-windows-11-home-tela-156-fhd-black-e1504fa-nj825w/p/MLB28906567",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_784949-MLB72989124233_112023-F.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Leve e com bom desempenho para o dia a dia e estudos, o Ryzen 5 de série 7000 oferece boa eficiência energética. A tela IPS é um diferencial na categoria.",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.loja.positivo.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-16-ips-wuxga-antirreflexo-cinza-grafite",
+      "foto": "https://www.loja.positivo.com.br/arquivos/FE16-Ryzen5-Linux-8gb-256ssd-Foto-1.png?v=638531275470700000",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe PCIe Gen3 x4",
+      "tela": "IPS WUXGA (1920x1200) 16\"",
+      "analise": "Destaca-se pela tela de 16 polegadas com resolução WUXGA e painel IPS, ideal para quem precisa de mais espaço de trabalho. O Ryzen 5 5625U oferece desempenho sólido, e a RAM é expansível.",
       "notas": {
         "performance": 7,
-        "tela": 8,
+        "tela": 10,
         "custo_beneficio": 9
       }
     },
     {
+      "posicao": 4,
+      "modelo": "Positivo Vision R15M AMD Ryzen 5-5625U",
+      "preco": "R$ 2.789,00",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB28120536",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704618-MLA73528434771_122023-F.webp",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe PCIe Gen3 x4",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Uma versão mais acessível do R15M, mantendo a excelente tela IPS e o bom desempenho do Ryzen 5. Com um preço competitivo, é uma ótima escolha para estudos e uso diário, com possibilidade de upgrade de RAM e SSD.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
       "posicao": 5,
-      "modelo": "VAIO FE16 VJFE62F11X-B0911H",
-      "preco": "R$ 3.659,00",
-      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe16-intel-core-i5-1334u-13-gen-linux-debian-12-8gb-ram-256gb-ssd-tela-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe62f11x-b0911h/p/MLB28906568",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_914838-MLB78386053805_082024-F.webp",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS WUXGA (1920x1200) 16\"",
-      "analise": "Destaca-se pela tela WUXGA (proporção 16:10), oferecendo mais espaço vertical para trabalho. O Core i5 de 13ª geração e o design elegante completam o pacote.",
+      "modelo": "Acer Aspire Go 15 AG15-71PT-58SX (Core i5-13420H)",
+      "preco": "R$ 4.999,00 (Verificar ofertas, preço listado está acima do ideal, mas pode ter promoções)",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-ag15-71pt-58sx-intel-core-i5-13420h-13a-geracao-8gb-ddr5-512gb-ssd-tela-touch-156-fhd-ips-windows-11-home-wi-fi-6/p/MLB28114407",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910776-MLA73528434771_122023-F.webp",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5",
+      "ssd": "512GB NVMe PCIe Gen4 x4",
+      "tela": "IPS Full HD Touch 15.6\"",
+      "analise": "Este modelo se destaca pelo processador Intel de 13ª geração e tela touch IPS, oferecendo um bom conjunto para produtividade e experiência interativa. A RAM DDR5 e o SSD rápido garantem agilidade. Embora o preço listado esteja ligeiramente acima, promoções podem colocá-lo dentro da faixa.",
       "notas": {
         "performance": 8,
-        "tela": 10,
+        "tela": 9,
         "custo_beneficio": 8
       }
     }
