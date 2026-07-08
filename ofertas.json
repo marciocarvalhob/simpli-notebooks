@@ -2,49 +2,66 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "VAIO FE16 (Ryzen 7 5825U, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.466,00",
-      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-7-5825u-linux-8gb-ram-512gb-ssd-wi-fi-6-tela-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe69f11xb0321h/p/MLB28124584",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_727376-MLA74623190100_022024-O.webp",
+      "modelo": "ASUS Vivobook 15 M1502YA-NJ611",
+      "preco": "R$ 3.023,16",
+      "link": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512gb-ssd-linux-keepos-15-6-fhd-cool-silver-nj611/p/55075677",
+      "foto": "https://img.pontofrio.com.br/55075677/1g.jpg",
       "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB DDR4 (expansível)",
+      "ram": "8GB DDR4",
       "ssd": "512GB NVMe PCIe",
-      "tela": "IPS WUXGA (1920x1200) Antirreflexo de 16 polegadas",
-      "analise": "Excelente tela IPS WUXGA de 16 polegadas, ideal para produtividade. O Ryzen 7 oferece ótimo desempenho para multitarefas e processamento. O preço com desconto o torna um custo-benefício imbatível nesta categoria.",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um excelente equilíbrio entre processador robusto e tela de qualidade. O Ryzen 7 5825U oferece performance de sobra para multitarefas e produtividade, e a tela IPS é um diferencial notável nesta faixa de preço. A construção é elogiada e o preço em promoção é muito competitivo.",
       "notas": {
         "performance": 9,
-        "tela": 10,
+        "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad Slim 3i (Intel Core i5-13420H, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.amazon.com.br/Lenovo-IdeaPad-Slim-i5-13420H-512GB/dp/B0BP3F9C7D/ref=sr_1_3?qid=1720230000&refinements=p_89%3ALenovo%2Cp_n_feature_thirteen_browse-bin%3A8302073011%2Cp_n_feature_six_browse-bin%3A19616080011%2Cp_n_feature_twenty-three_browse-bin%3A22902347011&rnid=22902346011&s=computers&sr=1-3",
-      "foto": "https://m.media-amazon.com/images/I/71u9z8L-MvL._AC_SL1500_.jpg",
+      "modelo": "Lenovo IdeaPad Slim 3i 83NS000ABR",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.amazon.com.br/Lenovo-IdeaPad-Slim-83NS000ABR-Windows/dp/B0D5N653R6/",
+      "foto": "https://m.media-amazon.com/images/I/61f5108S4oL._AC_SL1500_.jpg",
       "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR5 (expansível)",
+      "ram": "8GB DDR4",
       "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo de 15.6 polegadas",
-      "analise": "Processador Core i5-13420H com bom desempenho para tarefas cotidianas e produtividade. Tela IPS de 300 nits e 60Hz oferece boa qualidade visual. O upgrade de RAM é possível, aumentando a longevidade.",
+      "tela": "WUXGA WVA 15.3\" (Nível IPS) Touch",
+      "analise": "Este IdeaPad Slim 3i se destaca pelo processador Core i5 de 13ª geração da série H, que proporciona um desempenho superior para tarefas mais exigentes. A tela WUXGA com painel WVA (similar a IPS) e função touch, além do bom armazenamento, o tornam uma opção muito versátil e com ótimo custo-benefício.",
       "notas": {
-        "performance": 8,
-        "tela": 9,
+        "performance": 9,
+        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Acer Aspire Go 15 (Intel Core i5-13420H, 16GB RAM, 512GB SSD, Linux)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.acer.com/br-pt/acer-go-series/aspire-go/p/AG15-71P-53D9",
-      "foto": "https://static.acer.com/up/Resource/Acer/Acer_Go_Series/Aspire_Go/image/2024/Notebook_AG15-71P-53D9_AG15-71P-73D2_AG15-71P-58MD_RGB_01A.png",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "16GB DDR5",
+      "modelo": "Positivo Vision R15M R58256BI-15",
+      "preco": "R$ 2.549,00",
+      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto/p/eecg0hj0ga/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto/magazineluiza/eecg0hj0ga/b478175d2639d4b31a31d939e6566432.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Para quem busca alta performance no limite inferior do orçamento, o Positivo Vision R15M com Ryzen 5 5625U é uma escolha surpreendente. A tela IPS é um grande atrativo, e apesar de vir com Linux e 256GB de SSD, o preço permite um upgrade futuro se necessário. A construção melhorou significativamente em relação aos modelos anteriores.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 A515-45-R478",
+      "preco": "R$ 3.779,10",
+      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-156-fhd-led-ips-60hz-linux-gutta/p/dckb6j5j66/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-156-fhd-led-ips-60hz-linux-gutta/magazineluiza/dckb6j5j66/e3e3b32408c6913e6181f08e4529141f.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16GB DDR4",
       "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo de 15.6 polegadas",
-      "analise": "Combinação robusta de i5 de 13ª geração e 16GB de RAM DDR5, garantindo fluidez em multitarefas. A tela IPS é um diferencial importante para a categoria. Acompanha Linux, o que pode ser um ponto positivo para quem busca economia.",
+      "tela": "IPS Full HD 15.6\" 60Hz",
+      "analise": "O Acer Aspire 5 com 16GB de RAM e 512GB de SSD já vem pronto para um uso mais intenso, sem a necessidade de upgrades imediatos. O Ryzen 5 5500U é um processador competente, e a tela IPS garante uma excelente experiência visual para trabalho e consumo de mídia.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -52,36 +69,19 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "ASUS VivoBook 15 M1502YA-NJ612 (Ryzen 5 7530U, 16GB RAM, 512GB SSD)",
-      "preco": "R$ 3.650,00",
-      "link": "https://www.kabum.com.br/produto/380000/notebook-asus-vivobook-15-amd-ryzen-5-7530u-16gb-ram-512gb-ssd-tela-15-6-ips-full-hd-windows-11-cinza",
-      "foto": "https://images.kabum.com.br/produtos/fotos/380000/380000_1677093247_g.jpg",
-      "cpu": "AMD Ryzen 5 7530U",
-      "ram": "16GB DDR4 (8GB soldado + 8GB slot)",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo de 15.6 polegadas",
-      "analise": "Processador Ryzen 5 de boa performance, com 16GB de RAM em dual channel, o que é ótimo para o desempenho gráfico integrado. A tela IPS e a construção da linha VivoBook são pontos fortes, oferecendo uma experiência equilibrada.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "Dell Inspiron 15 (Intel Core i5-1235U, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.magazineluiza.com.br/notebook-dell-inspiron-15-intel-core-i5-1235u-8gb-ram-256gb-ssd-tela-15-6-full-hd-wva-windows-11-preto/p/080000000/in/note/",
-      "foto": "https://static.magazineluiza.com.br/img/produto/imagens/9c/080000000/notebook-dell-inspiron-15-intel-core-i5-1235u-8gb-ram-256gb-ssd-tela-15-6-full-hd-wva-windows-11-preto.jpg",
-      "cpu": "Intel Core i5-1235U",
+      "modelo": "VAIO FE16 (Modelo com Ryzen 7 5825U)",
+      "preco": "R$ 3.799,00",
+      "link": "https://loja.meupositivo.com.br/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-32gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto/p",
+      "foto": "https://cdn.awsli.com.br/800x800/1628/1628795/produto/231189335/img_6135-d2243d4c38.jpg",
+      "cpu": "AMD Ryzen 7 5825U",
       "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "WVA Full HD (1920x1080) Antirreflexo de 15.6 polegadas",
-      "analise": "Dell Inspiron é sinônimo de confiabilidade. A tela WVA (equivalente a IPS) oferece boa qualidade de imagem. O Core i5-1235U é eficiente para uso geral e a RAM pode ser expandida. O SSD de 256GB pode ser um limitador para alguns, mas é adequado para o preço.",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 16\"",
+      "analise": "Com uma tela maior de 16 polegadas, o VAIO FE16 oferece mais espaço de trabalho, ideal para produtividade. O processador Ryzen 7 5825U entrega desempenho robusto, e a tela IPS proporciona ótima qualidade de imagem. É uma opção premium dentro do orçamento, com o benefício de uma marca conhecida pela qualidade.",
       "notas": {
-        "performance": 7,
-        "tela": 8,
+        "performance": 9,
+        "tela": 9,
         "custo_beneficio": 8
       }
     }
