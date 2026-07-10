@@ -2,32 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-58P-51CB (Exemplo de Configuração)",
-      "preco": "R$ 3.499,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8 GB LPDDR5",
-      "ssd": "512 GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Excelente equilíbrio entre processador de última geração e tela IPS de qualidade, ideal para produtividade e multitarefas. A memória RAM LPDDR5 oferece agilidade.",
+      "modelo": "Acer Aspire 5 A515-45-R2A3 (Ryzen 5 5500U)",
+      "preco": "R$ 3.239,00",
+      "link": "https://www.2eletro.com.br/notebook-acer-aspire-5-a515-45-r2a3-amd-ryzen-5-windows-11-home-8gb-512gb-ssd-15-6-full-hd-p1017838",
+      "foto": "https://m.media-amazon.com/images/I/71Y0v8gLh8L._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Excelente equilíbrio entre desempenho para o dia a dia e tela de qualidade IPS. O SSD de 512GB oferece boa capacidade e velocidade. Ideal para produtividade e multitarefas moderadas.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad Slim 3 (Ryzen 5 7520U)",
-      "preco": "R$ 3.199,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8 GB LPDDR5",
-      "ssd": "512 GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Um forte concorrente com um processador Ryzen 7000-series eficiente e rápido, ótimo para o dia a dia e multitarefas. A tela IPS garante boa experiência visual.",
+      "modelo": "ASUS Vivobook 15 X1504VA (Core i5-1334U)",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.kabum.com.br/produto/478543/notebook-asus-vivobook-15-intel-core-i5-1334u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-home-prata-x1504va-bq2030w",
+      "foto": "https://img.kabum.com.br/produtos/fotos/478543/notebook-asus-vivobook-15-intel-core-i5-1334u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-home-prata-x1504va-bq2030w_1701358052_gg.jpg",
+      "cpu": "Intel Core i5-1334U (13ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Processador Intel de 13ª geração garante bom desempenho para tarefas cotidianas e produtividade. A tela IPS e o SSD generoso são pontos fortes para o valor.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -36,15 +36,32 @@
     },
     {
       "posicao": 3,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.099,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Design elegante e leve, com bom desempenho para tarefas cotidianas e ótima portabilidade. A tela IPS é um diferencial importante para consumo de conteúdo.",
+      "modelo": "Lenovo IdeaPad Slim 3 (Ryzen 5 7520U)",
+      "preco": "R$ 2.899,00",
+      "link": "https://www.fastshop.com.br/web/p/d/762512140-notebook-lenovo-ideapad-slim-3-amd-ryzen-5-7520u-8gb-256gb-ssd-tela-15-6-full-hd-linux-cinza-82x0000br",
+      "foto": "https://fastshop.com.br/web/images/products/notebooks/762512140_zoom.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Excelente opção para quem busca portabilidade e boa performance com a eficiência dos processadores Ryzen série 7000 e memória LPDDR5. O SSD de 256GB pode ser um limitante para alguns, mas é rápido.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book4 (Core i5-1335U)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-i5-1335U/dp/B0CX7W8G9Y",
+      "foto": "https://m.media-amazon.com/images/I/71X0u+D00QL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1335U (13ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Combinação de design elegante, processador Intel de última geração e tela IPS de qualidade. A integração com o ecossistema Galaxy é um plus para usuários Samsung. O preço está no limite superior, mas é um conjunto equilibrado.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -52,37 +69,20 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "ASUS Vivobook 15 X1504ZA (Core i5 12ª Gen)",
-      "preco": "R$ 2.999,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Notebook robusto com boa capacidade de armazenamento e um processador Intel de 12ª geração que oferece performance sólida para trabalho e estudo. A tela IPS aprimora a experiência.",
+      "posicao": 5,
+      "modelo": "Dell Inspiron 15 (AMD Ryzen 5 7530U)",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.dell.com/pt-br/shop/laptops/notebook-inspiron-15/spd/inspiron-15-3535-laptop/cai15_m301w",
+      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3535-silver-laptop-gallery-4?$delsku$",
+      "cpu": "AMD Ryzen 5 7530U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "A Dell oferece boa construção e confiabilidade. O processador Ryzen 5 7530U é potente para as tarefas do dia a dia. A tela IPS é um diferencial importante nesta faixa de preço. O SSD de 256GB pode ser pequeno para alguns.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 5,
-      "modelo": "Positivo Vision R15M",
-      "preco": "R$ 2.699,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Uma opção de entrada com excelente custo-benefício, entregando uma tela IPS de boa qualidade e um processador Ryzen 5 competente para tarefas básicas e multitarefas leves.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 10
+        "custo_beneficio": 8
       }
     }
   ]
