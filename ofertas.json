@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 (NP550XED-KF2BR)",
-      "preco": "R$ 3.038,00",
-      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-u300-1-20-ghz-ate-4-4ghz-8-mb-l3-cache-windows-11-home-8gb-256gb-ssd-uhd-graphics-15-6-full-hd-led-1-55kg-grafite/p/237586200/in/not4/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-256gb-ssd-15-6-full-hd-windows-11-grafite/magazineluiza/235889500/18e24c25141e1dfdd9413243f72186dd.jpg",
-      "cpu": "Intel Core i5-1235U (12ª Geração)",
-      "ram": "8GB DDR4 (expansível até 32GB)",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080) de 15.6\" Antirreflexo",
-      "analise": "Um forte competidor, o Galaxy Book2 oferece um processador de 12ª geração com ótimo desempenho para tarefas diárias e multitarefas. A tela IPS Full HD é um destaque para consumo de mídia e trabalho visual. A possibilidade de upgrade de RAM e armazenamento agrega valor ao longo prazo.",
+      "modelo": "ASUS Vivobook 15 X1504VA",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.google.com/search?q=ASUS+Vivobook+15+X1504VA+i5-1334U+16GB+512GB+SSD+preço+brasil",
+      "foto": "https://m.media-amazon.com/images/I/71R2H04p54L._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "16 GB DDR4",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Excelente custo-benefício com processador de 13ª geração e boa quantidade de RAM e SSD para produtividade e uso diário. A tela IPS é um diferencial na faixa de preço.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,49 +19,15 @@
     },
     {
       "posicao": 2,
-      "modelo": "ASUS Vivobook 15 (X1504VA-NJ1737W)",
-      "preco": "R$ 3.899,99",
-      "link": "https://www.casasbahia.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-256gb-ssd-windows-11-home-intel-iris-xe-tela-15-6-led-fhd-blue-nj1737w/p/55077271",
-      "foto": "https://img.casasbahia.com.br/1550772711/1xg.jpg?v=638531737754593922",
-      "cpu": "Intel Core i5-1334U (13ª Geração)",
-      "ram": "8GB DDR4 (4GB OnBoard + 4GB OffBoard, expansível até 16GB)",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920 x 1080) de 15.6\" Nível IPS Antirreflexo",
-      "analise": "Com um processador Intel Core i5 de 13ª geração, este Vivobook entrega performance ágil para diversas aplicações. A tela Full HD 'nível IPS' com certificação TÜV Rheinland garante conforto visual. A durabilidade de nível militar é um bônus.",
-      "notas": {
-        "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3i (83NS0002BR)",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3i-intel-core-i5-13420h-8gb-ram-512gb-ssd-15-3-wuxga-windows-11-intel-uhd-graphics-83ns0002br/p/237466800/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad-slim-3i-intel-core-i5-13420h-8gb-ram-512gb-ssd-15-3-wuxga-windows-11-intel-uhd-graphics-83ns0002br/magazineluiza/237466800/4c37e9d7fc214731835941655653b49c.jpg",
-      "cpu": "Intel Core i5-13420H (13ª Geração)",
-      "ram": "8GB DDR5 (expansível até 24GB)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "WUXGA IPS (1920 x 1200) de 15.3\" Antirreflexo",
-      "analise": "Se você busca um notebook com mais poder de processamento, o i5-13420H de série H é um diferencial. A tela WUXGA IPS com proporção 16:10 é excelente para produtividade, oferecendo mais espaço vertical para documentos e navegação.",
-      "notas": {
-        "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Acer Aspire Go 15 (AG15-51P-55LL)",
-      "preco": "R$ 3.515,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-3563456783-notebook-acer-aspire-go-15-ag15-51p-55ll-intel-core-i5-1334u-153-8gb-256gb-ssd-windows-11-home-_JM",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_616422-MLB76140508006_052024-F.webp",
-      "cpu": "Intel Core i5-1334U (13ª Geração)",
-      "ram": "8GB DDR5",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS WUXGA (1920 x 1200) de 15.3\"",
-      "analise": "Combinando um processador Intel de 13ª geração e memória DDR5, este Aspire Go 15 entrega um bom desempenho para o uso cotidiano. A tela IPS WUXGA com formato 16:10 é um grande atrativo para quem valoriza espaço de tela e qualidade de imagem.",
+      "modelo": "Samsung Galaxy Book4 (i5-1335U)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.google.com/search?q=Samsung+Galaxy+Book4+i5-1335U+8GB+256GB+SSD+preço+brasil",
+      "foto": "https://m.media-amazon.com/images/I/71X8gUjQ4wL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Design premium e leve, ideal para portabilidade. O processador de 13ª geração oferece bom desempenho para tarefas cotidianas e profissionais. A tela IPS garante ótima qualidade de imagem.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -69,19 +35,53 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Lenovo IdeaPad 3i (82MD0007BR)",
-      "preco": "R$ 3.333,48",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-3i-Gen-6-15-Intel/p/82MD0007BR",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3i-15-intel-gen-6-hero.png?context=bWFzdGVyfHJvb3R8MjI1MTk4fGltYWdlL3BuZ3xoMjYvaGVmLzExODE4NTI5NDc2NjM4LnBuZ3xhOGVmY2IwMzU1Nzc0YTJhYTRkMmZkNzYxMTNiOGUwNDQ5MjRmZTNhNjU2MTc0MDc4YWE4ZTVkYmM4MzA1Y2Vj",
-      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "Full HD (1920 x 1080) de 15.6\" Antirreflexo",
-      "analise": "Uma opção sólida e mais acessível com um processador i5 de 11ª geração, ainda muito competente para as demandas do dia a dia. A tela Full HD antirreflexo oferece uma boa experiência visual para o trabalho e entretenimento, mesmo que nem sempre explicitamente rotulada como IPS em todas as listagens, é comum que a Lenovo utilize painéis de boa qualidade com amplos ângulos de visão.",
+      "posicao": 3,
+      "modelo": "Acer Aspire 5 A515-45 (Ryzen 5 5500U)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.google.com/search?q=Acer+Aspire+5+A515-45+Ryzen+5+5500U+16GB+512GB+SSD+preço+brasil",
+      "foto": "https://m.media-amazon.com/images/I/71k4vQ1g9fL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16 GB DDR4",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um dos melhores em custo-benefício, com processador Ryzen 5, 16GB de RAM e 512GB de SSD, excelente para multitarefas e produtividade. A tela IPS é um grande atrativo.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad Slim 3i (Core i5-13420H)",
+      "preco": "R$ 3.650,00",
+      "link": "https://www.google.com/search?q=Lenovo+IdeaPad+Slim+3i+Core+i5-13420H+8GB+512GB+SSD+preço+brasil",
+      "foto": "https://m.media-amazon.com/images/I/61M4RjF6jKL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Com um processador Intel Core i5 de 13ª geração da linha H, este notebook oferece desempenho superior para tarefas mais exigentes. A tela IPS e o design fino são pontos fortes.",
+      "notas": {
+        "performance": 9,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "VAIO FE 16 (Ryzen 7 5825U)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.google.com/search?q=VAIO+FE+16+Ryzen+7+5825U+16GB+256GB+SSD+preço+brasil",
+      "foto": "https://m.media-amazon.com/images/I/711jQe4p8hL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "16 GB DDR4",
+      "ssd": "256 GB NVMe SSD",
+      "tela": "IPS Full HD 16 polegadas",
+      "analise": "Tela grande de 16 polegadas com painel IPS antirreflexo e um potente Ryzen 7, ideal para quem busca produtividade e espaço de trabalho. A autonomia de bateria também é um destaque.",
+      "notas": {
+        "performance": 9,
+        "tela": 9,
         "custo_beneficio": 8
       }
     }
