@@ -2,86 +2,86 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "ASUS Vivobook 15 X1504VA",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.google.com/search?q=ASUS+Vivobook+15+X1504VA+i5-1334U+16GB+512GB+SSD+preço+brasil",
-      "foto": "https://m.media-amazon.com/images/I/71R2H04p54L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "16 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Excelente custo-benefício com processador de 13ª geração e boa quantidade de RAM e SSD para produtividade e uso diário. A tela IPS é um diferencial na faixa de preço.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-i5-8gb-256gb-ssd-np550xed-kf2br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-graphite-534125796?$2052_1640_PNG$",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD (expansível)",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente equilíbrio entre desempenho, tela de qualidade IPS e design premium. O processador de 12ª geração oferece boa performance para o dia a dia e tarefas mais exigentes. A expansibilidade da RAM e SSD é um diferencial.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Samsung Galaxy Book4 (i5-1335U)",
+      "modelo": "Acer Aspire 5 A515-57-51W5",
       "preco": "R$ 3.499,00",
-      "link": "https://www.google.com/search?q=Samsung+Galaxy+Book4+i5-1335U+8GB+256GB+SSD+preço+brasil",
-      "foto": "https://m.media-amazon.com/images/I/71X8gUjQ4wL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Design premium e leve, ideal para portabilidade. O processador de 13ª geração oferece bom desempenho para tarefas cotidianas e profissionais. A tela IPS garante ótima qualidade de imagem.",
+      "link": "https://www.acer.com/br-pt/laptops/aspire/aspire-5/pdp/NX.K4RAL.00C",
+      "foto": "https://static.acer.com/up/Resource/Acer/Laptops/Aspire_5/media/Acer-Aspire-5-A515-57-55B8-main.png",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD (expansível)",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Com um processador i5 de 12ª geração com foco em performance (série H), este Aspire 5 é uma ótima opção para quem precisa de mais poder de processamento. A tela IPS é padrão da linha e a possibilidade de upgrade é sempre bem-vinda.",
       "notas": {
         "performance": 8,
-        "tela": 9,
+        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Acer Aspire 5 A515-45 (Ryzen 5 5500U)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.google.com/search?q=Acer+Aspire+5+A515-45+Ryzen+5+5500U+16GB+512GB+SSD+preço+brasil",
-      "foto": "https://m.media-amazon.com/images/I/71k4vQ1g9fL._AC_SL1500_.jpg",
+      "modelo": "Positivo Vision R15",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.pontodigitalinformatica.com.br/notebook-positivo-vision-r15-amd-ryzen-5-5500u-8gb-ram-512gb-ssd-ips-full-hd-15-6-lumina-bar-preto.html",
+      "foto": "https://www.positivo.com.br/wcsstore/PositivoStore/images/img/produtos/vision-r15/vision-r15-01.png",
       "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Um dos melhores em custo-benefício, com processador Ryzen 5, 16GB de RAM e 512GB de SSD, excelente para multitarefas e produtividade. A tela IPS é um grande atrativo.",
+      "ram": "8GB RAM (expansível até 64GB)",
+      "ssd": "512GB SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "O Positivo Vision R15 se destaca pelo seu processador Ryzen 5 5500U, que oferece excelente multitarefa, e pelo SSD de 512GB, um bom ponto de partida. A tela IPS e o 'Lumina Bar' para chamadas de vídeo são diferenciais interessantes. Ótimo custo-benefício para uso geral e produtividade.",
       "notas": {
         "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad 3i (variantes com i5 11ª/12ª gen)",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-3i-Gen-6-15-inch-Intel/p/82MD0007BR",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3i-15-intel-gen-6-hero.png?context=bWFzdGVyfHJvb3R8MjUxNTA2fGltYWdlL3BuZ3xoYTQvaGQ5LzEwNzUwNTY2MjYxNzkwLnBuZ3xkMjkzZTBkODMxYjI2YTIzOGQ3NDg1NDY1MzI3OWQ2NmQ1N2IyMzg5M2Q2Y2RkYjIyMDQxODU2ZTM4MGQ0MTIz",
+      "cpu": "Intel Core i5-1135G7 (ou similar de 12ª gen)",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD (expansível)",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "A linha IdeaPad 3i da Lenovo é consistente em oferecer bom desempenho para o dia a dia e estudo. Com processadores i5 de gerações recentes e tela IPS, é uma escolha sólida. A disponibilidade varia com a geração do processador, mas geralmente oferece bom valor.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3i (Core i5-13420H)",
-      "preco": "R$ 3.650,00",
-      "link": "https://www.google.com/search?q=Lenovo+IdeaPad+Slim+3i+Core+i5-13420H+8GB+512GB+SSD+preço+brasil",
-      "foto": "https://m.media-amazon.com/images/I/61M4RjF6jKL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Com um processador Intel Core i5 de 13ª geração da linha H, este notebook oferece desempenho superior para tarefas mais exigentes. A tela IPS e o design fino são pontos fortes.",
+      "posicao": 5,
+      "modelo": "ASUS VivoBook 15 X1504VA-NJ1738W",
+      "preco": "R$ 3.899,99",
+      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-15-x1504/where-to-buy/",
+      "foto": "https://www.asus.com/Images/Laptop/VivoBook/Vivobook_15_X1504VA_NJ1738W/KV.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB RAM (expansível)",
+      "ssd": "256GB NVMe SSD (expansível)",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Este VivoBook 15 traz um processador Intel Core i5 de 13ª geração, oferecendo excelente desempenho e eficiência energética. A tela IPS e a construção leve são pontos fortes, tornando-o ideal para mobilidade e produtividade. Pode estar ligeiramente acima do limite superior da faixa, mas é uma opção potente.",
       "notas": {
         "performance": 9,
         "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 5,
-      "modelo": "VAIO FE 16 (Ryzen 7 5825U)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.google.com/search?q=VAIO+FE+16+Ryzen+7+5825U+16GB+256GB+SSD+preço+brasil",
-      "foto": "https://m.media-amazon.com/images/I/711jQe4p8hL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "16 GB DDR4",
-      "ssd": "256 GB NVMe SSD",
-      "tela": "IPS Full HD 16 polegadas",
-      "analise": "Tela grande de 16 polegadas com painel IPS antirreflexo e um potente Ryzen 7, ideal para quem busca produtividade e espaço de trabalho. A autonomia de bateria também é um destaque.",
-      "notas": {
-        "performance": 9,
-        "tela": 9,
         "custo_beneficio": 8
       }
     }
