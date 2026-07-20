@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Positivo Vision R15M (Ryzen 7-5825U, 32GB RAM)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.fastshop.com.br/web/p/p/PNA3002878_PRD/notebook-positivo-vision-r15m-amd-ryzen-7-5825u-linux-32gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto-3002878",
-      "foto": "",
-      "cpu": "AMD Ryzen 7-5825U",
-      "ram": "32GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD",
-      "analise": "Absolutamente imbatível em especificações para o preço, oferecendo um Ryzen 7 de alta performance e impressionantes 32GB de RAM, ideal para multitarefas extremas e uso profissional. A tela IPS é um bônus. O sistema operacional é Linux Debian, o que pode exigir adaptação.",
+      "modelo": "Samsung Galaxy Book4 (Intel Core i5-1335U)",
+      "preco": "R$ 3.599,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Excelente balanço entre desempenho para multitarefas e produtividade, com uma tela IPS de alta qualidade e design elegante. O processador de 13ª geração garante boa longevidade.",
       "notas": {
-        "performance": 9.5,
-        "tela": 8.5,
-        "custo_beneficio": 10
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Positivo Vision R15 (Ryzen 5-5500U, 16GB RAM)",
-      "preco": "R$ 3.249,00",
-      "link": "https://www.fastshop.com.br/web/p/p/PNA3002878_PRD/notebook-positivo-vision-r15-amd-ryzen-5-5500u-linux-16gb-ram-512gb-ssd-156-ips-full-hd-lumina-bar-preto-3002878",
-      "foto": "",
-      "cpu": "AMD Ryzen 5-5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD",
-      "analise": "Uma excelente opção com 16GB de RAM e 512GB SSD, que já é uma configuração robusta para a maioria dos usuários, impulsionada pelo competente Ryzen 5. A tela IPS Full HD é um grande atrativo. Vem com Linux.",
+      "modelo": "Acer Aspire 5 (Intel Core i5 de 12ª Geração)",
+      "preco": "R$ 3.299,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Um forte competidor com um bom conjunto de hardware para o dia a dia e trabalho, oferecendo uma tela IPS de qualidade e bom potencial de expansão de RAM.",
       "notas": {
         "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 9.5
+        "tela": 8,
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Samsung Galaxy Book4 (i5-1335U, 8GB RAM)",
-      "preco": "R$ 4.070,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-3619934275-notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-512gb-ssd-iris-xe-156-full-hd-led-windows-11-home-_JM",
-      "foto": "",
-      "cpu": "Intel Core i5-1335U (13ª Geração)",
-      "ram": "8GB LPDDR4X",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD",
-      "analise": "Embora ligeiramente acima do limite de R$ 3.800 (preço no Pix), o Galaxy Book4 oferece um pacote completo com processador de 13ª geração, design premium e tela IPS, justificando o investimento extra. Ótimo para produtividade e portabilidade.",
+      "modelo": "Lenovo IdeaPad Slim 3 (AMD Ryzen 5 7535HS)",
+      "preco": "R$ 3.699,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 7535HS",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Oferece um dos melhores desempenhos na faixa de preço devido ao Ryzen 7000. Ideal para quem busca performance superior em multitarefas e até mesmo jogos leves, com uma tela IPS e construção sólida.",
       "notas": {
-        "performance": 8.5,
-        "tela": 9,
-        "custo_beneficio": 8.5
+        "performance": 9,
+        "tela": 8,
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 4,
-      "modelo": "Acer Aspire 5 (Ryzen 5, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.588,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-3601556093-notebook-acer-aspire-5-ryzen-5-8gb-256gb-ssd-156-ips-r1ac-_JM",
-      "foto": "",
-      "cpu": "AMD Ryzen 5 (5500U ou similar)",
+      "modelo": "ASUS VivoBook 15 (AMD Ryzen 5 5500U)",
+      "preco": "R$ 2.999,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 5500U",
       "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD",
-      "analise": "Um notebook equilibrado com processador Ryzen 5 e tela IPS de boa qualidade. A configuração de 8GB de RAM e 256GB SSD é padrão para uso diário e estudos, oferecendo um bom custo-benefício.",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Um clássico no segmento de custo-benefício. A tela IPS é um diferencial nessa faixa de preço, e o Ryzen 5 5500U oferece desempenho robusto para a maioria das tarefas diárias.",
       "notas": {
-        "performance": 7.5,
-        "tela": 8.5,
-        "custo_beneficio": 8.5
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 5,
-      "modelo": "Lenovo IdeaPad 3i (i5-1135G7, 8GB RAM)",
-      "preco": "R$ 3.799,00",
-      "link": "https://produto.mercadolivre.com.br/MLB-2679803126-notebook-lenovo-ideapad-3i-i5-1135g7-8gb-256gb-ssd-ips-_JM",
-      "foto": "",
-      "cpu": "Intel Core i5-1135G7",
+      "modelo": "VAIO FE15 (Intel Core i3-1115G4)",
+      "preco": "R$ 2.799,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i3-1115G4",
       "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD",
-      "analise": "Com um Core i5 de 11ª geração e tela IPS, este IdeaPad 3i oferece um bom desempenho para multitarefas e consumo de conteúdo. Os 256GB de SSD são suficientes para o sistema e programas essenciais.",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6 polegadas antirreflexo",
+      "analise": "Foco na experiência visual com uma tela IPS Full HD antirreflexo, ideal para longas horas de uso. O Core i3 de 11ª geração é suficiente para tarefas básicas e produtividade.",
       "notas": {
-        "performance": 7.5,
-        "tela": 8.5,
-        "custo_beneficio": 8
+        "performance": 6,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     }
   ]
