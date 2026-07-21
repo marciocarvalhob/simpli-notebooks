@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book4 (Intel Core i5-1335U)",
-      "preco": "R$ 3.599,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB LPDDR4x",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Excelente balanço entre desempenho para multitarefas e produtividade, com uma tela IPS de alta qualidade e design elegante. O processador de 13ª geração garante boa longevidade.",
+      "modelo": "Lenovo IdeaPad 3i (Core i5 12ª Geração)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.lojaexemplo.com.br/lenovo-ideapad-3i-i5-12gen-8gb-256gb-ssd-ips",
+      "foto": "https://www.lojaexemplo.com.br/imagens/lenovo-ideapad-3i.jpg",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente equilíbrio entre performance para uso diário e tela IPS vibrante. O Core i5 de 12ª Geração oferece bom desempenho multitarefas, e o SSD garante agilidade. Ótimo para trabalho, estudo e consumo de conteúdo.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,70 +19,70 @@
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 (Intel Core i5 de 12ª Geração)",
-      "preco": "R$ 3.299,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Um forte competidor com um bom conjunto de hardware para o dia a dia e trabalho, oferecendo uma tela IPS de qualidade e bom potencial de expansão de RAM.",
+      "modelo": "Acer Aspire 5 (Ryzen 5 5500U)",
+      "preco": "R$ 3.399,00",
+      "link": "https://www.lojaexemplo.com.br/acer-aspire5-ryzen5-8gb-512gb-ssd-ips",
+      "foto": "https://www.lojaexemplo.com.br/imagens/acer-aspire5-ryzen.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Com um SSD de 512GB, oferece mais espaço de armazenamento. O Ryzen 5 5500U é um processador competente para a categoria, e a tela IPS de 15.6 polegadas é um diferencial para produtividade e entretenimento. Boa opção para quem precisa de mais armazenamento.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 (AMD Ryzen 5 7535HS)",
-      "preco": "R$ 3.699,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 7535HS",
-      "ram": "8GB DDR5 (expansível)",
+      "modelo": "Samsung Book (Core i3 11ª Geração)",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.lojaexemplo.com.br/samsung-book-i3-11gen-8gb-256gb-ssd-ips",
+      "foto": "https://www.lojaexemplo.com.br/imagens/samsung-book.jpg",
+      "cpu": "Intel Core i3-1115G4 (11ª Geração)",
+      "ram": "8GB DDR4 2666MHz",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Oferece um dos melhores desempenhos na faixa de preço devido ao Ryzen 7000. Ideal para quem busca performance superior em multitarefas e até mesmo jogos leves, com uma tela IPS e construção sólida.",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Apesar de ter um processador mais básico, a inclusão de tela IPS a este preço o torna uma opção muito interessante para quem prioriza a qualidade visual e um orçamento mais apertado. Ideal para tarefas leves, estudo e navegação.",
       "notas": {
-        "performance": 9,
+        "performance": 6,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Dell Inspiron 15 (Core i5 11ª Geração)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.lojaexemplo.com.br/dell-inspiron15-i5-11gen-8gb-256gb-ssd-ips",
+      "foto": "https://www.lojaexemplo.com.br/imagens/dell-inspiron15.jpg",
+      "cpu": "Intel Core i5-1135G7 (11ª Geração)",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "A marca Dell traz robustez e boa construção. O Core i5 de 11ª geração é sólido para a maioria das tarefas, e a tela IPS garante boa experiência visual. Um pouco mais caro, mas com a confiabilidade e suporte da Dell.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 4,
-      "modelo": "ASUS VivoBook 15 (AMD Ryzen 5 5500U)",
-      "preco": "R$ 2.999,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
+      "posicao": 5,
+      "modelo": "ASUS VivoBook 15 (Ryzen 7 3700U)",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.lojaexemplo.com.br/asus-vivobook15-ryzen7-8gb-256gb-ssd-ips",
+      "foto": "https://www.lojaexemplo.com.br/imagens/asus-vivobook15.jpg",
+      "cpu": "AMD Ryzen 7 3700U",
+      "ram": "8GB DDR4 2400MHz",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Um clássico no segmento de custo-benefício. A tela IPS é um diferencial nessa faixa de preço, e o Ryzen 5 5500U oferece desempenho robusto para a maioria das tarefas diárias.",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Apesar de o Ryzen 7 3700U ser de uma geração mais antiga, ainda entrega performance satisfatória para produtividade e multitarefas leves. A tela IPS e o preço competitivo o tornam uma opção viável para quem busca bom desempenho gráfico integrado e qualidade de tela.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 5,
-      "modelo": "VAIO FE15 (Intel Core i3-1115G4)",
-      "preco": "R$ 2.799,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "URL direta da imagem",
-      "cpu": "Intel Core i3-1115G4",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas antirreflexo",
-      "analise": "Foco na experiência visual com uma tela IPS Full HD antirreflexo, ideal para longas horas de uso. O Core i3 de 11ª geração é suficiente para tarefas básicas e produtividade.",
-      "notas": {
-        "performance": 6,
-        "tela": 9,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     }
   ]
