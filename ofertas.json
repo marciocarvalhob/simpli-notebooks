@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R5AT",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-a515-45-r5at-amd-ryzen-5-5500u-156-amd-radeon-graphics-256gb-sdd-8gb-ram-windows-11/p/MLB19918731?pdp_filters=category:MLB1652#searchVariation=MLB19918731&position=3&search_layout=stack&type=product&tracking_id=532dfc70-620f-48e6-a83d-6b5ee8b19323",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_720490-MLA76551609355_052024-F.webp",
+      "modelo": "Acer Aspire 5 A515-45-R1AC",
+      "preco": "R$ 3.129,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-ryzen-5-5500u-vega7-8gb-ram-256gb-ssd-cor-prata/p/MLB28670415?pdp_filters=category:MLB1652#searchVariation=MLB28670415&position=1&search_layout=stack&type=product&tracking_id=f063a8a0-2f22-4a0b-9366-a367c0062f6b",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_918511-MLB75646197341_042024-O.webp",
       "cpu": "AMD Ryzen 5 5500U",
       "ram": "8GB DDR4",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um excelente equilíbrio entre processador, RAM e SSD para produtividade e uso geral, com uma tela de qualidade que justifica o investimento.",
+      "tela": "IPS Full HD",
+      "analise": "Excelente custo-benefício com processador Ryzen de 6 núcleos para multitarefas e tela IPS de ótima qualidade para produtividade e consumo de mídia.",
       "notas": {
         "performance": 8,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ825W",
-      "preco": "R$ 3.276,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-28-ghz-8gb-ram-256gb-ssd-windows-11-home-tela-156-fhd-black-e1504fa-nj825w/p/MLB28509015?pdp_filters=category:MLB1652#searchVariation=MLB28509015&position=5&search_layout=stack&type=product&tracking_id=2f489f66-3d2b-42f2-8d76-88005bf55403",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_771900-MLA76503855660_052024-F.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Processador Ryzen mais recente e RAM LPDDR5 oferecem boa performance para o dia a dia. Tela Full HD com bom custo.",
+      "modelo": "Positivo Vision R15",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.fastshop.com.br/web/p/p/PNNVISIONR15P/notebook-positivo-vision-r15-amd-ryzen-5-5500u-linux-8gb-ram-256gb-ssd-15-6-ips-full-hd-tecla-copilot-preto-PNNVISIONR15P",
+      "foto": "https://img.fastshop.com.br/896x/PNNVISIONR15P_01.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD M.2 NVMe",
+      "tela": "IPS Full HD",
+      "analise": "Com o mesmo processador do Acer, o Positivo R15 oferece ótimo desempenho por um preço muito competitivo, especialmente no Pix, e ainda conta com recursos como Lumina Bar para webcam.",
       "notas": {
         "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
+        "tela": 9,
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 15IRH10 (Intel Core i5-13420H)",
-      "preco": "R$ 3.689,00",
-      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3-15irh10-intel-core-i5-13420h-8gb-512gb-ssd-windows-11-153-83ns0002br-luna-grey/p/MLB28784157?pdp_filters=category:MLB1652#searchVariation=MLB28784157&position=10&search_layout=stack&type=product&tracking_id=532dfc70-620f-48e6-a83d-6b5ee8b19323",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_672522-MLA76551609653_052024-F.webp",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.3\"",
-      "analise": "O processador H-series oferece um bom salto de performance para tarefas mais exigentes, e o SSD de 512GB é um diferencial, além da tela de qualidade.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-54EVF",
+      "preco": "R$ 3.699,90",
+      "link": "https://www.kabum.com.br/produto/465243/notebook-acer-aspire-go-15-ag15-51p-54evf-8-gb-intel-core-i5-1334u-ssd-256-gb-64-bits-tela15-3-ips?gad_source=1&gclid=CjwKCAjwkJy0BhBIKiwAT6Q2X_XJgM7k0Z6qYf12xN7t3l0X1c-9Y3g4V5P2yM7b2S3f6t4h9R0b1z3j8m5r2v4y9h0c2r6a7p2",
+      "foto": "https://images.kabum.com.br/produtos/fotos/465243/465243_1699905204_g.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um dos poucos modelos com processador Intel de 13ª geração dentro da faixa de preço e com tela IPS, oferecendo desempenho moderno para o dia a dia.",
       "notas": {
-        "performance": 9,
-        "tela": 8,
-        "custo_beneficio": 9
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 4,
-      "modelo": "Samsung Galaxy Book4 (Core i5-1335U, 512GB SSD)",
-      "preco": "R$ 3.918,00",
-      "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book4-intel-core-i5-1335u-13-ghz-ate-46ghz-12-mb-l3-cache-windows-11-home-8gb-512gb-ssd-iris-xe-156-full-hd-led-155kg/p/MLB28509204?pdp_filters=category:MLB1652#searchVariation=MLB28509204&position=7&search_layout=stack&type=product&tracking_id=532dfc70-620f-48e6-a83d-6b5ee8b19323",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLM75220790479_032024-F.webp",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB LPDDR4x",
-      "ssd": "512GB NVMe SSD",
-      "tela": "Full HD LED 15.6\"",
-      "analise": "Qualidade de construção Samsung, processador de 13ª geração e um SSD generoso. Embora o painel seja Full HD LED, a qualidade Samsung geralmente se aproxima de IPS. O preço está ligeiramente acima da faixa com Pix.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KT3BR",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book2-intel-core-i3-1215u-windows-11-home-8gb-256gb-ssd-156-full-hd-led/p/MLB27989528?pdp_filters=category:MLB1652#searchVariation=MLB27989528&position=1&search_layout=stack&type=product&tracking_id=5c9a781b-8c81-42e5-ac2f-0c4e107e3e4a",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_608154-MLB75645550742_042024-O.webp",
+      "cpu": "Intel Core i3-1215U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um Galaxy Book2 com tela Full HD IPS e processador Intel de 12ª geração, entregando boa performance e a reconhecida qualidade da Samsung em um pacote elegante.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
+        "performance": 7,
+        "tela": 9,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "ASUS Vivobook Go 15 E1504FA (Ryzen 5 7520U, 256GB SSD, Linux)",
-      "preco": "R$ 2.989,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB28509200?pdp_filters=category:MLB1652#searchVariation=MLB28509200&position=6&search_layout=stack&type=product&tracking_id=2f489f66-3d2b-42f2-8d76-88005bf55403",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_784157-MLM75220790447_032024-F.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Uma opção de entrada sólida com um processador Ryzen 7000 e RAM LPDDR5. Ótimo custo-benefício se você se sentir confortável com Linux ou planeja instalar Windows por conta própria.",
+      "modelo": "Lenovo IdeaPad 3i 15 (i5-1135G7)",
+      "preco": "R$ 3.705,00",
+      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-3i-i5-1135g7-8gb-256gb-ssd-intel-iris-xe-linux-156-fhd-82mds00500/p/MLB28670417?pdp_filters=category:MLB1652#searchVariation=MLB28670417&position=1&search_layout=stack&type=product&tracking_id=f063a8a0-2f22-4a0b-9366-a367c0062f6b",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_939228-MLB75646399990_042024-O.webp",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD",
+      "analise": "Boa opção para quem busca um Intel Core i5 de 11ª geração com gráficos Iris Xe, ideal para produtividade e tarefas cotidianas, e com a garantia de uma tela Full HD IPS.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 10
+        "custo_beneficio": 7
       }
     }
   ]
