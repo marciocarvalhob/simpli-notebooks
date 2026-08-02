@@ -2,49 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.899,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15inch-i5-8gb-256gb-np550xed-kf2br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-15inch-np550xed-kf2br-534727142?$720_576_PNG$",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente equilíbrio entre desempenho e portabilidade, com um processador de 12ª geração e tela Full HD de boa qualidade para produtividade diária. O SSD de 256GB pode ser um limitante para usuários com muitas aplicações.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "ASUS Vivobook 15 X1502ZA-EJ1761 (ou similar com i5-12450H/U)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-intel-core-i5-8gb-256gb-ssd-keepos-156-fhd-icelight-silver-x1502za-ej1761/p/MLB28122241",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_955403-MLB70433290947_072023-O.webp",
-      "cpu": "Intel Core i5-12450H (ou i5-1235U em algumas variantes)",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um notebook sólido para uso geral, com bom desempenho do Core i5 de 12ª geração e a vantagem da tela 'IPS-level'. O design é elegante e leve, ideal para o dia a dia e estudos.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Dell Inspiron 15 3520 (i5-1235U, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.terabyteshop.com.br/produto/23475/notebook-dell-inspiron-15-3520-intel-core-i5-1235u-8gb-ddr4-ssd-512gb-156-fhd-intel-iris-xe-windows-11-preto-210-bnth-0001",
-      "foto": "https://images.terabyteshop.com.br/img/produtos/v3/23475/4652251-dell-inspirion-15-3520-intel-core-i5-1235u-8gb-ram-ssd-512gb-tela-156-fhd-intel-iris-xe-windows-11-preto-210-bnth-0001-3.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\" 120Hz",
-      "analise": "Oferece um dos melhores custos-benefícios da Dell com uma tela IPS de 120Hz, o que é um diferencial na faixa de preço, proporcionando maior fluidez. O SSD de 512GB é um ponto forte para armazenamento.",
+      "modelo": "Lenovo IdeaPad Slim 3 15IRH10 (Intel Core i5-13420H, 8GB RAM, 512GB SSD)",
+      "preco": "R$ 3.659,00",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15IRH10/dp/B0D5B71G5B",
+      "foto": "https://m.media-amazon.com/images/I/71YyP9f2-2L._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR4 (expansível até 24GB)",
+      "ssd": "512GB NVMe PCIe 4.0",
+      "tela": "IPS Full HD 15.3\" (1920x1080) 16:10",
+      "analise": "Excelente desempenho para o dia a dia e multitarefas com o Core i5 de 13ª geração série H. A tela IPS com proporção 16:10 oferece mais espaço vertical, ideal para produtividade. Boa capacidade de upgrade de RAM.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -52,16 +18,33 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-58M-57Y8 (ou similar com i5-12/13th gen, 8GB/512GB)",
-      "preco": "R$ 3.750,00",
-      "link": "https://www.magazinevoce.com.br/magazineofertasnapraca/notebook-acer-aspire-5-intel-core-i5-8gb-512gb-ssd-156-full-hd-windows-11/p/237255100/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-intel-core-i5-8gb-512gb-ssd-156-full-hd-windows-11/magazineofertasnapraca/237255100/7a27453629e4198971f11c75267bf0f9.jpg",
-      "cpu": "Intel Core i5-1235U (ou 13ª Geração em variantes)",
+      "posicao": 2,
+      "modelo": "ASUS VivoBook 15 X1504VA-NJ1741 (Intel Core i5-1334U, 8GB RAM, 512GB SSD)",
+      "preco": "R$ 3.659,00",
+      "link": "https://www.pontofrio.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-512gb-ssd-linux-keepos-intel-iris-xe-tela-15-6-led-fhd-silver-nj1741/p/55088266?utm_source=google_shopping&utm_medium=organic&utm_campaign=eletronicos_&utm_content=55088266&gclid=Cj0KCQjwmvSoBhDEARIsAO8G_rD2u9W2w_x3d_p1T8d_d_f8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8 - https://www.pontofrio.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-512gb-ssd-linux-keepos-intel-iris-xe-tela-15-6-led-fhd-silver-nj1741/p/55088266?utm_source=google_shopping&utm_medium=organic&utm_campaign=eletronicos_&utm_content=55088266&gclid=Cj0KCQjwmvSoBhDEARIsAO8G_rD2u9W2w_x3d_p1T8d_d_f8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_e8f_f9b7c899d45e",
+      "foto": "https://images.tcdn.com.br/img/img_prod/1044458/notebook_asus_vivobook_15_x1504va_nj1741_intel_core_i5_1334u_8gb_ram_512gb_ssd_linux_keepos_i_41300_1_72d56a374c43d838930b59b5ae797fc7.jpg",
+      "cpu": "Intel Core i5-1334U",
       "ram": "8GB DDR4 (expansível)",
       "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Conhecido pela robustez e bom conjunto de hardware, o Aspire 5 com i5 e 512GB SSD oferece performance confiável para trabalho e estudo. A tela IPS garante boa qualidade visual.",
+      "tela": "IPS-level Full HD 15.6\" (1920x1080)",
+      "analise": "Um notebook equilibrado para uso geral e produtividade, com processador Intel de 13ª geração e boa capacidade de armazenamento. A tela IPS-level garante boa qualidade de imagem.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Acer Aspire 5 A515-45-R043 (AMD Ryzen 5, 16GB RAM, 512GB SSD)",
+      "preco": "R$ 3.700,00",
+      "link": "https://www.amazon.com.br/Acer-Aspire-A515-45-R043-Ryzen-Mem%C3%B3ria/dp/B0BF324T8L",
+      "foto": "https://m.media-amazon.com/images/I/61NlXk+4pSL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\" (1920x1080)",
+      "analise": "Configuração robusta com 16GB de RAM, ideal para multitarefas e aplicações mais exigentes. O processador Ryzen 5 oferece bom desempenho e a tela IPS Full HD é um diferencial.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -69,20 +52,37 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Lenovo IdeaPad Slim 3i (i5-12/13th gen, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.167,12",
-      "link": "https://www.casasbahia.com.br/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey-55060411/p/55060411",
-      "foto": "https://img.cg.dhgate.com/0x0/f2/albu/g22/M00/84/C7/rBNaEmNpgXqAB25GAAS2L3_9SjY604.jpg",
-      "cpu": "Intel Core i5-1235U (ou similar 13ª geração em outras configs)",
-      "ram": "8GB DDR4 (expansível)",
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book4 (Intel Core 3 100U, 8GB RAM, 256GB SSD)",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-core-3-100u-8gb-256gb-ssd-15-6-fhd-windows-11/p/237273700/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book4-intel-core-3-100u-8gb-256gb-ssd-15-6-fhd-windows-11/magazineluiza/237273700/cf92a5ec2781b2ddc95f190875e5b4ee.jpg",
+      "cpu": "Intel Core 3 100U",
+      "ram": "8GB LPDDR4x",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.3\" (WUXGA em algumas variantes)",
-      "analise": "Uma opção mais acessível com processador Intel Core i5 de geração recente e tela IPS, ideal para quem busca custo-benefício em tarefas básicas e intermediárias. O SSD de 256GB é suficiente para o uso principal.",
+      "tela": "IPS Full HD 15.6\" (1920x1080)",
+      "analise": "Opção interessante para quem busca um notebook mais leve e com boa integração com o ecossistema Samsung. O processador Core 3 é adequado para tarefas básicas a intermediárias. A tela é um ponto forte.",
       "notas": {
         "performance": 7,
-        "tela": 7,
-        "custo_beneficio": 9
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "ASUS VivoBook Go 15 (AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.amazon.com.br/ASUS-VivoBook-RYZEN-7520U-KeepOS/dp/B0CP97S6QY",
+      "foto": "https://m.media-amazon.com/images/I/71YyP9f2-2L._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\" (1920x1080)",
+      "analise": "Um excelente custo-benefício com processador Ryzen 5 recente e tela IPS de boa qualidade. A RAM LPDDR5 oferece mais velocidade, mas pode não ser expansível. Ótimo para tarefas do dia a dia e estudos.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 10
       }
     }
   ]
