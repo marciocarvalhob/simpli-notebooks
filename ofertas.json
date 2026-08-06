@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R043",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R043-Mem%C3%B3ria/dp/B0BF324Y55 (exemplo, preço pode variar)",
-      "foto": "https://m.media-amazon.com/images/I/71p0W2h4n+L._AC_SL1500_.jpg",
+      "modelo": "Acer Aspire 5 A515-45-R1AC (Ryzen 5 5500U)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.kabum.com.br/produto/306764/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-nx-aydal-00r",
+      "foto": "https://images.kabum.com.br/produtos/fotos/306764/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-nx-aydal-00r_1678191981_g.jpg",
       "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Excelente equilíbrio entre processador, RAM e armazenamento para uso geral e multitarefas. A tela IPS é um grande diferencial para a produtividade e consumo de mídia.",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB NVMe PCIe 3.0 x4",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um excelente equilíbrio entre processamento e tela de alta qualidade. O Ryzen 5 5500U é competente para multitarefas e produtividade, e a tela IPS de 15.6\" é ideal para trabalho e consumo de conteúdo. A possibilidade de upgrade de RAM e SSD aumenta sua longevidade.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,49 +19,32 @@
     },
     {
       "posicao": 2,
-      "modelo": "Positivo Vision R15M (Ryzen 5)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5500u-linux-16gb-ram-512gb-ssd-tela-15-6-full-hd-ips-preto/p/237276700/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-positivo-vision-r15m-amd-ryzen-5-5500u-linux-16gb-ram-512gb-ssd-tela-15-6-full-hd-ips-preto/magazineluiza/237276700/9618f4a389146ec7b8e1f0217088b9a1.jpg",
+      "modelo": "Positivo Vision R15M (Ryzen 5 5500U)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.shopee.com.br/Notebook-Positivo-Vision-R15-AMD%C2%AE-Ryzen%E2%84%A2-5-5500U-Linux-8GB-RAM-256GB-SSD-15.6%E2%80%9D-IPS-Full-HD-Tecla-Copilot-Preto-i.510825319.23199859218",
+      "foto": "https://down-br.img.susercontent.com/file/sg-11134201-22100-q0eoxr68w3ive0_tn",
       "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Surpreendente opção da Positivo com um processador Ryzen 5 potente e 16GB de RAM, oferecendo ótimo desempenho para o dia a dia e multitarefas. A tela IPS é um ponto forte, e o preço é competitivo. O Linux pré-instalado pode ser um benefício ou exigir a troca para Windows, dependendo do usuário.",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Surpreendente na faixa de preço. O Positivo Vision R15M entrega um Ryzen 5 5500U com tela IPS, o que é raro para notebooks nessa categoria. É uma opção sólida para quem busca performance no dia a dia e boa qualidade de imagem, mesmo vindo com Linux.",
       "notas": {
         "performance": 8,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 3,
-      "modelo": "Samsung Galaxy Book4 NP750XGK-KG3BR",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.pontofrio.com.br/notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-ram-512gb-ssd-iris-xe-tela-15-6-full-hd-led-e-windows-11-np750xgk-kg3br/p/55071068",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-ram-512gb-ssd-iris-xe-tela-15-6-full-hd-led-e-windows-11-np750xgk-kg3br/pontofrio/55071068/a9d20c57173e6f966144e59c5d038237.jpg",
-      "cpu": "Intel Core i5-1335U",
+      "modelo": "Samsung Book (Intel Core i5-1135G7)",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.casasbahia.com.br/notebook-samsung-intel-core-i5-8gb-ram-256gb-ssd-tela-15-6-full-hd-windows-11-book-np550xda-kh2br/p/55027581",
+      "foto": "https://assets.mmsrg.com/catalog/pm/9a58b688b56f2f21054a1a5b47a9ff69/asset.jpg",
+      "cpu": "Intel Core i5-1135G7",
       "ram": "8GB DDR4",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "A linha Galaxy Book 4 oferece um design elegante e um processador Intel de 13ª geração, garantindo bom desempenho para tarefas cotidianas. A tela IPS é de qualidade e a construção é um ponto positivo. O SSD de 512GB é ideal para a maioria dos usuários.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "ASUS Vivobook Go 15 (E1504F - Ryzen 5 7000 Series)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-go-15-e1504f/ (verificar configuração exata do link na data da compra)",
-      "foto": "https://www.asus.com/media/global/products/fE8XpP4j5oD4wE3y/v2/img/product_detail_x_large.jpg",
-      "cpu": "AMD Ryzen 5 (Série 7000)",
-      "ram": "8GB LPDDR5",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Um notebook leve e compacto com processador Ryzen 5 da série 7000, oferecendo boa performance para produtividade e uso diário. A RAM LPDDR5 é um destaque, assim como a tela IPS e o armazenamento SSD generoso, tudo isso a um preço muito competitivo.",
+      "ssd": "256GB SSD NVMe",
+      "tela": "LED Full HD 15.6\" (verificar painel WVA/IPS)",
+      "analise": "Um notebook equilibrado com design elegante. O Core i5 de 11ª geração, combinado com 8GB de RAM e SSD de 256GB, oferece desempenho ágil para tarefas cotidianas e produtividade. Embora a Samsung mencione 'Full HD LED', é crucial verificar se o painel é WVA (similar ao IPS em ângulos de visão) para confirmar a qualidade esperada.",
       "notas": {
         "performance": 7,
         "tela": 8,
@@ -69,20 +52,37 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "VAIO FE16 VJFE69F11X-B0411H",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.magazineluiza.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-16gb-ram-512gb-ssd-tela-16-ips-wuxga-antirreflexo-cinza-grafite/p/237276900/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-vaio-fe16-amd-ryzen-5-5625u-16gb-ram-512gb-ssd-tela-16-ips-wuxga-antirreflexo-cinza-grafite/magazineluiza/237276900/f3b89083236e651e44317f7b57d0f98e.jpg",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB SSD",
-      "tela": "IPS WUXGA 16 polegadas (1920x1200)",
-      "analise": "O VAIO FE16 se destaca pela tela de 16 polegadas com resolução WUXGA (proporção 16:10), que oferece mais espaço vertical e é excelente para produtividade. O processador Ryzen 5 5625U e os 16GB de RAM garantem um desempenho sólido para diversas tarefas.",
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad Slim 3 (Intel Core i3-1315U)",
+      "preco": "R$ 3.200,00",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3i-intel-core-i3-1315u-8gb-256gb-ssd-tela-15-6-full-hd-windows-11-83qj0002bo/p/237190000/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-lenovo-ideapad-slim-3i-intel-core-i3-1315u-8gb-256gb-ssd-tela-15-6-full-hd-windows-11-83qj0002bo/magazineluiza/237190000/0394622b79a5e8ef81d11b32f91e4592.jpg",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Com um processador de 13ª geração, este IdeaPad Slim 3 oferece desempenho atualizado para tarefas do dia a dia e estudos. A tela IPS é um diferencial importante para a categoria, e a combinação de 8GB de RAM e 256GB SSD garante boa fluidez.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 9,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Dell Inspiron 15 3520 (Intel Core i3-1215U)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.shopee.com.br/Notebook-Dell-Inspiron-15-3520-Intel-Core-I3-1215U-8GB-DDR4-256GB-NVME-15-6%E2%80%9D-Tela-Linux-Preto-i.374241774.20455584852",
+      "foto": "https://down-br.img.susercontent.com/file/sg-11134201-22110-w0e5q47c8djvf9_tn",
+      "cpu": "Intel Core i3-1215U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe M.2",
+      "tela": "WVA Full HD 15.6\" 120Hz",
+      "analise": "Este Dell Inspiron 15 se destaca pela tela WVA de 120Hz, que proporciona uma experiência visual mais fluida, mesmo com um processador Core i3 de 12ª geração. É uma opção robusta para uso geral e um bom ponto de entrada na linha Dell, com o sistema Linux como base.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     }
   ]
