@@ -2,15 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire Go 15 AG15-71P-55LL",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-i5-tela-ips/p/MLB28509015",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLA78065463625_082024-F.webp",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR5",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício para uso geral e estudos, com uma tela IPS de alta qualidade e webcam Full HD, ideal para aulas online e videochamadas. O SSD de 256GB pode ser um gargalo para muitos arquivos.",
+      "modelo": "Samsung Galaxy Book4 (NP750XGJ-KG7BR)",
+      "preco": "R$ 2.998,00",
+      "link": "https://www.samsung.com/br/notebooks/galaxy-book/galaxy-book4-u300-np750xgj-kg7br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgj-kg7br/gallery/br-galaxy-book4-15inch-np750xgj-kg7br-539071060?$GM_PRD_IMAGE_ZOOM$",
+      "cpu": "Intel Processor U300",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe SSD",
+      "tela": "15.6\" IPS Full HD",
+      "analise": "Excelente equilíbrio entre desempenho para tarefas cotidianas e qualidade de tela IPS Full HD, ideal para consumo de conteúdo e trabalho. O processador U300 é eficiente para uso geral.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 2,
+      "modelo": "Lenovo IdeaPad Slim 3 15IRU10 (83NU0000BR)",
+      "preco": "R$ 3.608,99",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-slim-series/IdeaPad-Slim-3i-Gen-10-15-inch-Intel/p/83NU0000BR",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MjUxNjMxfGltYWdlL3BuZ3xoMjYvaGRmLzE3MzE2NjgxMDQ5Mjc4L1dGMjAyMi1MRU5PVk8tTFAxNS1TTElNMy1HMTAtMS4zLTMuNC1IMU8uanBnRjY0ODdIODYxNzE4NTYzODFfMDcuUE5HfGUxMWY2MWQ2NWQxMzMzZTY3NTM4OGZjOGU5NWRjNGYwNWYwYzYzMWZhMzBlN2UzMjcwNDEzZWVjMjY0YWY4Mzg",
+      "cpu": "Intel Core 3 100U",
+      "ram": "8GB DDR5 4800MHz (Soldado)",
+      "ssd": "256GB SSD M.2 PCIe Gen4",
+      "tela": "15.3\" WVA (IPS) WUXGA (1920x1200)",
+      "analise": "Com uma tela WUXGA de alta resolução e painel WVA (similar ao IPS), este notebook se destaca pela qualidade visual. O processador Intel Core 3 100U e a RAM DDR5 oferecem bom desempenho para multitarefas e produtividade.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -18,70 +35,53 @@
       }
     },
     {
-      "posicao": 2,
-      "modelo": "VAIO FE15 VJFE55F11X-B0211H (Core i5, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe15-intel-core-i5-11th-8gb-512gb-ssd-tela-156-full-hd-antirreflexo-windows-11-home-cinza-grafite-vjfe55f11x-b0211h/p/MLB23348006",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_968032-MLA49792518174_042022-F.webp",
-      "cpu": "Intel Core i5 11ª Geração",
-      "ram": "8GB DDR4",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD 15.6\" Antirreflexo",
-      "analise": "Boa opção para produtividade e multitarefas, com um SSD generoso para a faixa de preço. A tela IPS e o design minimalista são pontos positivos.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 3,
-      "modelo": "Acer Aspire 5 A515-45-R1AC (Ryzen 5, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.477,88",
-      "link": "https://shopee.com.br/Notebook-Acer-Aspire-5-15.6-Full-HD-IPS-A515-45-R1AC-AMD-Ryzen-5-5500U-8GB-DDR4-256GB-SSD-NVMe-i.476485890.17765057053",
-      "foto": "https://cf.shopee.com.br/file/b4a1c5d09f7a7d4a2a1b1a3e8e1a1b1d_tn",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4",
+      "modelo": "ASUS Vivobook Go 15 (E1504FA-NJ825W)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.pichau.com.br/notebook-asus-vivobook-go-e1504fa-15-6-pol-amd-ryzen-5-7520u-fhd-8gb-ddr5-ssd-256gb-windows-11-home-preto-e1504fa-nj825w",
+      "foto": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505ba7cf294fdce59/v/i/vivobook_go_15_e1504_fa_black_1.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5",
       "ssd": "256GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "O processador Ryzen 5 5500U oferece excelente desempenho para tarefas diárias e multitarefas. A tela IPS é um diferencial, mas o SSD de 256GB pode ser limitante para alguns usuários.",
+      "tela": "15.6\" LCD LED FHD nível IPS",
+      "analise": "Um notebook leve e compacto com bom desempenho para o dia a dia, graças ao Ryzen 5. A tela Full HD 'nível IPS' garante boa experiência visual e a conectividade é moderna.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "Dell Inspiron 15 I15-I3100-A15P (Core 3, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.099,00",
-      "link": "https://www.magazineluiza.com.br/notebook-dell-inspiron-15-i15-i3100-a15p-intel-core-3-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-i15-i3100-a15p/p/237277800/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-dell-inspiron-15-i15-i3100-a15p-intel-core-3-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-i15-i3100-a15p/magazineluiza/237277800/aa2915852924300306c9a9223126f958.jpg",
-      "cpu": "Intel Core 3-100U",
+      "modelo": "Acer Aspire 3 (A315-59-51YG)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.carrefour.com.br/notebook-acer-aspire-3-intel-core-i5-1235u-8gb-ram-ssd-256gb-15-6-full-hd-windows-11-prata-a315-59-51yg/p/162791849",
+      "foto": "https://static.carrefour.com.br/medias/sys_master/h26/h2a/162791849.jpg",
+      "cpu": "Intel Core i5-1235U",
       "ram": "8GB DDR4",
-      "ssd": "512GB SSD",
-      "tela": "Full HD 15.6\"",
-      "analise": "Uma opção sólida da Dell com bom armazenamento SSD e uma tela Full HD, embora as especificações não confirmem explicitamente o painel IPS para este modelo específico, a linha Inspiron 15 é conhecida por oferecer boas telas WVA (equivalente a IPS). O Core 3 é mais básico, mas suficiente para tarefas leves.",
+      "ssd": "256GB SSD",
+      "tela": "15.6\" Full HD",
+      "analise": "Equipado com um Core i5 de 12ª geração, este Aspire 3 oferece um desempenho sólido para diversas tarefas. A tela Full HD, embora não explicitamente sempre IPS em todas as variantes, proporciona uma boa experiência visual geral.",
       "notas": {
-        "performance": 6,
+        "performance": 8,
         "tela": 7,
-        "custo_beneficio": 7
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Lenovo IdeaPad Slim 3 15IRH10 (i5-13420H, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.amazon.com.br/Lenovo-IdeaPad-Slim-15IRH10-i5-13420H/dp/B0D5S1PXN",
-      "foto": "https://m.media-amazon.com/images/I/71Xb0eXwSXL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR4 (expansível até 24GB)",
-      "ssd": "512GB SSD M.2 PCIe 4.0",
-      "tela": "IPS 15.3\" WUXGA (1920 x 1200) 16:10",
-      "analise": "Destaca-se pelo processador Core i5 de 13ª geração, que oferece excelente desempenho para multitarefas e produtividade. A tela WUXGA 16:10 proporciona mais espaço vertical, e a possibilidade de expansão da RAM é um grande bônus.",
+      "modelo": "HP 250 G9 (BQ9K8AT#AK4)",
+      "preco": "R$ 3.229,00",
+      "link": "https://www.kabum.com.br/produto/484555/notebook-hp-256r-g9-intel-core-i3-1315u-8gb-ram-256gb-15-6-polegadas-windows-11-intel-uhd-graphics-bq9k8at-ak4",
+      "foto": "https://images.kabum.com.br/produtos/fotos/484555/484555_1686958434_g.jpg",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD PCIe NVMe",
+      "tela": "15.6\" HD (1366x768) Anti-glare UWVA",
+      "analise": "Este HP 250 G9 se destaca pelo processador Intel Core i3 de 13ª geração e sua tela UWVA (Ultra-Wide Viewing Angle), que oferece qualidade visual aprimorada, mesmo em HD. É uma boa opção para quem busca produtividade com custo-benefício.",
       "notas": {
-        "performance": 9,
-        "tela": 9,
+        "performance": 7,
+        "tela": 7,
         "custo_beneficio": 9
       }
     }
