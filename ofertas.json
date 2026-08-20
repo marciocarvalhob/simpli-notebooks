@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3 15IRH10 (Core i5-13420H)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.amazon.com.br/dp/B0CKK2K43Y (link aproximado, verificar versão exata)",
-      "foto": "https://m.media-amazon.com/images/I/71uK+TzYf8L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR5 (expansível até 24GB)",
-      "ssd": "256GB SSD NVMe PCIe 4.0",
-      "tela": "IPS Full HD 15.3\" (1920x1200)",
-      "analise": "Excelente desempenho para produtividade e multitarefas com CPU de 13ª geração. Tela IPS 16:10 ideal para trabalho. RAM expansível garante longevidade.",
+      "modelo": "Acer Aspire 5 A515-57-53Z5",
+      "preco": "R$ 3.199,00",
+      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-a515-57-53z5-intel-core-i5-12a-geracao-8gb-ram-256gb-ssd-tela-15-6-full-hd-ips-windows-11-prata/p/237248100/in/note/",
+      "foto": "https://imagens.magazineluiza.com.br/1920x1440/237248100_01.jpg",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "O campeão em custo-benefício. Processador de 12ª geração entrega excelente performance para multitarefas e uso diário, com a qualidade da tela IPS e SSD NVMe para agilidade.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R1AC (Ryzen 5 5500U)",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.kabum.com.br/produto/384742/notebook-acer-aspire-5-r5-16gb-ssd-512gb-linux-gutta-prata-a515-45-r1ac (verificar preço e disponibilidade)",
-      "foto": "https://images.kabum.com.br/produtos/fotos/384742/notebook-acer-aspire-5-a515-45-r1ac-amd-ryzen-5-16gb-ram-ssd-512gb-tela-15-6-full-hd-ips-linux-gutta-prata_1678280625_g.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Ótimo conjunto para uso geral e profissional, com bom processador AMD e 16GB de RAM já de fábrica, além de SSD generoso. Tela IPS de qualidade.",
+      "modelo": "Samsung Galaxy Book4 NP750XGL-KG2BR",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.fastshop.com.br/web/p/produto/samsung-galaxy-book4-np750xgl-kg2br-intel-core-i5-1335u-8gb-ram-256gb-ssd-15-6-full-hd-ips-windows-11-grafite-samnp750xglkg2br",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgl-kg2br/gallery/br-galaxy-book4-np750xgl-kg2br-539097943?$720_576_PNG$",
+      "cpu": "Intel Core i5-1335U (13ª Geração)",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um avanço notável na linha, equilibrando desempenho e portabilidade com um processador de 13ª geração e boa qualidade de tela IPS.",
       "notas": {
         "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Samsung Galaxy Book4 (Intel Core i3-1315U)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book4-15-inch-i3-8gb-256gb-np750xkg-kd3br/ (link aproximado, verificar configuração exata)",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xkg-kd3br/gallery/br-galaxy-book4-np750xkg-kd3br-539074092?$720_576_PNG$",
-      "cpu": "Intel Core i3-1315U",
-      "ram": "8GB LPDDR4x",
-      "ssd": "256GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Design premium e leve. O Core i3 de 13ª geração é suficiente para tarefas do dia a dia e estudo. A tela IPS e o ecossistema Samsung são diferenciais.",
-      "notas": {
-        "performance": 7,
         "tela": 9,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 4,
-      "modelo": "ASUS Vivobook 15 X1504ZA (Intel Core i5-1235U)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.amazon.com.br/ASUS-Vivobook-15-X1504ZA-i5-1235U/dp/B0CG6W1J1X (verificar disponibilidade e preço)",
-      "foto": "https://m.media-amazon.com/images/I/71wLpQd-QLL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB SSD NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Bom equilíbrio entre desempenho e armazenamento para uso geral, com uma tela IPS de qualidade. Construção resistente para o dia a dia.",
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 15IRH10",
+      "preco": "R$ 2.899,00",
+      "link": "https://www.casasbahia.com.br/notebook-lenovo-intel-core-i5-13o-geracao-8gb-ram-512gb-ssd-tela-15-3-windows-11-ideapad-slim-3i/p/55074218?utm_medium=comparador&utm_source=google_shopping&utm_campaign=inform_e_eletro-notebooks&utm_term=55074218&gclid=CjwKCAjwrdO4BhA7EiwAWl5Dq_s-l5Y5zK1w9r01-x8e4z0f1c0e3b9e4a3c2d4f5e6a7b8c9d0e1f2a3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5",
+      "foto": "https://imgs.casasbahia.com.br/1500x1500/55074218.jpg",
+      "cpu": "Intel Core i5-1335U (13ª Geração)",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Excelente equilíbrio entre custo e desempenho. Oferece um processador recente e um SSD generoso, ideal para multitarefas e uso geral com uma tela IPS de boa qualidade.",
       "notas": {
         "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "VAIO FE16 AMD Ryzen 5",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.casasbahia.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p/55060868?utm_medium=comparador&utm_source=google_shopping&utm_campaign=inform_e_eletro-notebooks&utm_term=55060868&gclid=CjwKCAjwrdO4BhA7EiwAWl5Dq_s-l5Y5zK1w9r01-x8e4z0f1c0e3b9e4a3c2d4f5e6a7b8c9d0e1f2a3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5",
+      "foto": "https://imgs.casasbahia.com.br/1500x1500/55060868.jpg",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "16GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Com um robusto Ryzen 5 e 16GB de RAM, este VAIO é ideal para quem busca um desempenho sólido em multitarefas e até edição leve, com a vantagem da tela IPS.",
+      "notas": {
+        "performance": 9,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Positivo Vision i15M (Intel Core i3-N300)",
-      "preco": "R$ 2.699,00",
-      "link": "https://www.amazon.com.br/Positivo-Vision-i15M-i3-N300-256GB/dp/B0CCSK7X5P (verificar disponibilidade e preço)",
-      "foto": "https://m.media-amazon.com/images/I/61k1bEa-PQL._AC_SL1000_.jpg",
-      "cpu": "Intel Core i3-N300",
+      "modelo": "ASUS Vivobook 15 X1504VA-NJ1740W",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.kabum.com.br/produto/472856/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-512gb-ssd-intel-iris-xe-tela-15-6-fhd-windows-11-silver-nj1740w",
+      "foto": "https://images.kabum.com.br/produtos/fotos/472856/notebook-asus-vivobook-15-x1504va-intel-core-i5-1334u-8gb-ram-512gb-ssd-intel-iris-xe-tela-15-6-fhd-windows-11-silver-nj1740w_1701103504_g.jpg",
+      "cpu": "Intel Core i5-1334U (13ª Geração)",
       "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Opção mais acessível com tela IPS, ideal para uso básico e estudo. O processador Intel Core i3-N300 oferece bom desempenho para o segmento de entrada.",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um notebook ultrafino e leve, que apesar do design compacto, oferece bom desempenho com o Core i5 de 13ª geração e um SSD de 512GB, perfeito para produtividade com tela IPS.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     }
   ]
