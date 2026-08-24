@@ -2,66 +2,49 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R2A3",
-      "preco": "R$ 3.376,00",
-      "link": "https://www.123comprou.com.br/notebook-acer-aspire-5-a515-45-r2a3-amd-ryzen-5-windows-11-home-8gb-512gb-ssd-15-6-full-hd-prata.html",
-      "foto": "https://m.media-amazon.com/images/I/71YJ0J9P2mL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe PCIe",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
+      "preco": "R$ 3.199,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB SSD + 1 TB HDD",
       "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Excelente equilíbrio entre processador, RAM e SSD para produtividade e multitarefas. A tela IPS garante ótima qualidade visual. Um dos melhores custo-benefício da categoria.",
+      "analise": "Excelente custo-benefício com processador de 12ª geração, boa tela IPS e armazenamento híbrido para velocidade e capacidade. Ótimo para produtividade e multitarefas.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad Slim 3 82XM00LMUS",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.carrefour.com.br/notebook-lenovo-ideapad-slim-3-amd-ryzen-7-2-0ghz-memoria-16gb-ssd-512gb-tela-15-6-windows-11/p/2311545695",
-      "foto": "https://static.carrefour.com.br/medias/sys_master/images/images/h64/h5a/h00/h00/69006935109662.jpg",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD Touchscreen 15.6 polegadas",
-      "analise": "Processador Ryzen 7 com 16GB de RAM oferece alto desempenho para tarefas exigentes. A tela IPS touchscreen é um diferencial para interatividade e produtividade. Ótimo para usuários que precisam de mais poder de processamento.",
+      "modelo": "ASUS Vivobook 15 X1504ZA",
+      "preco": "R$ 3.399,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Oferece um bom equilíbrio entre desempenho e armazenamento, com tela IPS e construção robusta para o dia a dia.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "ASUS Vivobook Go 15 E1504F (AMD Ryzen 5 7520U)",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-156-fhd-black-nj1288/p/aebhcg3bch/in/note/",
-      "foto": "https://static.magazineluiza.com.br/1920/23/230184200/423681a9c402e1c953573c7141561f76.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "16GB LPDDR5",
-      "ssd": "512GB NVMe PCIe",
+      "modelo": "Acer Aspire 5 A515-45-R478",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.kabum.com.br/produto/167664/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r",
+      "foto": "https://images.kabum.com.br/produtos/fotos/167664/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r_1638891503_g.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16 GB DDR4",
+      "ssd": "512 GB SSD",
       "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Configuração moderna com Ryzen série 7000 e 16GB LPDDR5, garantindo eficiência e boa performance para o dia a dia. A tela IPS e o design leve o tornam uma excelente opção para mobilidade e produtividade.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book2-np550xed-kf3br-intel-core-i5-1235u-15-6-8gb-ssd-512-gb-windows-11?_lc=189&searchbox=1&shortcut=1&utm_source=shopping_organic&utm_medium=notebook&utm_campaign=busca_organica&utm_term=Galaxy+Book2&__s=1",
-      "foto": "https://m.media-amazon.com/images/I/61NlH2eT8HL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5 1235U",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Processador Intel de 12ª geração com 8GB de RAM e SSD de 512GB oferece boa performance para uso geral e profissional. A tela IPS é um ponto forte, e a possibilidade de expansão da RAM é um bônus.",
+      "analise": "Destaca-se pela generosa RAM de 16GB e processador Ryzen 5, ideal para multitarefas mais exigentes e com uma tela IPS de qualidade.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -69,20 +52,37 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Dell Inspiron 15 3520 (I5-1235U, 8GB, 256GB SSD, IPS)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.outletinfo.com.br/produto/notebook-dell-inspiron-15-3520-i5-1235u-8gb-256gb-ssd-ips-full-hd-outlet",
-      "foto": "https://www.outletinfo.com.br/wp-content/uploads/2023/12/NOTEBOOK-DELL-INSPIRON-15-3520-I5-1235U-8GB-256GB-SSD-TELA-156-LED-IPS-FHD-FHD-1920-x-1080-WINDOWS-HOME.jpg",
-      "cpu": "Intel Core i5 1235U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe PCIe",
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad Slim 3 (com painel IPS, versão Core i3)",
+      "preco": "R$ 2.999,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i3 (geração recente, ex: 12ª/13ª)",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB SSD",
       "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Oferece a confiabilidade da Dell com um processador Intel de 12ª geração e tela IPS. O SSD de 256GB é o mínimo recomendado, mas atende para uso básico e pode ser expandido. Uma opção sólida para quem busca a marca Dell.",
+      "analise": "Uma opção sólida e acessível que surpreende por incluir um painel IPS em sua versão Core i3, oferecendo ótimo custo-benefício para uso diário e estudos.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "ASUS Vivobook Go 15 (E1504G)",
+      "preco": "R$ 3.149,10",
+      "link": "https://www.asus.com/br/laptops/for-home/vivobook/asus-vivobook-go-15-e1504g/buy/",
+      "foto": "https://dlcdnwebimgs.asus.com/files/media/2D2E690F-23FE-4927-B386-455F0E864A49/v1/img/product/overview/img.webp",
+      "cpu": "Intel Core i3 N305",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB SSD",
+      "tela": "IPS Full HD 15.6 polegadas",
+      "analise": "Leve e com bom armazenamento SSD, ideal para quem busca portabilidade e uma boa experiência visual para tarefas cotidianas.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
       }
     }
   ]
