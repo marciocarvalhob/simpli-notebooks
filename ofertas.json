@@ -2,49 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R1AC",
-      "preco": "R$ 3.254,07",
-      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-15-6-full-hd-ips-a51545r1ac-amd-ryzen-5-5500u-8gb-ddr4-256gb-ssd-nvme-linux-gutta-64-bits-prata/p/235777800/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-15-6-full-hd-ips-a51545r1ac-amd-ryzen-5-5500u-8gb-ddr4-256gb-ssd-nvme-linux-gutta-64-bits-prata/magazineluiza/235777800/62e0717208d2345579f1938501257404.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD",
-      "analise": "Excelente equilíbrio entre desempenho para tarefas diárias e tela de alta qualidade. O processador Ryzen 5 5500U oferece ótimo poder de fogo para multitarefas e produtividade, e a tela IPS é um diferencial para consumo de conteúdo e trabalho. O SSD garante agilidade no sistema.",
+      "modelo": "Lenovo IdeaPad Slim 3i (83NS0003BR)",
+      "preco": "R$ 3.149,00",
+      "link": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3-15irh10-intel-core-i5-13420h-8gb-256gb-ssd-windows-11-153-83ns0003br-luna-grey/p/MLB28509015?pdp_filters=category:MLB1652#searchVariation=MLB28509015&position=1&search_layout=stack&type=product&tracking_id=64d02636-f136-47b8-b4b0-37b01b671180",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704381-MLA71549448375_092023-F.webp",
+      "cpu": "Intel Core i5-13420H (13ª Geração)",
+      "ram": "8 GB DDR5",
+      "ssd": "256 GB SSD NVMe",
+      "tela": "IPS Full HD (15.3\" WUXGA 1920x1200)",
+      "analise": "Excelente equilíbrio entre desempenho e custo. O processador i5 de 13ª geração oferece agilidade para multitarefas e o painel IPS WUXGA de 15.3 polegadas garante uma experiência visual superior. O SSD de 256GB é o mínimo para conforto, mas o sistema Linux pode exigir instalação de Windows para alguns usuários, ou optar por uma versão com Windows já instalada, que pode ter preço ligeiramente diferente.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Positivo Vision R15 AMD Ryzen 5 5500U",
-      "preco": "R$ 2.398,91",
-      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15-amd-ryzen-5500u-8gb-256gb-ssd-linux-15-6/p/238127200/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-positivo-vision-r15-amd-ryzen-5500u-8gb-256gb-ssd-linux-15-6/magazineluiza/238127200/103a45c79237ec712a4501a3577d6438.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD",
-      "analise": "Oferece um dos melhores custo-benefício do mercado, com um Ryzen 5 5500U e tela IPS Full HD por um preço agressivo. Ideal para estudos, trabalho e uso geral, com bom desempenho e experiência visual superior para a faixa de preço.",
-      "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "ASUS Vivobook 15 M1502YA AMD Ryzen 7 5825U",
-      "preco": "R$ 3.696,00",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-156-lcd-led-fhd-nivel-ips-cool-silver-bq966w/p/MLB25028445",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704627-MLB72983790530_112023-F.webp",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB RAM (expansível)",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD",
-      "analise": "Um Vivobook com um processador Ryzen 7 potente, ideal para quem precisa de mais força para tarefas exigentes, como edição de fotos leve ou uso de softwares mais pesados. O SSD de 512GB oferece bastante espaço e a tela IPS garante qualidade visual.",
+      "modelo": "Acer Aspire 5 A515-45-R36L (AMD Ryzen 7)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R36L-Ryzen/dp/B0B6L5N8Z2",
+      "foto": "https://m.media-amazon.com/images/I/71Y-oGzM+SL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 7 5700U",
+      "ram": "12 GB DDR4",
+      "ssd": "512 GB SSD NVMe",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Ideal para quem busca mais poder de processamento. O Ryzen 7 5700U, combinado com 12GB de RAM e 512GB de SSD, oferece performance robusta para multitarefas, edição leve e até alguns jogos casuais. A tela IPS de 15.6 polegadas é um grande diferencial.",
       "notas": {
         "performance": 9,
         "tela": 9,
@@ -52,37 +35,54 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3i Core i5-13420H",
-      "preco": "R$ 3.899,00",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-i5-13420H/dp/B0BP3F9G4Z",
-      "foto": "https://m.media-amazon.com/images/I/71R37C+eRmL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB RAM (expansível)",
-      "ssd": "512GB SSD",
-      "tela": "IPS Full HD (WUXGA WVA)",
-      "analise": "Com um processador Intel de 13ª geração, este IdeaPad Slim 3i oferece excelente desempenho para produtividade e multitarefas. A tela IPS (WVA é um tipo de IPS) proporciona bons ângulos de visão e cores. O SSD de 512GB é um ponto forte para armazenamento.",
+      "posicao": 3,
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-NP550XED-KF3BR-Windows/dp/B0BNL4B2D7",
+      "foto": "https://m.media-amazon.com/images/I/71T8JvM1dWL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8 GB DDR4 (expansível até 64GB)",
+      "ssd": "512 GB SSD NVMe",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Um notebook equilibrado com a confiabilidade Samsung. O Core i5 de 12ª geração e o SSD de 512GB garantem bom desempenho para o dia a dia. A tela IPS Full HD é excelente e a possibilidade de upgrade da RAM é um ponto positivo para longevidade.",
       "notas": {
-        "performance": 9,
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad 1i (Intel Core i5-1235U)",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-1i-i5-1235U/dp/B0BNP38G9L",
+      "foto": "https://m.media-amazon.com/images/I/61M6Y0Uq0TL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB SSD NVMe",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Ótimo custo-benefício para uso geral. O processador i5 de 12ª geração e o SSD de 512GB oferecem boa fluidez para estudo e trabalho. A tela IPS é um diferencial importante nesta faixa de preço, tornando-o uma escolha sólida para quem busca qualidade visual sem gastar muito.",
+      "notas": {
+        "performance": 8,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 5,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.654,00",
-      "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book2-intel-core-i5-1235u-windows-11-home-8gb-256gb-ssd-intel-iris-xe-156-full-hd-led-181kg-grafite/p/MLB25531948",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLB73453896437_122023-F.webp",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB RAM (expansível)",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD",
-      "analise": "O Galaxy Book2 oferece um design elegante e leve, com um processador Intel Core i5 de 12ª geração que lida bem com as tarefas diárias. A tela Full HD com painel IPS proporciona uma boa experiência visual. É uma opção sólida para uso geral, estudo e trabalho.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-379H",
+      "preco": "R$ 2.899,00",
+      "link": "https://www.kabum.com.br/produto/505476/notebook-acer-aspire-go-15-intel-core-i3-n300-8gb-ram-256gb-ssd-15-6-full-hd-linux-cinza-ag15-51p-379h",
+      "foto": "https://images.kabum.com.br/produtos/fotos/505476/notebook-acer-aspire-go-15-intel-core-i3-n300-8gb-ram-256gb-ssd-15-6-full-hd-linux-cinza-ag15-51p-379h_1714407898_g.jpg",
+      "cpu": "Intel Core i3-N300",
+      "ram": "8 GB LPDDR5",
+      "ssd": "256 GB SSD NVMe",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Uma opção mais acessível com tela IPS de qualidade. Embora o processador Core i3-N300 seja mais básico, é suficiente para tarefas leves e estudos. A presença de 8GB de RAM LPDDR5 e SSD NVMe de 256GB garante boa agilidade. A tela IPS é o grande destaque, raramente encontrada nesse patamar de preço. Vem com Linux.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 10
       }
     }
   ]
