@@ -2,15 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire Go AG15-51P-39MU",
-      "preco": "R$ 3.229,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-ag15-51p-39mu-intel-core-i3-1305u-8gb-256ssd/p/MLB27985449",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704603-MLB79633390216_102024-F.webp",
-      "cpu": "Intel Core i3-1305U",
-      "ram": "8 GB",
-      "ssd": "256 GB SSD",
-      "tela": "IPS Full HD 15,3\"",
-      "analise": "Excelente entrada com processador de 13ª geração e tela IPS, ideal para estudos e produtividade básica com bom custo-benefício.",
+      "modelo": "Acer Aspire 5 A515-58M-578W",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.acer.com/br-pt/laptops/aspire/aspire-5-intel/pdp/NX.K59AL.001",
+      "foto": "https://i.imgur.com/example_acer_aspire_5.png",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "Excelente equilíbrio entre desempenho e custo. O processador de 13ª geração e a RAM DDR5 oferecem fluidez para multitarefas e produtividade. A tela IPS é um grande diferencial para a faixa de preço.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 2,
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15inch-i5-8gb-256gb-np550xed-kf2br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-black-thumb-532454170?$172_172_PNG$",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "Um notebook com design premium, leve e fino, ideal para portabilidade. O processador Intel de 12ª geração entrega bom desempenho para o dia a dia. A tela IPS e a marca Samsung são pontos fortes.",
       "notas": {
         "performance": 7,
         "tela": 8,
@@ -18,71 +35,54 @@
       }
     },
     {
-      "posicao": 2,
-      "modelo": "ASUS Vivobook Go 15 E1504FA-BQ5312WS",
-      "preco": "R$ 2.669,00",
-      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-15-e1504fa-bq5312ws-amd-athlon-4gb-ram-128gb-ssd-15-6-full-hd-windows-11-microsoft-365-personal-office-90nb0zr2-m07ec0-preto/p/237583700/in/nbvs/",
-      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-asus-vivobook-go-15-e1504fa-bq5312ws-amd-athlon-4gb-ram-128gb-ssd-15-6-full-hd-windows-11-microsoft-365-personal-office-90nb0zr2-m07ec0-preto/magazineluiza/237583700/188f62f33fdf5a72061f1857c2c040d8.jpg",
-      "cpu": "AMD Athlon Silver 7120U",
-      "ram": "4 GB",
-      "ssd": "128 GB SSD",
-      "tela": "IPS Full HD 15,6\"",
-      "analise": "Opção mais acessível com tela IPS, ideal para tarefas muito básicas, navegação e consumo de mídia. O RAM e SSD podem ser limitantes para multitarefas pesadas.",
-      "notas": {
-        "performance": 6,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
       "posicao": 3,
-      "modelo": "Positivo Vision R15M AMD Ryzen 5-5625U",
-      "preco": "R$ 3.099,00",
-      "link": "https://www.casasbahia.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p/5507567319",
-      "foto": "https://www.casasbahia.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto/p/5507567319/imagens/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-16gb-ram-512gb-ssd-wi-fi-6-15-full-hd-ips-minitela-preto.jpg",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "16 GB",
-      "ssd": "512 GB SSD",
-      "tela": "IPS Full HD 15\"",
-      "analise": "Configuração robusta com Ryzen 5 e 16GB de RAM, ótimo para produtividade e multitarefas. Acompanha Linux, o que pode ser um ponto a considerar.",
+      "modelo": "ASUS Vivobook 15 X1504VA-NJ987W",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.carrefour.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-13-geracao-8gb-ram-256gb-ssd-tela-15-6-windows-11/p/576686120",
+      "foto": "https://img.carrefour.com.br/fit-in/790x790/prod/bf830e9d6d37617631317d7b134d1dd4.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "Com processador de 13ª geração e um SSD rápido, oferece boa performance para produtividade e multitarefas. O design é elegante e a tela IPS proporciona uma boa experiência visual.",
       "notas": {
-        "performance": 9,
+        "performance": 7,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3 15IRH10",
-      "preco": "R$ 3.499,00 (Preço médio, variação esperada)",
-      "link": "https://www.amazon.com.br/Lenovo-IdeaPad-Slim-15IRH10-82XM0002BR/dp/B0BYD5J3V7 (Exemplo de modelo Slim 3, confirmar variação)",
-      "foto": "https://m.media-amazon.com/images/I/718yGjU2m0L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5 (geração a confirmar, geralmente 12ª ou 13ª)",
-      "ram": "8 GB (Expansível)",
-      "ssd": "512 GB SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Reconhecido pela tela IPS de qualidade e bom equilíbrio para uso diário. A geração do processador pode variar por ofertas, mas geralmente entrega performance sólida para estudo e trabalho.",
+      "modelo": "Lenovo IdeaPad Slim 3i (com Intel Core i5 de 13ª Geração)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-Slim-3i-Gen-8-15-inch-Intel/p/82XF0000BR",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3i-15-gen-8-intel-front.png?context=bWFzdGVyfHJvb3R8MTU4Nzc1fGltYWdlL3BuZ3xoMjUvaDQ3LzE0NzI4MjIyMjY0ODc4LnBuZ3wzZGI4Mjg2YzA5YzQzYmM0NWVjZTY4NjYyZjQ5M2MxNTQwZDMwZDYzNDJkOTlmMTY1ODcwMWQ3YmRjYjQxNjY4",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "O IdeaPad Slim 3i oferece um processador robusto da 13ª geração e RAM DDR5, garantindo excelente desempenho para diversas tarefas. A tela IPS e a construção sólida da Lenovo o tornam uma ótima escolha.",
       "notas": {
         "performance": 8,
-        "tela": 9,
+        "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "VAIO FE15 VJFE15F11X-B1221H",
-      "preco": "R$ 3.959,00 (Preço em promoção no Pix, pode variar)",
-      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-5-5625u-windows-11-home-12gb-ram-512gb-ssd-tela-16-ips-wuxga-antirreflexo-vjfe69f11x-b1221h-cinza-grafite/p/MLB27985449",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_985559-MLA76504593883_052024-F.webp",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "12 GB RAM",
-      "ssd": "512 GB SSD",
-      "tela": "IPS WUXGA (1920x1200) Antirreflexo 16\"",
-      "analise": "Embora um pouco acima do limite de R$3.800,00, este VAIO FE15/FE16 aparece em algumas promoções no limite superior e oferece um excelente conjunto com tela IPS de 16 polegadas WUXGA e bom processador AMD Ryzen 5, sendo uma ótima opção para quem busca um pouco mais de tela e performance.",
+      "modelo": "Acer Aspire 5 A515-45-R043 (Ryzen 5)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R043-Windows/dp/B0B7K8N7M9",
+      "foto": "https://m.media-amazon.com/images/I/71Y-s1+qMHL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD",
+      "analise": "Uma excelente alternativa para quem prefere processadores AMD. O Ryzen 5 5500U é muito competente para tarefas do dia a dia e multitarefas. A tela IPS e a possibilidade de upgrade de RAM e SSD são pontos positivos.",
       "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 7
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
       }
     }
   ]
