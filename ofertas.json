@@ -2,15 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-58M-578W",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.acer.com/br-pt/laptops/aspire/aspire-5-intel/pdp/NX.K59AL.001",
-      "foto": "https://i.imgur.com/example_acer_aspire_5.png",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB DDR5 (expansível)",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Excelente equilíbrio entre desempenho e custo. O processador de 13ª geração e a RAM DDR5 oferecem fluidez para multitarefas e produtividade. A tela IPS é um grande diferencial para a faixa de preço.",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.099,00",
+      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite",
+      "foto": "https://br.vaio.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/f/e/fe16_r5_l_03.png",
+      "cpu": "AMD Ryzen 5-5625U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS WUXGA (1920x1200) Antirreflexo",
+      "analise": "Excelente performance para multitarefas e produtividade com tela WUXGA de alta qualidade. O custo-benefício é notável, mesmo com Linux como SO padrão.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 2,
+      "modelo": "ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U",
+      "preco": "R$ 2.889,15",
+      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-e1504fa-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-tela-156-fhd-black-nj731/p/237222300/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-asus-vivobook-go-e1504fa-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-tela-156-fhd-black-nj731/kabum/419830/2aa8a1c97a7a1b5c8f87edb76d758079.jpeg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Configuração moderna e eficiente para uso geral com um ótimo preço. A tela Full HD com painel IPS garante boa experiência visual.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -18,50 +35,33 @@
       }
     },
     {
-      "posicao": 2,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15inch-i5-8gb-256gb-np550xed-kf2br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-black-thumb-532454170?$172_172_PNG$",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Um notebook com design premium, leve e fino, ideal para portabilidade. O processador Intel de 12ª geração entrega bom desempenho para o dia a dia. A tela IPS e a marca Samsung são pontos fortes.",
+      "posicao": 3,
+      "modelo": "Positivo Vision i15M Intel Core 3 N300",
+      "preco": "R$ 2.619,00",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-i15m-com-minitela-intel-core-3-8gb-de-ram-ssd-de-256gb-e-tela-de-156-full-hd-ips-antirreflexo/p/MLB28509015",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLB76185859345_052024-F.webp",
+      "cpu": "Intel Core 3 N300",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (1920x1080) Antirreflexo",
+      "analise": "Destaque pela 'minitela' adicional e excelente custo para quem busca um notebook funcional com tela IPS de qualidade para tarefas diárias.",
       "notas": {
         "performance": 7,
-        "tela": 8,
+        "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 3,
-      "modelo": "ASUS Vivobook 15 X1504VA-NJ987W",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.carrefour.com.br/notebook-asus-vivobook-15-x1504va-intel-core-i5-13-geracao-8gb-ram-256gb-ssd-tela-15-6-windows-11/p/576686120",
-      "foto": "https://img.carrefour.com.br/fit-in/790x790/prod/bf830e9d6d37617631317d7b134d1dd4.jpg",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Com processador de 13ª geração e um SSD rápido, oferece boa performance para produtividade e multitarefas. O design é elegante e a tela IPS proporciona uma boa experiência visual.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3i (com Intel Core i5 de 13ª Geração)",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-Slim-3i-Gen-8-15-inch-Intel/p/82XF0000BR",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3i-15-gen-8-intel-front.png?context=bWFzdGVyfHJvb3R8MTU4Nzc1fGltYWdlL3BuZ3xoMjUvaDQ3LzE0NzI4MjIyMjY0ODc4LnBuZ3wzZGI4Mjg2YzA5YzQzYmM0NWVjZTY4NjYyZjQ5M2MxNTQwZDMwZDYzNDJkOTlmMTY1ODcwMWQ3YmRjYjQxNjY4",
-      "cpu": "Intel Core i5-13420H",
-      "ram": "8GB DDR5 (expansível)",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "O IdeaPad Slim 3i oferece um processador robusto da 13ª geração e RAM DDR5, garantindo excelente desempenho para diversas tarefas. A tela IPS e a construção sólida da Lenovo o tornam uma ótima escolha.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-39MU Intel Core i3-1305U",
+      "preco": "R$ 3.229,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-ag15-51p-39mu-intel-core-i3-1305u-8gb-256ssd-windows-11-home-153/p/MLB28507851",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_961599-MLB76185292451_052024-F.webp",
+      "cpu": "Intel Core i3-1305U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (1920x1080)",
+      "analise": "Processador de 13ª geração oferece bom desempenho para uso cotidiano, e a tela IPS garante qualidade visual. Um equilíbrio sólido para o trabalho e estudo.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -70,19 +70,19 @@
     },
     {
       "posicao": 5,
-      "modelo": "Acer Aspire 5 A515-45-R043 (Ryzen 5)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-45-R043-Windows/dp/B0B7K8N7M9",
-      "foto": "https://m.media-amazon.com/images/I/71Y-s1+qMHL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "IPS Full HD",
-      "analise": "Uma excelente alternativa para quem prefere processadores AMD. O Ryzen 5 5500U é muito competente para tarefas do dia a dia e multitarefas. A tela IPS e a possibilidade de upgrade de RAM e SSD são pontos positivos.",
+      "modelo": "Lenovo IdeaPad Slim 3 15IRU10 Intel Core i3 100U",
+      "preco": "R$ 3.095,14",
+      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey/p/237497100/in/note/",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey/kabum/440536/a65893a0058b8f2d659e9334dd16361a.jpeg",
+      "cpu": "Intel Core 3 100U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "Full HD (1920x1080) *Verificar painel, geralmente IPS nesta linha.",
+      "analise": "A linha IdeaPad Slim 3 é conhecida pelo bom equilíbrio entre design e desempenho para tarefas básicas e intermediárias. Embora o painel não seja explicitamente IPS em todas as listagens, a qualidade visual geralmente é muito boa nesta categoria e muitos modelos vêm com painéis IPS.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     }
   ]
