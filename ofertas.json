@@ -2,66 +2,49 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
-      "preco": "R$ 3.099,00",
-      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite",
-      "foto": "https://br.vaio.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/f/e/fe16_r5_l_03.png",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "IPS WUXGA (1920x1200) Antirreflexo",
-      "analise": "Excelente performance para multitarefas e produtividade com tela WUXGA de alta qualidade. O custo-benefício é notável, mesmo com Linux como SO padrão.",
+      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ732",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Go-15/dp/B0CKD3C89Z/ (Exemplo de link, verificar disponibilidade)",
+      "foto": "https://m.media-amazon.com/images/I/71R27PzYdTL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5 (soldada)",
+      "ssd": "512GB NVMe PCIe 3.0",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente custo-benefício. Processador Ryzen 5 de geração recente com memória LPDDR5 oferece ótima agilidade para tarefas diárias e multitarefas. A tela IPS é um grande diferencial nessa faixa de preço. A RAM soldada pode ser uma limitação futura.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U",
-      "preco": "R$ 2.889,15",
-      "link": "https://www.magazineluiza.com.br/notebook-asus-vivobook-go-e1504fa-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-tela-156-fhd-black-nj731/p/237222300/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-asus-vivobook-go-e1504fa-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-tela-156-fhd-black-nj731/kabum/419830/2aa8a1c97a7a1b5c8f87edb76d758079.jpeg",
+      "modelo": "Lenovo IdeaPad Slim 3 (ver. Ryzen 5 7520U)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-slim/IdeaPad-Slim-3-15-AMD-Gen-8/p/LEN101I0064 (Link genérico, verificar versão exata com IPS)",
+      "foto": "https://p1-ofp.static.pub/fes/cms/2023/07/04/l7q1507f3c4h4lq9p46q408c0282m3128956.png",
       "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Configuração moderna e eficiente para uso geral com um ótimo preço. A tela Full HD com painel IPS garante boa experiência visual.",
+      "ram": "8GB LPDDR5 (soldada)",
+      "ssd": "256GB SSD NVMe (expansível)",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um forte concorrente com bom equilíbrio entre desempenho e portabilidade. O Ryzen 5 7520U garante fluidez para trabalho e estudos. A tela IPS proporciona ótima qualidade visual. O SSD de 256GB é aceitável, mas pode precisar de upgrade para usuários com muitos arquivos.",
       "notas": {
         "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 9
+        "tela": 8,
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 3,
-      "modelo": "Positivo Vision i15M Intel Core 3 N300",
-      "preco": "R$ 2.619,00",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-i15m-com-minitela-intel-core-3-8gb-de-ram-ssd-de-256gb-e-tela-de-156-full-hd-ips-antirreflexo/p/MLB28509015",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_910777-MLB76185859345_052024-F.webp",
-      "cpu": "Intel Core 3 N300",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD (1920x1080) Antirreflexo",
-      "analise": "Destaque pela 'minitela' adicional e excelente custo para quem busca um notebook funcional com tela IPS de qualidade para tarefas diárias.",
-      "notas": {
-        "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Acer Aspire Go 15 AG15-51P-39MU Intel Core i3-1305U",
-      "preco": "R$ 3.229,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-ag15-51p-39mu-intel-core-i3-1305u-8gb-256ssd-windows-11-home-153/p/MLB28507851",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_961599-MLB76185292451_052024-F.webp",
-      "cpu": "Intel Core i3-1305U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Processador de 13ª geração oferece bom desempenho para uso cotidiano, e a tela IPS garante qualidade visual. Um equilíbrio sólido para o trabalho e estudo.",
+      "modelo": "Samsung Galaxy Book2 NP550XED-KF2BR",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-i5-8gb-256gb-np550xed-kf2br/ (Exemplo de link, verificar disponibilidade)",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np550xed-kf2br/gallery/br-galaxy-book2-np550xed-kf2br-front-khaki-green-534720610?$624_624_AC_PF_L$",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB SSD NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Design leve e elegante, com um processador i5 de 12ª geração que oferece ótimo desempenho para o dia a dia. A tela Full HD com painel IPS é uma excelente adição para consumo de conteúdo e produtividade. A RAM é expansível, o que é um ponto positivo para longevidade.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -69,20 +52,37 @@
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Lenovo IdeaPad Slim 3 15IRU10 Intel Core i3 100U",
-      "preco": "R$ 3.095,14",
-      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey/p/237497100/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-lenovo-ideapad-slim-3-15iru10-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey/kabum/440536/a65893a0058b8f2d659e9334dd16361a.jpeg",
-      "cpu": "Intel Core 3 100U",
-      "ram": "8GB RAM",
-      "ssd": "256GB SSD",
-      "tela": "Full HD (1920x1080) *Verificar painel, geralmente IPS nesta linha.",
-      "analise": "A linha IdeaPad Slim 3 é conhecida pelo bom equilíbrio entre design e desempenho para tarefas básicas e intermediárias. Embora o painel não seja explicitamente IPS em todas as listagens, a qualidade visual geralmente é muito boa nesta categoria e muitos modelos vêm com painéis IPS.",
+      "posicao": 4,
+      "modelo": "Acer Aspire Go 15 AG15-71P-5939",
+      "preco": "R$ 3.780,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-ag15-71p-5939-intel-core-i5-13420h-13a-geraco-8gb-ddr5-256gb-ssd-nvme-tela-156-windows-11-home/p/MLB25000570?pdp_filters=category:MLB1652#searchVariation=MLB25000570&position=4&search_layout=grid&type=product&tracking_id=53b3b4f6-0272-46c5-a359-8d77d130e527 (Exemplo de link, verificar disponibilidade e tipo de tela)",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_918510-MLB77073281144_072024-O.webp",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5",
+      "ssd": "256GB SSD NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "O processador Intel Core i5-13420H da 13ª geração é um destaque, oferecendo excelente performance. A RAM DDR5 contribui para a velocidade geral. É crucial *confirmar que a versão específica vem com painel IPS*, pois algumas configurações podem ter TN.",
       "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
+        "performance": 9,
+        "tela": 7,
+        "custo_beneficio": 7
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "VAIO FE16 (versão com Ryzen 5 5625U)",
+      "preco": "R$ 3.800,00",
+      "link": "https://www.lojavaio.com.br/notebooks/fe16 (Link genérico, verificar disponibilidade e preço exato da versão)",
+      "foto": "https://www.lojavaio.com.br/pub/media/catalog/product/cache/412f00a58a74136e65a2d6ad7a91ce30/v/j/vjfe16b11x-b0211b_topo.png",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4 (expansível até 64GB)",
+      "ssd": "256GB SSD NVMe (verificar configuração exata)",
+      "tela": "IPS Full HD 16.0\" (WUXGA 1920x1200)",
+      "analise": "A tela de 16 polegadas com resolução WUXGA e painel IPS oferece uma área de trabalho expandida e ótima qualidade visual. O Ryzen 5 5625U é competente para multitarefas e produtividade. A possibilidade de expandir a RAM até 64GB é um grande diferencial para longevidade. Preço próximo ao limite superior, exige boa pesquisa por promoções.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 7
       }
     }
   ]
