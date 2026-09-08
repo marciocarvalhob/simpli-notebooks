@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R478",
-      "preco": "R$ 3.689,10",
-      "link": "https://www.kabum.com.br/produto/160868/notebook-acer-aspire-5-a515-45-r478-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-15-6-fhd-led-ips-60hz-linux-gutta-nx-aydal-00r",
-      "foto": "https://images.kabum.com.br/produtos/fotos/160868/160868_1669830500_g.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16GB DDR4",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente custo-benefício com 16GB de RAM e 512GB SSD já de fábrica, ideal para multitarefas e produtividade. Tela IPS com boa qualidade de imagem.",
+      "modelo": "VAIO FE16 AMD Ryzen 7-5825U",
+      "preco": "R$ 3.419,00",
+      "link": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-7-5825u-linux-8gb-ram-512gb-ssd-wi-fi-6/p/MLB25010642",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_918510-MLB70550302821_072023-O.webp",
+      "cpu": "AMD Ryzen 7 5825U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe SSD",
+      "tela": "IPS WUXGA Antirreflexo (16 polegadas)",
+      "analise": "Excelente desempenho para multitarefas e produtividade com tela WUXGA de 16 polegadas, ideal para quem busca mais espaço de trabalho. O Ryzen 7 5825U oferece boa performance para o dia a dia e tarefas mais exigentes, e o SSD de 512GB garante agilidade. Sistema Linux KeepOS ajuda a baratear o custo.",
       "notas": {
         "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
-      "preco": "R$ 3.299,00",
-      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite/",
-      "foto": "https://br.vaio.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/f/e/fe16_grafite_1.png",
-      "cpu": "AMD Ryzen 5 5625U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "IPS WUXGA 16\" (1920x1200)",
-      "analise": "Tela WUXGA de 16 polegadas com painel IPS oferece excelente espaço de trabalho e qualidade visual. Processador competente para o dia a dia e trabalho. A versão com Linux ajuda a manter o preço competitivo.",
-      "notas": {
-        "performance": 8,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 15amn8",
-      "preco": "R$ 3.662,74",
-      "link": "https://www.kabum.com.br/produto/496191/notebook-lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-7520u-8gb-512gb-ssd-windows-11-home-15-6-83v80000bo",
-      "foto": "https://images.kabum.com.br/produtos/fotos/496191/496191_1688661661_g.jpg",
+      "posicao": 2,
+      "modelo": "ASUS Vivobook Go 15 E1504FA AMD Ryzen 5 7520U",
+      "preco": "R$ 2.997,00",
+      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux/p/MLB28120427",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_832128-MLB74070267246_012024-O.webp",
       "cpu": "AMD Ryzen 5 7520U",
       "ram": "8GB LPDDR5",
-      "ssd": "512GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um forte competidor com processador Ryzen de última geração e 512GB de SSD. A linha Slim 3 é conhecida por ter opções com tela IPS de boa qualidade, oferecendo cores mais vivas.",
+      "ssd": "256GB NVMe PCIe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Ótima opção de custo-benefício com processador Ryzen 5 de geração recente e memória RAM LPDDR5, que oferece bom desempenho para tarefas cotidianas. A tela IPS Full HD proporciona excelente qualidade de imagem. O SSD de 256GB é adequado para o sistema e programas essenciais.",
       "notas": {
         "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 10
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 Ryzen 7 5700U",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.mercadolivre.com.br/notebook-lenovo-slim3-r7-8gb-256gb-ssd-15-3-fhd-linux/p/MLB28045330",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_909673-MLB74070267319_012024-O.webp",
+      "cpu": "AMD Ryzen 7 5700U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe SSD",
+      "tela": "IPS Full HD (15.3 polegadas)",
+      "analise": "Um notebook equilibrado com o potente Ryzen 7 5700U, ideal para produtividade e multitarefas. A tela IPS Full HD de 15.3 polegadas oferece boa imersão visual. O SSD de 256GB garante inicialização rápida e agilidade no sistema.",
+      "notas": {
+        "performance": 9,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "ASUS Vivobook Go E1504FA (NJ732)",
-      "preco": "R$ 3.144,15",
-      "link": "https://www.kabum.com.br/produto/476901/notebook-asus-vivobook-go-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-linux-keepos-tela-15-6-fhd-black-nj732",
-      "foto": "https://images.kabum.com.br/produtos/fotos/476901/476901_1688583493_g.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
-      "ssd": "512GB NVMe",
-      "tela": "Full HD 15.6\" (Nível IPS)",
-      "analise": "Ótimo desempenho para a faixa de preço com o Ryzen 5 7520U e generosos 512GB de SSD. A tela Full HD, embora não explicitamente 'IPS' para este SKU exato, é geralmente de 'nível IPS' na linha Vivobook Go, garantindo boa experiência visual.",
+      "modelo": "ASUS Vivobook 15 X1504VA Intel Core i5 1334U",
+      "preco": "R$ 3.769,00",
+      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-15-intel-core-i5-1334u-13-ghz-8gb-ram-256gb-ssd/p/MLB27958564",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_608157-MLA74071374526_012024-O.webp",
+      "cpu": "Intel Core i5 1334U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Equipado com um Core i5 de 13ª geração, este Vivobook oferece excelente performance para tarefas diárias e multitarefas. A tela IPS Full HD garante cores vibrantes e bons ângulos de visão. O SSD de 256GB, embora não seja o maior, é rápido e eficiente.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Positivo Vision R15M",
-      "preco": "R$ 2.700,00",
-      "link": "",
-      "foto": "https://m.media-amazon.com/images/I/61Nl3yqG8QL._AC_SX679_.jpg",
+      "modelo": "VAIO FE16 AMD Ryzen 5-5625U",
+      "preco": "R$ 3.699,00",
+      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16",
+      "foto": "https://br.vaio.com/cdn/shop/products/Notebook-VAIO-FE16-AMD-Ryzen-5-5625U-Linux-8GB-RAM-256GB-SSD-16-cinza-01.jpg?v=1686774619",
       "cpu": "AMD Ryzen 5 5625U",
       "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "A Positivo tem melhorado seus produtos, e o Vision R15M com Ryzen 5 oferece um excelente desempenho para a categoria, acompanhado de uma tela IPS de boa qualidade, o que é um grande diferencial para o preço.",
+      "ssd": "256GB NVMe PCIe SSD",
+      "tela": "IPS WUXGA Antirreflexo (16 polegadas)",
+      "analise": "Com um Ryzen 5 potente e tela IPS WUXGA de 16 polegadas, este VAIO é uma ótima escolha para quem busca produtividade e qualidade visual em um formato maior. O SSD de 256GB contribui para a fluidez do sistema.",
       "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 9
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
       }
     }
   ]
