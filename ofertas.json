@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-57-55B1",
-      "preco": "R$ 3.399,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "https://m.media-amazon.com/images/I/71N1g-I1nKL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-12450H",
+      "modelo": "Acer Aspire 5 A515-57-55B8",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-5-A515-57-55B8/dp/B0BFY3T9X8",
+      "foto": "https://m.media-amazon.com/images/I/71YyA2q2jHL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1235U",
       "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe Gen4",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Excelente equilíbrio entre desempenho e custo-benefício. O processador de 12ª geração e o SSD rápido garantem agilidade para multitarefas e uso geral, com uma tela IPS de boa qualidade. É um dos campeões em custo-benefício no Brasil.",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um excelente equilíbrio entre processador moderno, SSD generoso e tela IPS. Ideal para produtividade e multitarefas.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,70 +19,70 @@
     },
     {
       "posicao": 2,
-      "modelo": "ASUS Vivobook 15 X1502ZA-EJ712",
-      "preco": "R$ 3.199,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "https://m.media-amazon.com/images/I/71Y6G+Sj88L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe 3.0",
-      "tela": "IPS-level Full HD (1920x1080)",
-      "analise": "Com um design elegante e hardware competente para o dia a dia, o Vivobook 15 oferece uma experiência visual agradável com seu painel IPS-level. O SSD de 512GB proporciona boa velocidade de carregamento e o Core i5 de 12ª geração lida bem com diversas tarefas.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3i 15IAU7",
+      "modelo": "ASUS Vivobook Go 15 E1504FA-BQ554W",
       "preco": "R$ 2.999,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3i-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MTU4Nzc3fGltYWdlL3BuZ3xoMjUvaDQ4Lzk5Nzk1MDYwNTc2MTAucG5nfDNmMTg2NWJmOTVmNThhNDc5YWEzYzE5NTMwMTI2Mjk0NjY3YmFkNjU3MTQ2OTNjZjU1OTc1ODlhMzk3YTZlY2Q",
-      "cpu": "Intel Core i3-1215U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe 4.0",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Uma opção sólida para quem busca um notebook para estudo e trabalho, com um bom custo-benefício. O Core i3 de 12ª geração é eficiente para tarefas básicas e intermediárias, e a tela IPS oferece bons ângulos de visão. O SSD de 512GB é um diferencial positivo nesta faixa.",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-E1504FA-BQ554W-Militar/dp/B0CKD8K66M",
+      "foto": "https://m.media-amazon.com/images/I/710gqSj4L-L._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB LPDDR5",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Processador Ryzen de nova geração com RAM LPDDR5 para boa eficiência e desempenho sólido para o dia a dia. Ótimo custo.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
         "custo_beneficio": 10
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Dell Inspiron 15 3520 (Configuração i3-1215U)",
-      "preco": "R$ 3.599,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-pdp-front-gallery-504x378?fmt=png-alpha",
-      "cpu": "Intel Core i3-1215U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "WVA Full HD (1920x1080) antirreflexo",
-      "analise": "A linha Inspiron da Dell é conhecida pela sua confiabilidade. Este modelo oferece um processador Intel de 12ª geração e uma tela WVA (similar ao IPS) para boa qualidade de imagem. Ideal para quem busca uma marca consolidada e um notebook para uso diário e estudos.",
+      "posicao": 3,
+      "modelo": "Samsung Galaxy Book Go NP340XLA-K02BR",
+      "preco": "R$ 2.799,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book-go-snapdragon-7c-gen-2-4gb-128gb-ssd-14-fhd-windows-11s-prata/p/235738600/in/nbok/",
+      "foto": "https://static.mercadolivre.com.br/jm/mlb/images?url=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_727196-MLB51478546123_092022-O.webp&width=500&height=500",
+      "cpu": "Qualcomm Snapdragon 7c Gen 2",
+      "ram": "4GB LPDDR4X",
+      "ssd": "128GB eUFS",
+      "tela": "LED Full HD 14\" (considerado WVA/IPS-like)",
+      "analise": "Focado em portabilidade e autonomia de bateria, com tela Full HD. Bom para tarefas básicas e estudo. A RAM de 4GB é o ponto fraco.",
       "notas": {
-        "performance": 7,
+        "performance": 6,
         "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Samsung Book NP550XDA-KH2BR",
-      "preco": "R$ 3.499,00",
-      "link": "URL real da loja ou deixe vazio se não tiver certeza",
-      "foto": "https://images.samsung.com/is/image/samsung/br-notebook-book-np550xda-kh2br-frontside-gray-287965825?$684_547_PNG$",
-      "cpu": "Intel Core i5-1135G7",
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad 3 82MF0004BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-82MF0004BR-Prata/dp/B0BFXBXQ3R",
+      "foto": "https://m.media-amazon.com/images/I/61V162wW1VL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 7 5700U",
       "ram": "8GB DDR4",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080)",
-      "analise": "Um notebook versátil da Samsung, com um processador i5 de 11ª geração que ainda entrega bom desempenho para tarefas cotidianas e produtividade. É importante notar que este modelo específico possui tela IPS, oferecendo melhor qualidade de imagem em comparação com variantes de painel TN.",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Ryzen 7 oferece um desempenho multitarefa robusto para a faixa de preço, com 8GB de RAM e tela IPS. Excelente para uso geral e um pouco mais exigente.",
+      "notas": {
+        "performance": 9,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Positivo Vision C15M",
+      "preco": "R$ 2.899,00",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-c15m-8gb-256gb-156-fhd-linux-cinza/p/MLB25015944",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_600262-MLB72051666870_092023-O.webp",
+      "cpu": "Intel Celeron N4500",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Surpreende com tela IPS Full HD e 8GB de RAM em sua categoria. Ideal para quem prioriza a qualidade visual e tarefas leves com bom custo. Vem com Linux.",
       "notas": {
         "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
+        "tela": 9,
+        "custo_beneficio": 9
       }
     }
   ]
