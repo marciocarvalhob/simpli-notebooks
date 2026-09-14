@@ -2,15 +2,15 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-57-55B8",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-5-A515-57-55B8/dp/B0BFY3T9X8",
-      "foto": "https://m.media-amazon.com/images/I/71YyA2q2jHL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
+      "modelo": "Lenovo IdeaPad Slim 3i (Intel Core i5-13420H)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15IRH10/dp/B0CKD331C8",
+      "foto": "https://m.media-amazon.com/images/I/61b7f94q5ZL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-13420H",
       "ram": "8GB DDR4",
-      "ssd": "512GB NVMe SSD",
+      "ssd": "512GB NVMe PCIe Gen4",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Um excelente equilíbrio entre processador moderno, SSD generoso e tela IPS. Ideal para produtividade e multitarefas.",
+      "analise": "Excelente desempenho para o dia a dia e multitarefas. O Core i5 de 13ª geração e o SSD rápido garantem agilidade. A tela IPS é um diferencial na faixa de preço.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -19,15 +19,32 @@
     },
     {
       "posicao": 2,
-      "modelo": "ASUS Vivobook Go 15 E1504FA-BQ554W",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-E1504FA-BQ554W-Militar/dp/B0CKD8K66M",
-      "foto": "https://m.media-amazon.com/images/I/710gqSj4L-L._AC_SL1500_.jpg",
+      "modelo": "Acer Aspire Go 15 AG15-31P-C1J5",
+      "preco": "R$ 3.205,80",
+      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-go-15-ryzen-3-7320u-8gb-ssd-128gb-tela-full-hd-ips-15-6-windows-11/p/236710400/in/notb/?seller_id=lojamaispro",
+      "foto": "https://a-static.mlcdn.com.br/450x450/notebook-acer-aspire-go-15-ryzen-3-7320u-8gb-ssd-128gb-tela-full-hd-ips-15-6-windows-11/lojamaispro/236710400/40e34c568f9a9443e936553df8f090b8.jpeg",
+      "cpu": "AMD Ryzen 3 7320U",
+      "ram": "8GB LPDDR5",
+      "ssd": "128GB NVMe SSD",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Boa opção de entrada/intermediário com tela IPS de qualidade. O Ryzen 3 de série 7000 oferece desempenho competente para tarefas básicas e estudo. A RAM LPDDR5 é um plus, mas o SSD de 128GB pode ser limitante para alguns.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ732 (Ryzen 5 7520U)",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-RYZEN-7520U/dp/B0BWMV3V6J",
+      "foto": "https://m.media-amazon.com/images/I/71K6Q4Y2DYL._AC_SL1500_.jpg",
       "cpu": "AMD Ryzen 5 7520U",
       "ram": "8GB LPDDR5",
-      "ssd": "256GB NVMe SSD",
+      "ssd": "512GB NVMe SSD",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Processador Ryzen de nova geração com RAM LPDDR5 para boa eficiência e desempenho sólido para o dia a dia. Ótimo custo.",
+      "analise": "Com um bom Ryzen 5, 8GB de RAM e 512GB de SSD, oferece um excelente pacote para produtividade. A tela IPS Full HD é um ponto forte, e a inclusão do KeepOS Linux ajuda a manter o custo-benefício.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -35,54 +52,37 @@
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Samsung Galaxy Book Go NP340XLA-K02BR",
-      "preco": "R$ 2.799,00",
-      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book-go-snapdragon-7c-gen-2-4gb-128gb-ssd-14-fhd-windows-11s-prata/p/235738600/in/nbok/",
-      "foto": "https://static.mercadolivre.com.br/jm/mlb/images?url=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_727196-MLB51478546123_092022-O.webp&width=500&height=500",
-      "cpu": "Qualcomm Snapdragon 7c Gen 2",
-      "ram": "4GB LPDDR4X",
-      "ssd": "128GB eUFS",
-      "tela": "LED Full HD 14\" (considerado WVA/IPS-like)",
-      "analise": "Focado em portabilidade e autonomia de bateria, com tela Full HD. Bom para tarefas básicas e estudo. A RAM de 4GB é o ponto fraco.",
-      "notas": {
-        "performance": 6,
-        "tela": 8,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 4,
-      "modelo": "Lenovo IdeaPad 3 82MF0004BR",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-82MF0004BR-Prata/dp/B0BFXBXQ3R",
-      "foto": "https://m.media-amazon.com/images/I/61V162wW1VL._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 7 5700U",
-      "ram": "8GB DDR4",
+      "modelo": "Positivo Vision i15M (Intel Core i3-N300)",
+      "preco": "R$ 2.499,00",
+      "link": "https://www.amazon.com.br/Positivo-Vision-i15M-Processador-Secund%C3%A1ria/dp/B0CP97931S",
+      "foto": "https://m.media-amazon.com/images/I/61sI5v2H2LL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i3-N300",
+      "ram": "8GB LPDDR5",
       "ssd": "256GB NVMe SSD",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Ryzen 7 oferece um desempenho multitarefa robusto para a faixa de preço, com 8GB de RAM e tela IPS. Excelente para uso geral e um pouco mais exigente.",
+      "analise": "Uma opção muito acessível com tela IPS Full HD e uma inovadora mini-tela auxiliar. Ideal para estudantes e usuários que precisam de um notebook para tarefas básicas com boa experiência visual e mobilidade.",
       "notas": {
-        "performance": 9,
+        "performance": 7,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 5,
-      "modelo": "Positivo Vision C15M",
-      "preco": "R$ 2.899,00",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-c15m-8gb-256gb-156-fhd-linux-cinza/p/MLB25015944",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_600262-MLB72051666870_092023-O.webp",
-      "cpu": "Intel Celeron N4500",
-      "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
+      "modelo": "Samsung Galaxy Book2 (Intel Core i5-1235U)",
+      "preco": "R$ 3.759,00",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book2-i5-1235U/dp/B0B683Y371",
+      "foto": "https://m.media-amazon.com/images/I/71B9gq2i0PL._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "256GB NVMe SSD",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Surpreende com tela IPS Full HD e 8GB de RAM em sua categoria. Ideal para quem prioriza a qualidade visual e tarefas leves com bom custo. Vem com Linux.",
+      "analise": "Um notebook equilibrado da Samsung, com bom processador e construção elegante. A tela IPS é uma excelente adição para trabalho e consumo de conteúdo. O SSD de 256GB pode ser um fator limitante para alguns.",
       "notas": {
         "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 9
+        "tela": 8,
+        "custo_beneficio": 8
       }
     }
   ]
