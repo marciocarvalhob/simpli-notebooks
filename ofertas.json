@@ -2,32 +2,32 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Positivo Vision R15M (AMD Ryzen 3-7330U, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.magazineluiza.com.br/notebook-positivo-vision-r15m-amd-ryzen-3-7330u-linux-8gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto/p/fdkcb2j9hh/in/ntpv/",
-      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-positivo-vision-r15m-amd-ryzen-3-7330u-linux-8gb-ram-512gb-ssd-wi-fi-6-tela-15-full-hd-ips-minitela-preto/magazineluiza/fdkcb2j9hh/f3b890984920401d670606f71b9e078a.jpg",
-      "cpu": "AMD Ryzen 3-7330U",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "512GB NVMe (expansível até 4TB)",
-      "tela": "IPS Full HD (1920x1080) 15.6\" Antirreflexo + Minitela 1.54\" IPS",
-      "analise": "Excelente custo-benefício com processador Ryzen competente para tarefas diárias e multitarefa. A tela IPS principal e a inovadora 'Minitela' são diferenciais. Ótima capacidade de upgrade de RAM e SSD.",
+      "modelo": "Lenovo IdeaPad Slim 3 15IRH10 (Intel Core i5-13420H)",
+      "preco": "R$ 3.799,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-13420H (13ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD (1920 x 1080)",
+      "analise": "Excelente desempenho para multitarefas e produtividade, com um processador potente de 13ª geração e SSD rápido. A tela IPS Full HD é um grande diferencial para a categoria, oferecendo ótima qualidade visual para trabalho e entretenimento. A RAM de 8GB é adequada para a maioria dos usuários, mas a expansibilidade deve ser verificada.",
       "notas": {
-        "performance": 8,
+        "performance": 9,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "VAIO FE16 (AMD Ryzen 5-5625U, Linux, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.299,00",
-      "link": "https://br.vaio.com/notebook-vaio-fe16-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-16-ips-wuxga-antirreflexo-cinza-grafite/",
-      "foto": "https://br.vaio.com/media/catalog/product/cache/44c4b69d95ee62a3560b37ff9a60787e/f/e/fe16_ryzen5_linux_8_256_1.png",
-      "cpu": "AMD Ryzen 5-5625U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB NVMe (expansível)",
-      "tela": "IPS WUXGA (1920x1200) 16\" Antirreflexo",
-      "analise": "Oferece uma tela IPS de 16 polegadas com resolução WUXGA, proporcionando mais espaço vertical. O Ryzen 5-5625U entrega bom desempenho para produtividade e multitarefa. Bom para quem busca um notebook com tela maior e recursos de upgrade.",
+      "modelo": "ASUS Vivobook 15 (AMD Ryzen 5 7520U)",
+      "preco": "R$ 3.499,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8 GB LPDDR5",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD (1920 x 1080)",
+      "analise": "Uma ótima opção com processador AMD Ryzen 5 moderno e eficiente, ideal para produtividade e multitarefa. A RAM LPDDR5 oferece mais velocidade, e o SSD de 512GB é generoso para a faixa de preço. A tela IPS Full HD garante uma experiência visual imersiva, tornando-o um excelente pacote de custo-benefício.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -36,15 +36,32 @@
     },
     {
       "posicao": 3,
-      "modelo": "Acer Aspire Go 15 (Intel Core i5-1334U, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.800,00 (Preço estimado)",
-      "link": "",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np754xgl-kg5br/gallery/br-galaxy-book4-177243-np754xgl-kg5br-540702581?$684_547_PNG$",
-      "cpu": "Intel Core i5-1334U (13ª Geração)",
-      "ram": "8GB DDR5 (expansível até 32GB)",
-      "ssd": "512GB NVMe",
-      "tela": "IPS WUXGA (1920x1200) 15.3\" Antirreflexo",
-      "analise": "Com um Core i5 de 13ª geração e 8GB de RAM DDR5 expansível, este modelo oferece performance robusta para trabalho e estudo. A tela WUXGA IPS é um diferencial. Ideal para quem busca longevidade e capacidade de upgrade.",
+      "modelo": "Acer Aspire 5 A515-45-R043 (AMD Ryzen 5)",
+      "preco": "R$ 3.650,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 (modelo específico pode variar, buscar o mais recente na faixa)",
+      "ram": "16 GB DDR4",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD (1920 x 1080)",
+      "analise": "Destaca-se pela generosa quantidade de RAM (16GB), ideal para quem precisa de mais capacidade para multitarefas pesadas ou edição leve. O processador Ryzen 5 oferece bom desempenho e a tela IPS Full HD é um ponto forte para a experiência visual. O SSD de 512GB complementa o pacote com velocidade no armazenamento.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Samsung Galaxy Book2 (Intel Core i5-1235U)",
+      "preco": "R$ 3.599,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i5-1235U (12ª Geração)",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe SSD",
+      "tela": "IPS Full HD (1920 x 1080)",
+      "analise": "Um notebook equilibrado da Samsung, com um processador Intel Core i5 de 12ª geração que oferece boa performance para o dia a dia e trabalho. A tela IPS Full HD é excelente para consumo de conteúdo e produtividade, e o design fino e leve contribui para a portabilidade. O SSD de 256GB pode ser um pouco limitado para alguns, mas é expansível.",
       "notas": {
         "performance": 8,
         "tela": 9,
@@ -52,37 +69,20 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Samsung Galaxy Book4 (Intel Core i3-1315U, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.500,00 (Preço estimado)",
-      "link": "",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np754xgl-kg5br/gallery/br-galaxy-book4-177243-np754xgl-kg5br-540702581?$684_547_PNG$",
-      "cpu": "Intel Core i3-1315U (13ª Geração)",
-      "ram": "8GB LPDDR4x (soldada)",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080) 15.6\" Antirreflexo",
-      "analise": "Destaque pela construção premium em metal e tela IPS de boa qualidade. O processador i3 de 13ª geração é eficiente para tarefas do dia a dia. A RAM soldada é um ponto de atenção, mas o conjunto é balanceado.",
-      "notas": {
-        "performance": 7,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "ASUS Vivobook Go 15 (AMD Ryzen 5 40, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.500,00 (Preço estimado)",
-      "link": "",
-      "foto": "https://m.media-amazon.com/images/I/71R2o5fP7zL._AC_UF894,1000_QL80_.jpg",
-      "cpu": "AMD Ryzen 5 (série 4000)",
-      "ram": "8GB LPDDR5 (possivelmente soldada)",
-      "ssd": "256GB NVMe",
-      "tela": "IPS Full HD (1920x1080) 15.6\" Antirreflexo",
-      "analise": "Com certificação militar MIL-STD-810H, oferece durabilidade extra. O Ryzen 5 proporciona bom desempenho para o segmento. A tela 'nível IPS' garante boa experiência visual. Excelente opção para estudantes e uso geral.",
+      "modelo": "Acer Aspire 3 A315-510P-35D2 (Intel Core i3-N305)",
+      "preco": "R$ 2.899,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core i3-N305",
+      "ram": "8 GB DDR5",
+      "ssd": "512 GB NVMe SSD",
+      "tela": "IPS Full HD (1920 x 1080)",
+      "analise": "Considerado uma ótima opção de entrada com foco em custo-benefício. O processador i3-N305 é suficiente para tarefas básicas e estudo, e a presença de 8GB de RAM DDR5 e um generoso SSD de 512GB são grandes vantagens nesta faixa de preço. A tela IPS Full HD eleva a experiência para um notebook mais acessível.",
       "notas": {
         "performance": 7,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 10
       }
     }
   ]
