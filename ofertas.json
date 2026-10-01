@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-57-55BX",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.acer.com/br-pt/laptops/aspire/aspire-5/pdp/NX.K94AL.001",
-      "foto": "https://images.acer.com/is/image/acer/a515-57-55bx-gallery-1?wid=450&hei=450",
-      "cpu": "Intel Core i5-12450H",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB PCIe Gen4",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Excelente performance para o dia a dia e multitarefas, com um processador de 12ª geração e SSD rápido. A tela IPS é um grande diferencial para a produtividade e consumo de mídia.",
+      "modelo": "Lenovo IdeaPad Slim 3i (82MD0007BR)",
+      "preco": "R$ 3.319,17",
+      "link": "https://www.ramsons.com.br/notebook-lenovo-ideapad-3i-15-82md0007br-15-6-intel-core-i5-8gb-256gb-ssd-windows-11",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xed-kf2br/gallery/br-galaxy-book2-np750xed-kf2br-437563539?$684_547_PNG$",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4 3200MHz",
+      "ssd": "256GB SSD NVMe PCIe",
+      "tela": "15.6\" Full HD Antirreflexo",
+      "analise": "Excelente equilíbrio entre desempenho para tarefas diárias e preço. O processador de 11ª geração com Iris Xe Graphics e o SSD garantem fluidez. A tela antirreflexo é um diferencial para uso prolongado.",
       "notas": {
-        "performance": 9,
-        "tela": 9,
+        "performance": 8,
+        "tela": 7,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF4BR",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book2-15-i5-8gb-256gb-np550xed-kf4br/",
-      "foto": "https://images.samsung.com/is/image/samsung/p6/br/2022/notebook/galaxy-book2-np550xed-kf4br/gallery/book2-np550xed-kf4br-001.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Um notebook equilibrado para trabalho e estudo, com design sóbrio e moderno. A tela Full HD (muitas vezes WVA/IPS, dependendo do lote) oferece boa qualidade visual. É expansível em RAM e armazenamento.",
+      "modelo": "Acer Aspire 5 (A515-57-55B8)",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-256gb-ssd-windows-11-home-tela-156-full-hd-a515-57-55b8-bivolt/p/MLB25000570",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_918524-MLB72037191754_092023-O.webp",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "8GB DDR4",
+      "ssd": "256GB SSD",
+      "tela": "15.6'' Full HD",
+      "analise": "Com um processador de 12ª geração H-series, oferece performance superior para multitarefas e tarefas mais exigentes. Boa base para upgrade de RAM e SSD.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
+        "performance": 8.5,
+        "tela": 7.5,
+        "custo_beneficio": 8.5
       }
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3i (Intel Core i5-1235U)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-Slim-3i-Gen-8-15-inch-Intel/p/LEN101I0055",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-slim-3i-15-intel-gen-8-hero.png?context=bWFzdGVyfHJvb3R8MTUzMDM4fGltYWdlL3BuZ3xoZWI5L2g3Yy8xMzUwMTc0MDI5MjM4Mi5wbmd8NjZlNDRkZWQ4MjVlOTcwODkyNTk1YTBhNzM0NjZkNjkwOWQyNDQ4OWZmNzJlY2FlMDhiYzE1NjkyYjEwMjcxNw",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB SSD",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Um notebook versátil e com bom desempenho para tarefas cotidianas e multitarefas leves. A tela IPS Full HD é um ponto forte, proporcionando boa experiência visual.",
+      "modelo": "ASUS Vivobook 15 (X1504VA-NJ1746W)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.amazon.com.br/ASUS-Vivobook-X1504VA-NJ1746W-i5-1334U-Windows/dp/B0CKD889K5",
+      "foto": "https://m.media-amazon.com/images/I/71I6fV70+6L._AC_SL1500_.jpg",
+      "cpu": "Intel Core i5-1334U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB SSD NVMe",
+      "tela": "15.6\" Full HD (Nível IPS)",
+      "analise": "Processador de 13ª geração e tela de 'nível IPS' garantem boa experiência para trabalho e estudo. Durabilidade militar é um plus. Possibilidade de upgrade de RAM é vantajosa.",
       "notas": {
-        "performance": 8,
+        "performance": 8.5,
+        "tela": 8,
+        "custo_beneficio": 8.5
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Lenovo IdeaPad Slim 3 (Ryzen 5 5500U)",
+      "preco": "R$ 3.099,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-3-15ADA05/p/82MFS00100",
+      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-amd-hero.png?context=bWFzdGVyfHJvb3R8MjExNTkwfGltYWdlL3BuZ3xoZWIvODEwL2gwYy8xNTc2ODQwNjQ2OTY2Mi5wbmd8NDc2N2E0NzY2MzRiY2ZiN2ZlZjYyYTcwZTYzNzE2OWVjYmEzYmYxYzY3ZWJkZjM0NjQ1OGExMmQ5NjA4NzM4YQ",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB SSD NVMe M.2",
+      "tela": "15.6\" Full HD Antirreflexo",
+      "analise": "Excelente processador AMD Ryzen 5 com 6 núcleos, ideal para multitarefas. O bom desempenho gráfico integrado da Radeon e a tela de qualidade o tornam versátil para produtividade e entretenimento leve.",
+      "notas": {
+        "performance": 8.5,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Positivo Vision C15M Minitela",
-      "preco": "R$ 2.855,00",
-      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-c15m-intel-celeron-n4500-windows-11-home-4gb-ram-128gb-emmc-tela-15-full-hd-ips-antirreflexo-minitela-e-tecla-copilot-cinza/p/MLB25904870",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_918960-MLB74507000780_022024-O.webp",
-      "cpu": "Intel Celeron N4500",
-      "ram": "4 GB RAM (expansível)",
-      "ssd": "128 GB eMMC",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Apesar do processador mais básico, a inclusão de uma tela IPS Full HD em um notebook nessa faixa de preço é um destaque. Ideal para tarefas de produtividade leves e consumo de conteúdo, mas a RAM e o armazenamento podem ser limitantes para uso intenso. A minitela é um diferencial interessante.",
-      "notas": {
-        "performance": 6,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "ASUS Vivobook Go 15 E1504FA-NJ1288",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.asus.com/br/laptops/for-home/vivobook/vivobook-go-15-e1504fa/",
-      "foto": "https://www.asus.com/images/V2/media/assets/products/images/img/VivoBook_Go_15_E1504FA.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8 GB LPDDR5",
-      "ssd": "256 GB SSD PCIe 3.0",
-      "tela": "IPS Full HD (1920x1080) 15.6\"",
-      "analise": "Oferece um bom equilíbrio entre portabilidade e desempenho para o dia a dia, com um processador Ryzen eficiente e 8GB de RAM LPDDR5. A tela IPS Full HD garante boa qualidade de imagem, e o design leve é ideal para mobilidade.",
+      "modelo": "Dell Inspiron 15 (3520 - i5-1235U)",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.dell.com/pt-br/shop/notebooks-laptops/novo-dell-inspiron-15/spd/inspiron-15-3520-laptop/cai155w11p1c201br",
+      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-front-left-black?fmt=png-alpha&wid=590&hei=400",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB SSD PCIe NVMe",
+      "tela": "15.6\" Full HD WVA 120Hz",
+      "analise": "Um notebook robusto com o selo de qualidade Dell. O SSD de 512GB oferece ótimo espaço e velocidade, e a tela WVA de 120Hz é um grande diferencial para fluidez visual e ângulos de visão, superando painéis TN comuns.",
       "notas": {
         "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 8
+        "tela": 9,
+        "custo_beneficio": 8.5
       }
     }
   ]
