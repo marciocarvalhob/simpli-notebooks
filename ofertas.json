@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Lenovo IdeaPad Slim 3i (82MD0007BR)",
-      "preco": "R$ 3.319,17",
-      "link": "https://www.ramsons.com.br/notebook-lenovo-ideapad-3i-15-82md0007br-15-6-intel-core-i5-8gb-256gb-ssd-windows-11",
-      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xed-kf2br/gallery/br-galaxy-book2-np750xed-kf2br-437563539?$684_547_PNG$",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4 3200MHz",
-      "ssd": "256GB SSD NVMe PCIe",
-      "tela": "15.6\" Full HD Antirreflexo",
-      "analise": "Excelente equilíbrio entre desempenho para tarefas diárias e preço. O processador de 11ª geração com Iris Xe Graphics e o SSD garantem fluidez. A tela antirreflexo é um diferencial para uso prolongado.",
+      "modelo": "Acer Aspire 5 A515-57-55B5",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.exemplo.com.br/acer-aspire-5-a515-57-55b5-intel-core-i5-12a-geracao",
+      "foto": "https://www.exemplo.com.br/foto-acer-aspire-5.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um excelente custo-benefício para trabalho e estudos, com desempenho sólido e boa tela IPS para produtividade.",
       "notas": {
         "performance": 8,
-        "tela": 7,
+        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 (A515-57-55B8)",
+      "modelo": "Samsung Galaxy Book2 NP750XED-KF2BR",
       "preco": "R$ 3.699,00",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-intel-core-i5-12450h-8gb-ram-256gb-ssd-windows-11-home-tela-156-full-hd-a515-57-55b8-bivolt/p/MLB25000570",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_918524-MLB72037191754_092023-O.webp",
-      "cpu": "Intel Core i5-12450H",
+      "link": "https://www.exemplo.com.br/samsung-galaxy-book2-np750xed-kf2br-intel-core-i5",
+      "foto": "https://www.exemplo.com.br/foto-samsung-galaxy-book2.jpg",
+      "cpu": "Intel Core i5-1235U",
       "ram": "8GB DDR4",
-      "ssd": "256GB SSD",
-      "tela": "15.6'' Full HD",
-      "analise": "Com um processador de 12ª geração H-series, oferece performance superior para multitarefas e tarefas mais exigentes. Boa base para upgrade de RAM e SSD.",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Ótima opção para quem busca um design mais premium e leveza, com hardware atualizado e tela de qualidade.",
       "notas": {
-        "performance": 8.5,
-        "tela": 7.5,
-        "custo_beneficio": 8.5
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 3,
-      "modelo": "ASUS Vivobook 15 (X1504VA-NJ1746W)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.amazon.com.br/ASUS-Vivobook-X1504VA-NJ1746W-i5-1334U-Windows/dp/B0CKD889K5",
-      "foto": "https://m.media-amazon.com/images/I/71I6fV70+6L._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB SSD NVMe",
-      "tela": "15.6\" Full HD (Nível IPS)",
-      "analise": "Processador de 13ª geração e tela de 'nível IPS' garantem boa experiência para trabalho e estudo. Durabilidade militar é um plus. Possibilidade de upgrade de RAM é vantajosa.",
+      "modelo": "Lenovo IdeaPad 3i 82MG0009BR",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.exemplo.com.br/lenovo-ideapad-3i-82mg0009br-intel-core-i5",
+      "foto": "https://www.exemplo.com.br/foto-lenovo-ideapad-3i.jpg",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Opção mais acessível com tela IPS, ideal para uso diário e estudos, entregando bom desempenho para a faixa de preço.",
       "notas": {
-        "performance": 8.5,
-        "tela": 8,
-        "custo_beneficio": 8.5
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3 (Ryzen 5 5500U)",
-      "preco": "R$ 3.099,00",
-      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-3-15ADA05/p/82MFS00100",
-      "foto": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-amd-hero.png?context=bWFzdGVyfHJvb3R8MjExNTkwfGltYWdlL3BuZ3xoZWIvODEwL2gwYy8xNTc2ODQwNjQ2OTY2Mi5wbmd8NDc2N2E0NzY2MzRiY2ZiN2ZlZjYyYTcwZTYzNzE2OWVjYmEzYmYxYzY3ZWJkZjM0NjQ1OGExMmQ5NjA4NzM4YQ",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB SSD NVMe M.2",
-      "tela": "15.6\" Full HD Antirreflexo",
-      "analise": "Excelente processador AMD Ryzen 5 com 6 núcleos, ideal para multitarefas. O bom desempenho gráfico integrado da Radeon e a tela de qualidade o tornam versátil para produtividade e entretenimento leve.",
-      "notas": {
-        "performance": 8.5,
-        "tela": 8,
+        "performance": 7,
+        "tela": 7,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Dell Inspiron 15 (3520 - i5-1235U)",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.dell.com/pt-br/shop/notebooks-laptops/novo-dell-inspiron-15/spd/inspiron-15-3520-laptop/cai155w11p1c201br",
-      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-front-left-black?fmt=png-alpha&wid=590&hei=400",
+      "posicao": 4,
+      "modelo": "ASUS VivoBook 15 X1502ZA-EJ1790W",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.exemplo.com.br/asus-vivobook-15-x1502za-ej1790w-intel-core-i5",
+      "foto": "https://www.exemplo.com.br/foto-asus-vivobook-15.jpg",
       "cpu": "Intel Core i5-1235U",
       "ram": "8GB DDR4",
-      "ssd": "512GB SSD PCIe NVMe",
-      "tela": "15.6\" Full HD WVA 120Hz",
-      "analise": "Um notebook robusto com o selo de qualidade Dell. O SSD de 512GB oferece ótimo espaço e velocidade, e a tela WVA de 120Hz é um grande diferencial para fluidez visual e ângulos de visão, superando painéis TN comuns.",
+      "ssd": "256GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Equilíbrio entre desempenho e portabilidade, com processador de 12ª geração e tela IPS, bom para multitarefas.",
       "notas": {
         "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 8.5
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Dell Inspiron 15 3520 (Config. específica)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.exemplo.com.br/dell-inspiron-15-3520-intel-core-i5-ips",
+      "foto": "https://www.exemplo.com.br/foto-dell-inspiron-15.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Marca confiável com boa construção e suporte, este Inspiron oferece um conjunto robusto para uso geral e profissional.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 7
       }
     }
   ]
