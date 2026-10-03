@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-57-55B5",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.exemplo.com.br/acer-aspire-5-a515-57-55b5-intel-core-i5-12a-geracao",
-      "foto": "https://www.exemplo.com.br/foto-acer-aspire-5.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um excelente custo-benefício para trabalho e estudos, com desempenho sólido e boa tela IPS para produtividade.",
+      "modelo": "Positivo Vision R15M (AMD Ryzen 3 7330U)",
+      "preco": "R$ 2.414,00 (no Pix com cupom)",
+      "link": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-3-7330u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB28153099?from=rec_filter",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_704652-MLU72049103632_092023-F.webp",
+      "cpu": "AMD Ryzen 3 7330U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (1920 x 1080) antirreflexo, Minitela de 1,54” IPS",
+      "analise": "Excelente custo-benefício para estudos e produtividade leve. A minitela é um diferencial interessante para organização. Processador Ryzen 3 da série 7000 oferece bom desempenho para tarefas cotidianas e multitarefas leves. Opção sólida para quem busca um notebook funcional e com tela de qualidade a um preço acessível.",
       "notas": {
-        "performance": 8,
+        "performance": 7,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Samsung Galaxy Book2 NP750XED-KF2BR",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.exemplo.com.br/samsung-galaxy-book2-np750xed-kf2br-intel-core-i5",
-      "foto": "https://www.exemplo.com.br/foto-samsung-galaxy-book2.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Ótima opção para quem busca um design mais premium e leveza, com hardware atualizado e tela de qualidade.",
+      "modelo": "Lenovo IdeaPad Slim 3 15IRU10 (Intel Core 3 100U)",
+      "preco": "R$ 2.819,00",
+      "link": "https://www.qualnotebookcomprar.com.br/notebook/lenovo-ideapad-slim-3-83nus00000",
+      "foto": "https://static.qualnotebookcomprar.com.br/wp-content/uploads/2026/03/lenovo-ideapad-slim-3i-83nus00000-qnc-principal.webp",
+      "cpu": "Intel Core 3 100U (Série 1)",
+      "ram": "8GB DDR5",
+      "ssd": "256GB SSD NVMe Gen4",
+      "tela": "IPS WUXGA (1920 x 1200) antirreflexo, 15,3 polegadas",
+      "analise": "Um notebook equilibrado para o dia a dia, com uma tela IPS WUXGA de alta qualidade e proporção 16:10, ideal para produtividade. O processador Intel Core 3 de 1ª geração é eficiente para tarefas de escritório, navegação e estudos. O design leve e fino adiciona portabilidade.",
       "notas": {
-        "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 8
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3i 82MG0009BR",
-      "preco": "R$ 2.999,00",
-      "link": "https://www.exemplo.com.br/lenovo-ideapad-3i-82mg0009br-intel-core-i5",
-      "foto": "https://www.exemplo.com.br/foto-lenovo-ideapad-3i.jpg",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Opção mais acessível com tela IPS, ideal para uso diário e estudos, entregando bom desempenho para a faixa de preço.",
+      "modelo": "Positivo Vision R15 (AMD Ryzen 5 5500U)",
+      "preco": "R$ 3.705,00 (no Pix)",
+      "link": "https://lista.mercadolivre.com.br/notebook-positivo-vision-r15-ryzen-5#D[A:notebook%20positivo%20vision%20r15%20ryzen%205]",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_712411-MLB76182390141_052024-F.webp",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "16GB RAM DDR4",
+      "ssd": "256GB SSD M.2 NVMe",
+      "tela": "IPS Full HD (1920 x 1080) antirreflexo, 15,6 polegadas",
+      "analise": "Oferece um excelente conjunto para multitarefas e produtividade mais exigente, com 16GB de RAM e um Ryzen 5. A tela IPS Full HD proporciona boa experiência visual, e a Lumina Bar é um bônus para videochamadas. O SSD de 256GB é um bom ponto de partida, com possibilidade de upgrade.",
       "notas": {
-        "performance": 7,
-        "tela": 7,
+        "performance": 8,
+        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "ASUS VivoBook 15 X1502ZA-EJ1790W",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.exemplo.com.br/asus-vivobook-15-x1502za-ej1790w-intel-core-i5",
-      "foto": "https://www.exemplo.com.br/foto-asus-vivobook-15.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "256GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Equilíbrio entre desempenho e portabilidade, com processador de 12ª geração e tela IPS, bom para multitarefas.",
+      "modelo": "Positivo Vision R15M (AMD Ryzen 5 5625U)",
+      "preco": "R$ 2.903,00 (no Pix)",
+      "link": "https://lista.mercadolivre.com.br/positivo-vision-r15m#D[A:positivo%20vision%20r15m]",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_635397-MLB71790691501_092023-F.webp",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB RAM",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (1920 x 1080) antirreflexo, Minitela de 1,54” IPS",
+      "analise": "Uma versão aprimorada do R15M com um Ryzen 5 mais potente, ideal para quem precisa de mais fôlego para aplicativos e multitarefas. A combinação de tela IPS Full HD e a inovadora Minitela o torna uma opção versátil. A RAM de 8GB é adequada para a maioria dos usos.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 5,
-      "modelo": "Dell Inspiron 15 3520 (Config. específica)",
-      "preco": "R$ 3.799,00",
-      "link": "https://www.exemplo.com.br/dell-inspiron-15-3520-intel-core-i5-ips",
-      "foto": "https://www.exemplo.com.br/foto-dell-inspiron-15.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Marca confiável com boa construção e suporte, este Inspiron oferece um conjunto robusto para uso geral e profissional.",
+      "modelo": "Samsung Galaxy Book4 (Intel Core i5-1335U)",
+      "preco": "R$ 3.779,00 (no Pix)",
+      "link": "https://produto.mercadolivre.com.br/MLB-4309315808-notebook-samsung-galaxy-book4-intel-core-i5-1335u-8gb-ram-512gb-ssd-iris-xe-tela-156-full-hd-led-e-windows-11-np750xgj-kg3br-_JM",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_759905-MLB74075591350_012024-F.webp",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR4x",
+      "ssd": "512GB SSD NVMe",
+      "tela": "IPS Full HD LED antirreflexiva (1920 x 1080), 15,6 polegadas",
+      "analise": "Um notebook com acabamento premium e desempenho robusto para o dia a dia e multitarefas. O processador Intel Core i5 de 13ª geração e o SSD de 512GB garantem agilidade. A tela IPS Full HD e os gráficos Intel Iris Xe proporcionam uma boa experiência visual e para edição leve. A conectividade completa e o ecossistema Samsung são pontos positivos.",
       "notas": {
         "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 7
+        "tela": 9,
+        "custo_beneficio": 8
       }
     }
   ]
