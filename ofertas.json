@@ -2,49 +2,49 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book4 (Intel Core i5, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.499,00",
-      "link": "https://www.amazon.com.br/dp/B0CKVSP95",
-      "foto": "https://m.media-amazon.com/images/I/71rJ7+i9YvL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5 de 13ª geração",
+      "modelo": "ASUS Vivobook Go 15 E1504FA-BQ5316WS",
+      "preco": "R$ 2.507,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 7520U",
       "ram": "8GB DDR4",
       "ssd": "256GB NVMe SSD",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente equilíbrio entre design premium, tela IPS de alta qualidade e desempenho robusto para tarefas diárias e produtividade. Leve e com boa autonomia de bateria.",
+      "analise": "Excelente entrada no mundo IPS, com um processador Ryzen 5 recente e bom SSD para uso diário. O preço o torna uma escolha imbatível em custo-benefício.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "Acer Aspire 5 (AMD Ryzen 5, 8GB RAM, 512GB SSD)",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-5-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-full-hd/p/gh4ghb6a7a/in/nbac/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-5-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-full-hd/magazineluiza/gh4ghb6a7a/01298d002f231f471e466b02f5a6b01a.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um clássico em custo-benefício, oferece um bom processador, bastante armazenamento e a possibilidade de upgrade de RAM. A tela IPS é um diferencial.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
         "custo_beneficio": 10
       }
     },
     {
+      "posicao": 2,
+      "modelo": "Positivo Vision R15M (AMD Ryzen 5-5625U)",
+      "preco": "R$ 2.947,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 15.0\"",
+      "analise": "Um notebook equilibrado com um Ryzen 5 de boa performance para multitarefas e produtividade, combinado com tela IPS e preço competitivo. Oferece um upgrade de RAM e SSD.",
+      "notas": {
+        "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
       "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 (Intel Core i3, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 2.899,00",
-      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-intel-core-i3-8gb-ram-256gb-ssd-15-6-full-hd-windows-11/p/gh4ghb6a7c/in/nbll/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad-slim-3-intel-core-i3-8gb-ram-256gb-ssd-15-6-full-hd-windows-11/magazineluiza/gh4ghb6a7c/1a4a4b4b4c4d4e4f5a5b5c5d5e5f5a5b.jpg",
-      "cpu": "Intel Core i3 de 13ª geração",
+      "modelo": "Lenovo IdeaPad Slim 3 83NU0000BR",
+      "preco": "R$ 3.196,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "Intel Core 3 100U",
       "ram": "8GB DDR5",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Ótima opção de entrada com tela IPS Full HD de excelente qualidade e boa conectividade, incluindo USB-C com carregamento e vídeo. Ideal para uso diário e estudos.",
+      "tela": "IPS WUXGA 15.3\"",
+      "analise": "Apresenta uma tela WUXGA IPS de 15.3 polegadas, que oferece mais espaço vertical, ideal para produtividade. O Core 3 100U é competente para o uso cotidiano, e a RAM DDR5 é um diferencial.",
       "notas": {
         "performance": 7,
         "tela": 9,
@@ -53,36 +53,36 @@
     },
     {
       "posicao": 4,
-      "modelo": "Asus Vivobook Go 15 (AMD Ryzen 5, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.amazon.com.br/dp/B0BP99Q1X5",
-      "foto": "https://m.media-amazon.com/images/I/71r9281W43L._AC_SL1500_.jpg",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5",
+      "modelo": "VAIO FE16 (AMD Ryzen 5-5625U)",
+      "preco": "R$ 3.343,00",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 5625U",
+      "ram": "8GB DDR4",
       "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Portátil e com bom desempenho para o dia a dia, destaca-se pela certificação de durabilidade e memória RAM mais rápida. A tela IPS garante boa experiência visual.",
+      "tela": "IPS WUXGA 16.0\" Antirreflexo",
+      "analise": "Destaca-se pela tela IPS WUXGA de 16 polegadas, maior que a maioria na categoria, ideal para trabalho e consumo de conteúdo. O Ryzen 5 oferece bom desempenho geral.",
       "notas": {
-        "performance": 7,
-        "tela": 8,
+        "performance": 8,
+        "tela": 9,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "Acer Aspire Go 15 (Intel Core i3, 8GB RAM, 256GB SSD)",
-      "preco": "R$ 2.699,00",
-      "link": "https://www.magazineluiza.com.br/notebook-acer-aspire-go-15-intel-core-i3-8gb-ram-256gb-ssd-15-6-full-hd-windows-11/p/237255900/in/nbac/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-acer-aspire-go-15-intel-core-i3-8gb-ram-256gb-ssd-15-6-full-hd-windows-11/magazineluiza/237255900/c7f66a014a4d95b5962f0f49f6b9c9e8.jpg",
-      "cpu": "Intel Core i3 de 13ª geração",
-      "ram": "8GB DDR5",
+      "modelo": "Acer Aspire 5 A515-45-R1AC",
+      "preco": "R$ 3.459,48",
+      "link": "URL real da loja ou deixe vazio se não tiver certeza",
+      "foto": "URL direta da imagem",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4",
       "ssd": "256GB NVMe SSD",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Melhor opção de entrada para quem busca tela IPS e um bom conjunto para tarefas básicas e estudo, com componentes modernos e bom desempenho para a categoria.",
+      "analise": "Um clássico no mercado de custo-benefício, o Aspire 5 oferece um conjunto sólido com processador Ryzen 5, 8GB de RAM e SSD, e uma tela IPS confiável para o dia a dia.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     }
   ]
