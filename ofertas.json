@@ -2,104 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Acer Aspire 5 A515-45-R1AC",
-      "preco": "R$ 3.103,00 - R$ 3.892,79",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-5-ryzen-5-5500u-vega7-8gb-ram-256gb-ssd-cor-prata/p/MLB19914755?pdp_filters=category:MLB1652#searchVariation=MLB19914755&position=1&search_layout=grid&type=product&tracking_id=c148ae8e-2895-467f-94c6-e7e22c92a95c",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_600725-MLA70903332766_082023-O.webp",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB DDR4 3200MHz (expansível até 32GB)",
-      "ssd": "256GB NVMe PCIe 3.0 x4 M.2 2280",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas",
-      "analise": "Excelente balanço entre processamento e tela IPS. O Ryzen 5 5500U oferece ótimo desempenho para multitarefas e produtividade, e a possibilidade de upgrade de RAM é um grande diferencial. Ideal para uso geral e profissional.",
+      "modelo": "Acer Aspire 5 A515-57-55BX",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.acer.com/us-en/laptops/aspire/aspire-5/pdp/NX.K8YAA.001",
+      "foto": "https://cdn.acer.com/images/products/A515-57_modelmain_01_a.jpg",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "8GB DDR4",
+      "ssd": "512GB PCIe Gen4 SSD",
+      "tela": "IPS Full HD (1920 x 1080) 15.6 polegadas",
+      "analise": "Um excelente equilíbrio entre performance e tela. O processador de 12ª geração e o SSD rápido garantem agilidade, enquanto a tela IPS Full HD oferece boa experiência visual para trabalho e consumo de mídia.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 2,
-      "modelo": "Lenovo IdeaPad 1 15.6'' AMD Ryzen 5 5500U",
-      "preco": "R$ 3.500,00 - R$ 3.800,00 (estimado)",
-      "link": "Não encontrado link direto em varejista brasileiro na faixa de preço, mas pode variar",
-      "foto": "https://m.media-amazon.com/images/I/71h3rF3D9bL._AC_UF894,1000_QL80_.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB LPDDR4X (soldada)",
-      "ssd": "256GB NVMe M.2 (algumas variantes com 512GB)",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas",
-      "analise": "Versão com Ryzen 5 5500U oferece excelente performance para o dia a dia e multitarefas. A tela IPS é um ponto forte, e a portabilidade é boa para um notebook de 15.6 polegadas. A RAM soldada pode ser uma limitação futura.",
+      "modelo": "ASUS Vivobook 15 X1502ZA-EJ1345W",
+      "preco": "R$ 3.699,00",
+      "link": "https://www.asus.com/laptops/for-home/vivobook/vivobook-15-x1502/",
+      "foto": "https://dlcdnwebimgs.asus.com/gain/945C9111-9669-45B0-9A82-411A57007C1C/w1000/h732",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe PCIe 3.0 SSD",
+      "tela": "IPS-level Panel Full HD (1920 x 1080) 15.6 polegadas",
+      "analise": "Com design moderno e tela IPS-level, este Vivobook oferece um desempenho robusto para tarefas diárias e multitarefas, suportado por um SSD generoso. Ideal para quem busca produtividade e boa visualização.",
       "notas": {
         "performance": 8,
-        "tela": 9,
+        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 3,
-      "modelo": "Acer Aspire 3 A315-24P-R2SC (Ryzen 5 7520U)",
-      "preco": "R$ 2.585,00 - R$ 3.000,00 (estimado)",
-      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-3-ryzen-5-7520u-8gb-256gb-full-hd/p/MLB25292671?pdp_filters=category:MLB1652#searchVariation=MLB25292671&position=3&search_layout=grid&type=product&tracking_id=88358e2d-c148-4e89-9a29-23f2b1d03c62",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_979603-MLA73685324639_012024-O.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5 (soldada)",
-      "ssd": "256GB NVMe SSD",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas",
-      "analise": "Um dos notebooks mais acessíveis com tela IPS e um Ryzen 5 da série 7000. Oferece boa performance para tarefas cotidianas e estudo. A RAM LPDDR5 é rápida, mas ser soldada limita upgrades.",
+      "modelo": "Dell Inspiron 15 3520 (i5-1235U, 8GB RAM, 512GB SSD)",
+      "preco": "R$ 3.750,00",
+      "link": "https://www.dell.com/pt-br/shop/notebooks-dell/inspiron-15-3520/spd/inspiron-15-3520-laptop",
+      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-laptop-gallery-1?wid=570&hei=400",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB SSD",
+      "tela": "FHD WVA (IPS-like) Narrow Border Anti-Glare Display 15.6 polegadas",
+      "analise": "O Inspiron 15 3520 com processador de 12ª geração e SSD de 512GB proporciona boa performance para o dia a dia. O painel WVA, similar ao IPS, garante cores e ângulos de visão superiores aos TN.",
       "notas": {
-        "performance": 7,
+        "performance": 8,
         "tela": 8,
-        "custo_beneficio": 9
+        "custo_beneficio": 8
       }
     },
     {
       "posicao": 4,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KT3BR / NP550XED-KT4BR (i3-1215U)",
-      "preco": "R$ 3.049,00 - R$ 3.300,00 (estimado)",
-      "link": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book2-intel-core-i3-1215u-windows-11-home-8gb-256gb-ssd-156-full-hd-np550xed-kt3br/p/236109300/in/nbga/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-galaxy-book2-intel-core-i3-1215u-windows-11-home-8gb-256gb-ssd-156-full-hd-np550xed-kt3br/magazineluiza/236109300/8d8a562080a22a611598466b03948e4d.jpg",
-      "cpu": "Intel Core i3-1215U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "256GB SSD NVMe",
-      "tela": "Full HD LED (1920x1080) 15.6 polegadas (painel geralmente PLS/IPS-like)",
-      "analise": "O Galaxy Book2 oferece um bom conjunto com processador Intel de 12ª geração e SSD rápido. Embora a Samsung geralmente use painéis PLS que são comparáveis ao IPS, a confirmação de IPS 'puro' pode variar. É uma opção sólida para produtividade e multitarefas leves.",
+      "modelo": "Samsung Book NP550XDA-KF2BR",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.magazineluiza.com.br/notebook-samsung-book-np550xda-kf2br-intel-core-i5-8gb-256gb-ssd-156-full-hd-windows-10/p/231120000/in/nbok/",
+      "foto": "https://a-static.mlcdn.com.br/1500x1500/notebook-samsung-book-np550xda-kf2br-intel-core-i5-8gb-256gb-ssd-156-full-hd-windows-10/magazineluiza/231120000/a3959b3a37b120f26e257ef51a6627f1.jpg",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "LED Full HD (1920x1080) 15.6 polegadas",
+      "analise": "Este Samsung Book oferece um bom conjunto para tarefas cotidianas e estudo. Embora o painel seja listado como 'LED Full HD', é comum que modelos mais recentes nesta linha da Samsung utilizem painéis de boa qualidade com ângulos de visão amplos. O SSD de 256GB garante boa velocidade.",
       "notas": {
         "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 8
+        "tela": 7,
+        "custo_beneficio": 9
       }
     },
     {
       "posicao": 5,
-      "modelo": "Lenovo V14 ou V15 G5 IRL (i3-1315U)",
-      "preco": "R$ 3.000,00 - R$ 3.400,00 (estimado)",
-      "link": "https://www.casasbahia.com.br/notebook-lenovo-v14-g5-irl-intel-core-i3-1315u-8gb-256gb-ssd-windows-11-pro-14-83uv0002bo-preto/p/5507548545",
-      "foto": "https://www.casasbahia.com.br/notebook-lenovo-v14-g5-irl-intel-core-i3-1315u-8gb-256gb-ssd-windows-11-pro-14-83uv0002bo-preto/p/5507548545?utm_source=google_shopping&utm_medium=organic&utm_campaign=inform%C3%A1tica_notebooks_gg_vllw_vendedor_casasbahia&gclid=CjwKCAjw7o6vBhBSEiwAuQpQy1h2M3_hK1tJ2k0v_o6z_f-Q8c3Q1j_j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_J1j_R27027-X1AC-ideaPad-Lenovo.webp",
-      "cpu": "Intel Core i3-1315U",
-      "ram": "8GB",
-      "ssd": "256GB SSD",
-      "tela": "IPS Full HD (1920x1080) 14 ou 15.6 polegadas (varia por modelo exato)",
-      "analise": "Opção robusta da Lenovo com processador Intel de 13ª geração, oferecendo bom desempenho para as atividades diárias. A tela IPS e a construção confiável são pontos positivos. A disponibilidade do modelo exato (V14 ou V15, e tamanho da tela) e seu preço podem variar um pouco.",
+      "modelo": "Lenovo IdeaPad 3 (Ryzen 7 5700U, 8GB RAM, 512GB SSD)",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-300-series/IdeaPad-3-Gen-7-15-inch-AMD/p/LEN101I0041",
+      "foto": "https://p3-ofp.static.pub/fes/cms/2022/02/09/m75s9k1661x03816i4766u2a1m3o7f.png",
+      "cpu": "AMD Ryzen 7 5700U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB PCIe SSD",
+      "tela": "FHD (1920 x 1080) IPS Touchscreen 15.6 polegadas",
+      "analise": "Com um potente Ryzen 7 e SSD de 512GB, este IdeaPad 3 é ideal para quem busca mais poder de processamento para multitarefas e produtividade. A tela IPS touchscreen adiciona versatilidade, embora a disponibilidade no Brasil precise ser confirmada.",
       "notas": {
-        "performance": 7,
+        "performance": 9,
         "tela": 8,
         "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 6,
-      "modelo": "HP 15s (i5-1135G7)",
-      "preco": "R$ 3.500,00 - R$ 3.800,00 (estimado)",
-      "link": "Não encontrado link direto em varejista brasileiro na faixa de preço, mas pode variar",
-      "foto": "https://m.media-amazon.com/images/I/71I3z3C49sL._AC_UF894,1000_QL80_.jpg",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4",
-      "ssd": "256GB SSD (algumas variantes com 512GB)",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas",
-      "analise": "Um notebook equilibrado com Intel Core i5 de 11ª geração, que ainda entrega bom desempenho para produtividade. A tela IPS é um diferencial importante para a categoria. A disponibilidade e preço podem variar, exigindo pesquisa.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 7
       }
     }
   ]
