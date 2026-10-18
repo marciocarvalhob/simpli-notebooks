@@ -2,66 +2,66 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KT4BR",
-      "preco": "R$ 3.199,00",
-      "link": "https://www.kabum.com.br/produto/381594/notebook-samsung-galaxy-book2-intel-core-i3-1215u-8gb-ram-ssd-256gb-tela-15-6-full-hd-led-windows-11-home-grafite",
-      "foto": "https://images.kabum.com.br/produtos/fotos/381594/notebook-samsung-galaxy-book2-intel-core-i3-1215u-8gb-ram-ssd-256gb-tela-15-6-full-hd-led-windows-11-home-grafite_1684428801_p.jpg",
-      "cpu": "Intel Core i3-1215U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe",
+      "modelo": "ASUS Vivobook Go 15 (AMD)",
+      "preco": "R$ 2.900,00 - R$ 3.500,00",
+      "link": "https://www.amazon.com.br/s?k=ASUS+Vivobook+Go+15+Ryzen+5+7520U",
+      "foto": "https://m.media-amazon.com/images/I/71uV2v2h4kL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8GB DDR5",
+      "ssd": "512GB NVMe PCIe",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "Excelente opção para uso geral, estudo e trabalho leve. O processador de 12ª geração e o SSD NVMe garantem boa responsividade, e a tela IPS é um grande diferencial para a faixa de preço.",
+      "analise": "Recentemente atualizado com tela IPS e CPU Ryzen 7000 series, oferece excelente desempenho para o dia a dia e multitarefas. A possibilidade de carregamento via USB-C é um diferencial.",
       "notas": {
-        "performance": 8,
+        "performance": 9,
         "tela": 9,
         "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-45-R4S1 (Linux)",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.kabum.com.br/produto/304246/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata",
-      "foto": "https://images.kabum.com.br/produtos/fotos/304246/notebook-acer-aspire-5-15-6-amd-ryzen-5-5500u-radeon-graphics-8gb-ddr4-256gb-ssd-linux-prata_1683838379_p.jpg",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Com um Ryzen 5 5500U, este Aspire 5 oferece performance superior para multitarefas e tarefas mais exigentes, ideal para quem precisa de um pouco mais de fôlego. A tela IPS é um destaque.",
+      "modelo": "Acer Aspire Go 15 AG15-71P-53R6",
+      "preco": "R$ 3.400,00 - R$ 3.800,00",
+      "link": "https://www.mercadolivre.com.br/notebook-156-acer-aspire-go-15-processador-intel-core-i5-13a-geracao-16gb-ram-ddr5-512gb-ssd-tela-full-hd-wi-fi-6-cinza-linux/p/MLB28157140",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_638061-MLA72801511252_112023-F.webp",
+      "cpu": "Intel Core i5-13ª Geração",
+      "ram": "16GB DDR5",
+      "ssd": "512GB NVMe PCIe 4.0",
+      "tela": "IPS Full HD 15.6\" Acer ComfyView",
+      "analise": "Com um processador de 13ª geração e 16GB de RAM DDR5, este modelo entrega um desempenho robusto para produtividade e multitarefas. A tela Full HD antirreflexo e o SSD rápido com slot de expansão são pontos fortes.",
       "notas": {
         "performance": 9,
-        "tela": 9,
-        "custo_beneficio": 9
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad 3 15IAU7 (configurações com i5-1235U)",
-      "preco": "R$ 3.750,00",
-      "link": "Não há um link direto no momento, mas buscar por 'Lenovo IdeaPad 3 i5-1235U IPS 8GB 256GB' pode levar a ofertas.",
-      "foto": "URL da imagem pode variar",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "A linha IdeaPad 3 oferece um excelente equilíbrio entre desempenho e preço. O i5 de 12ª geração garante agilidade para a maioria das tarefas e a tela IPS, quando presente, eleva a experiência visual.",
-      "notas": {
-        "performance": 8,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3i (Intel Core i5-13420H)",
+      "preco": "R$ 3.500,00 - R$ 3.800,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-slim/IdeaPad-Slim-3i-Gen-10-15-inch-Intel/p/LEN101L0034",
+      "foto": "https://p3-ofp.static.pub/fes/cms/2023/11/02/7e025515-585a-4b2a-8c76-d7164923769c.png",
+      "cpu": "Intel Core i5-13420H",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "256GB NVMe PCIe Gen4",
+      "tela": "IPS WUXGA 15.3\" (1920 x 1200)",
+      "analise": "Uma opção intermediária sólida com um processador da série H para melhor performance. A tela WUXGA IPS 16:10 oferece mais espaço vertical para trabalho. Necessário verificar a configuração com 8GB/256GB dentro do orçamento.",
+      "notas": {
+        "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
       "posicao": 4,
-      "modelo": "HP 15s-fq5002pn (variantes com i5-1235U)",
-      "preco": "R$ 3.499,00",
-      "link": "Não há um link direto no momento, mas buscar por 'HP 15s i5-1235U IPS 8GB 256GB' pode levar a ofertas.",
-      "foto": "URL da imagem pode variar",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe",
+      "modelo": "Acer Aspire 5 (AMD Ryzen 7 5700U)",
+      "preco": "R$ 2.800,00 - R$ 3.300,00",
+      "link": "https://www.amazon.com.br/Acer-Aspire-A515-45-R4ZF-R7-5700U-Windows/dp/B0B57J3QG2/",
+      "foto": "https://m.media-amazon.com/images/I/71I3uXj9JTL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 7 5700U",
+      "ram": "8GB DDR4 (expansível até 20GB)",
+      "ssd": "256GB NVMe PCIe Gen3",
       "tela": "IPS Full HD 15.6\"",
-      "analise": "A série HP 15s é conhecida por seu design elegante e bom desempenho. Com um i5 de 12ª geração e SSD, é um notebook rápido para o dia a dia. A tela IPS é uma característica importante a ser confirmada no modelo exato.",
+      "analise": "Continua sendo uma referência em custo-benefício. O Ryzen 7 oferece bom poder de processamento para produtividade e a tela IPS é um grande diferencial. Bom potencial de upgrade de RAM e SSD.",
       "notas": {
         "performance": 8,
         "tela": 8,
@@ -70,19 +70,19 @@
     },
     {
       "posicao": 5,
-      "modelo": "Dell Inspiron 15 3000 (configurações com i3-1115G4 e IPS)",
-      "preco": "R$ 2.999,00",
-      "link": "Não há um link direto no momento, mas buscar por 'Dell Inspiron 15 i3-1115G4 IPS 8GB 256GB' pode levar a ofertas.",
-      "foto": "URL da imagem pode variar",
-      "cpu": "Intel Core i3-1115G4",
-      "ram": "8 GB DDR4",
-      "ssd": "256 GB NVMe",
-      "tela": "IPS Full HD 15.6\"",
-      "analise": "Um Dell Inspiron oferece a confiabilidade da marca. Embora o processador seja de uma geração anterior, para tarefas básicas e custo-benefício, o i3 de 11ª geração com SSD e tela IPS ainda entrega uma ótima experiência.",
+      "modelo": "VAIO FE16 (AMD Ryzen 3 7330U)",
+      "preco": "R$ 3.200,00 - R$ 3.700,00",
+      "link": "https://www.amazon.com.br/Notebook-VAIO-Ryzen-7330U-Antirreflexo/dp/B0CQR7R19G",
+      "foto": "https://m.media-amazon.com/images/I/61k9Hk896KL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 3 7330U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD 16\"",
+      "analise": "Com uma tela IPS Full HD de 16 polegadas, oferece uma experiência visual imersiva e mais espaço de trabalho. O processador Ryzen 3 da série 7000 é eficiente para tarefas cotidianas e estudo.",
       "notas": {
         "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 9
+        "tela": 9,
+        "custo_beneficio": 8
       }
     }
   ]
