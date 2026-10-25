@@ -2,87 +2,87 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "Samsung Galaxy Book2 NP550XED-KF3BR",
-      "preco": "R$ 2.799,00",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book2-NP550XED-KF3BR/dp/B0BP3C729K",
-      "foto": "https://m.media-amazon.com/images/I/61G+GzE+0PL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1235U",
-      "ram": "8GB DDR4 (expansível até 64GB)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Excelente custo-benefício com um processador de 12ª geração que entrega performance sólida para o dia a dia e multitarefas. A tela IPS é um grande diferencial para a faixa de preço, oferecendo cores vivas e bons ângulos de visão. O design é elegante e a possibilidade de expansão da RAM e armazenamento garante longevidade.",
+      "modelo": "Acer Aspire 5 A515-58P-511W",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.loja.acer.com.br/notebook-acer-aspire-5-a515-58p-511w-intel-core-i5-1335u-8gb-ssd-512gb-15-6-fhd-ips-windows-11-nx-kh6al-001/p",
+      "foto": "https://img.loja.acer.com.br/image/cache/data/NB_NX.KH6AL.001/a515-58p-511w-01-600x600.jpg",
+      "cpu": "Intel Core i5-1335U",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Excelente equilíbrio entre desempenho e qualidade de tela para o uso diário, com um processador de 13ª geração que garante fluidez. O SSD de 512GB é um bom diferencial para a faixa de preço.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "Acer Aspire 5 A515-58M-57J8",
-      "preco": "R$ 3.299,00",
-      "link": "https://www.amazon.com.br/Notebook-Acer-Aspire-A515-58M-57J8-Windows/dp/B0C39H619X/",
-      "foto": "https://m.media-amazon.com/images/I/71Yf10P9FRL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB LPDDR5 (não expansível)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "Um notebook robusto com processador Intel de 13ª geração, garantindo ótima performance para estudos, trabalho e até tarefas mais exigentes. A tela IPS proporciona uma experiência visual de qualidade. A RAM LPDDR5 é rápida, mas verifique se 8GB é suficiente para seu uso, pois não é expansível neste modelo.",
-      "notas": {
-        "performance": 9,
-        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 83FY0001BR",
-      "preco": "R$ 3.399,00",
-      "link": "https://www.kabum.com.br/produto/519639/notebook-lenovo-ideapad-slim-3-amd-ryzen-5-7530u-8gb-ram-512gb-ssd-15-6-full-hd-windows-11-artico-83fy0001br",
-      "foto": "https://images.kabum.com.br/produtos/fotos/519639/519639_1700147690_g.jpg",
-      "cpu": "AMD Ryzen 5 7530U",
-      "ram": "8GB DDR4 (expansível até 16GB)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "O IdeaPad Slim 3 oferece um processador Ryzen 5 da série 7000, proporcionando um excelente equilíbrio entre desempenho e eficiência energética. A tela IPS é um ponto forte, ideal para consumo de conteúdo e trabalho. É uma opção leve e com boa bateria para quem busca mobilidade.",
+      "posicao": 2,
+      "modelo": "Lenovo IdeaPad Slim 3 (AMD Ryzen 5)",
+      "preco": "R$ 3.599,00",
+      "link": "https://www.lenovo.com/br/pt/laptops/ideapad/ideapad-3-series/IdeaPad-Slim-3-15ABR8/p/82XM001D/82XM001DBR2",
+      "foto": "https://img.lenovo-smb.com/s/img/laptops/ideapad/ideapad-3-series/lenovo-ideapad-slim-3-15-amd-pdp-hero.png",
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram": "8 GB LPDDR5",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Oferece um processador Ryzen 5 recente com boa performance e RAM LPDDR5 para multitarefas eficientes. A tela IPS é um ponto forte, mas o SSD de 256GB pode ser um limitador para alguns usuários.",
       "notas": {
         "performance": 8,
+        "tela": 9,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 3,
+      "modelo": "Dell Inspiron 15 (i3 12ª Geração)",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.dell.com/pt-br/shop/notebooks/inspiron-15/spd/inspiron-15-3520-laptop/cai120u1004brw",
+      "foto": "https://i.dell.com/is/image/Dell/inspiron-15-3520-pdp-gallery-4?fmt=png-alpha&wid=450&hei=350",
+      "cpu": "Intel Core i3-1215U",
+      "ram": "8 GB DDR4",
+      "ssd": "256 GB NVMe",
+      "tela": "WVA (IPS-like) Full HD 15.6\" 120Hz",
+      "analise": "Um Dell com bom custo-benefício. O processador i3 de 12ª geração é surpreendentemente competente para tarefas diárias, e a tela WVA de 120Hz oferece uma experiência visual mais fluida. O SSD de 256GB é o padrão para essa faixa.",
+      "notas": {
+        "performance": 7,
         "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
       "posicao": 4,
-      "modelo": "Dell Inspiron 15 I15-I1300-A30P",
-      "preco": "R$ 3.599,00",
-      "link": "https://www.fastshop.com.br/web/p/p/I15I1300A30P_PRD/notebook-dell-inspiron-15-intel-core-i5-1334u-8gb-ram-512gb-ssd-tela-15-6-full-hd-windows-11-preto-i15-i1300-a30p",
-      "foto": "https://fastshop.com.br/loja/prod/1400/I15I1300A30P_PRD/Inspiron-15-I15-I1300-A30P.webp",
-      "cpu": "Intel Core i5-1334U",
-      "ram": "8GB DDR4 (expansível)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "WVA Full HD 15.6 polegadas 120Hz",
-      "analise": "A marca Dell traz confiabilidade e a tela WVA de 120Hz é um destaque, oferecendo fluidez superior para a categoria, mesmo sendo um painel com características similares ao IPS. O processador de 13ª geração é eficiente para multitarefas e uso geral. Ótima escolha para quem valoriza a qualidade de imagem e a experiência da Dell.",
+      "modelo": "Samsung Galaxy Book4 (i3 13ª Geração)",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.samsung.com/br/computers/galaxy-book/galaxy-book4-15-inch-i3-8gb-256gb-np750xkg-kd1br/",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xkg-kd1br/gallery/br-galaxy-book4-np750xkg-kd1br-539091807?$GM_PRD_IMAGE_ZOOM_L$",
+      "cpu": "Intel Core i3-1315U",
+      "ram": "8 GB LPDDR4x",
+      "ssd": "256 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Design premium e leveza são destaques. O i3 de 13ª geração entrega performance sólida para estudo e trabalho, e a integração com o ecossistema Samsung é um bônus. SSD de 256GB é adequado para o uso básico.",
       "notas": {
-        "performance": 8,
-        "tela": 9,
+        "performance": 7,
+        "tela": 8,
         "custo_beneficio": 8
       }
     },
     {
       "posicao": 5,
-      "modelo": "ASUS Vivobook 15 X1504VA-BP551W",
-      "preco": "R$ 3.699,00",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1504VA-BP551W-RAM/dp/B0CNG9F8W4/",
-      "foto": "https://m.media-amazon.com/images/I/71Y+z-j2rVL._AC_SL1500_.jpg",
-      "cpu": "Intel Core i5-1335U",
-      "ram": "8GB DDR4 (expansível até 16GB)",
-      "ssd": "512GB NVMe SSD",
-      "tela": "IPS Full HD 15.6 polegadas",
-      "analise": "O ASUS Vivobook 15 se destaca pelo design moderno e a performance do Intel Core i5 de 13ª geração. A tela IPS Full HD é excelente para trabalho e entretenimento. É uma opção versátil e bem construída, oferecendo um bom conjunto de especificações para diversas necessidades.",
+      "modelo": "ASUS Vivobook 15 X1504ZA",
+      "preco": "R$ 3.399,00",
+      "link": "https://www.kabum.com.br/produto/472097/notebook-asus-vivobook-15-x1504za-intel-core-i5-1235u-8gb-ram-512gb-ssd-tela-15-6-full-hd-linux-cinza-x1504za-ej1743",
+      "foto": "https://images.kabum.com.br/produtos/fotos/472097/notebook-asus-vivobook-15-x1504za-intel-core-i5-1235u-8gb-ram-512gb-ssd-tela-15-6-full-hd-linux-cinza-x1504za-ej1743_1699924513_gg.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8 GB DDR4",
+      "ssd": "512 GB NVMe",
+      "tela": "IPS Full HD 15.6\"",
+      "analise": "Um Vivobook com i5 de 12ª geração e generosos 512GB de SSD, tornando-o uma ótima opção para quem precisa de mais espaço e bom desempenho. A tela IPS Full HD complementa o pacote.",
       "notas": {
         "performance": 8,
         "tela": 8,
-        "custo_beneficio": 8
+        "custo_beneficio": 9
       }
     }
   ]
