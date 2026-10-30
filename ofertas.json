@@ -2,85 +2,85 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ732",
+      "modelo": "ASUS VivoBook Go 15 - E1504FA-NJ732",
       "preco": "R$ 2.999,90",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504fa-nj732-preto-156-amd-ryzen-5-7520u-8gb-de-ram-512gb-ssd-amd-radeon-graphics/p/MLB25000570",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_906950-MLB74501170281_022024-O.webp",
+      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504fa-nj732-preto-156-amd-ryzen-5-7520u-8gb-de-ram-512gb-ssd/p/MLB25470761",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_968950-MLB72671569438_112023-F.webp",
       "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8 GB LPDDR5 (soldada)",
-      "ssd": "512 GB NVMe PCIe SSD",
-      "tela": "15.6\" IPS-level Full HD (1920x1080) Antirreflexo",
-      "analise": "Excelente custo-benefício para uso diário, estudos e trabalho. O painel IPS-level oferece boa qualidade visual, e o SSD rápido com Ryzen 5 de boa geração garante fluidez. A RAM soldada é uma desvantagem para upgrades, mas 8GB LPDDR5 é suficiente para a maioria.",
+      "ram": "8GB LPDDR5 (soldada)",
+      "ssd": "512GB NVMe",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Excelente custo-benefício com um processador Ryzen 5 moderno e um SSD de 512GB, garantindo agilidade. A tela IPS-level é um grande diferencial para a faixa de preço. A RAM soldada é uma limitação para upgrades futuros. Vem com Linux (KeepOS), exigindo instalação do Windows.",
       "notas": {
         "performance": 8,
-        "tela": 8,
-        "custo_beneficio": 9
+        "tela": 9,
+        "custo_beneficio": 10
       }
     },
     {
       "posicao": 2,
-      "modelo": "Acer Aspire Go 15 L5 1334U",
-      "preco": "R$ 3.499,00 (estimado)",
-      "link": "",
-      "foto": "",
-      "cpu": "Intel Core i5-1334U (13ª Geração)",
-      "ram": "8 GB DDR5 (expansível)",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "15.6\" IPS WUXGA (1920x1200)",
-      "analise": "Com um processador Core i5 de 13ª geração e tela IPS WUXGA, este Aspire Go 15 oferece um ótimo pacote para produtividade e multitarefas. A RAM DDR5 expansível é um grande diferencial para longevidade. O preço tende a ser um pouco mais alto, mas justifica pelo conjunto.",
+      "modelo": "Acer Aspire Go 15 AG15-51P-39MU",
+      "preco": "R$ 3.376,00",
+      "link": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-com-processador-intel-core-i3-13-geracao-8gb-de-memoria-ram-ddr5-armazenamento-256gb-ssd-tela-153-wuxga-ips-windows-11-ag15-51p-39mu/p/MLB28156641",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_709289-MLB72793108625_112023-F.webp",
+      "cpu": "Intel Core i3 13ª Geração",
+      "ram": "8GB DDR5 (expansível)",
+      "ssd": "256GB SSD",
+      "tela": "IPS WUXGA (15.3\")",
+      "analise": "Processador Intel de 13ª geração, memória DDR5 expansível e uma tela WUXGA IPS (1920x1200) que oferece mais espaço vertical, ideal para produtividade e multitarefas. O SSD de 256GB é adequado para o uso diário.",
       "notas": {
         "performance": 8,
         "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 3,
-      "modelo": "Lenovo IdeaPad Slim 3 83NS000ABR",
-      "preco": "R$ 3.699,00 (estimado)",
-      "link": "",
-      "foto": "",
-      "cpu": "Intel Core i5-1335U (13ª Geração)",
-      "ram": "8 GB LPDDR5",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "15.3\" IPS WUXGA (1920x1200) Touchscreen Antirreflexo",
-      "analise": "Este IdeaPad Slim 3 se destaca pela tela IPS WUXGA touchscreen com 300 nits, oferecendo excelente qualidade de imagem e interatividade. O processador Core i5 de 13ª geração e o SSD de 512GB garantem bom desempenho para a maioria das tarefas. A bateria de longa duração é um bônus.",
-      "notas": {
-        "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 8
-      }
-    },
-    {
-      "posicao": 4,
-      "modelo": "Acer Aspire 5 A515-45-R043",
-      "preco": "R$ 3.199,00 (estimado)",
-      "link": "",
-      "foto": "",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "16 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "15.6\" IPS Full HD (1920x1080) Antirreflexo",
-      "analise": "O Acer Aspire 5 é um clássico do custo-benefício. Este modelo oferece 16GB de RAM de fábrica, o que é um grande diferencial, juntamente com um Ryzen 5 5500U e um SSD de 512GB. A tela Full HD com painel IPS proporciona uma ótima experiência visual.",
-      "notas": {
-        "performance": 8,
-        "tela": 8,
         "custo_beneficio": 9
       }
     },
     {
-      "posicao": 5,
-      "modelo": "Dell Inspiron 15 i15-i1300-A30P",
-      "preco": "R$ 3.799,00 (estimado)",
-      "link": "",
-      "foto": "",
-      "cpu": "Intel Core i5-1335U (13ª Geração)",
-      "ram": "8 GB DDR4",
-      "ssd": "512 GB NVMe SSD",
-      "tela": "15.6\" IPS Full HD (1920x1080) 120Hz Antirreflexo",
-      "analise": "A Dell Inspiron oferece a confiabilidade da marca e um hardware sólido com Core i5 de 13ª geração e SSD de 512GB. O destaque fica para a tela IPS Full HD de 120Hz, proporcionando uma experiência visual mais suave e agradável, especialmente para consumo de mídia e uso prolongado.",
+      "posicao": 3,
+      "modelo": "Lenovo IdeaPad Slim 3 83NU0000BR",
+      "preco": "R$ 2.820,00",
+      "link": "deixe vazio",
+      "foto": "https://m.media-amazon.com/images/I/71u96E3-NqL._AC_SL1500_.jpg",
+      "cpu": "Intel Core 3-100U (Série 1)",
+      "ram": "8GB",
+      "ssd": "256GB SSD",
+      "tela": "IPS WUXGA (15.3\")",
+      "analise": "Excelente valor para uma tela WUXGA IPS e um processador Intel Core 3 da Série 1, que entrega bom desempenho para tarefas cotidianas, estudos e navegação. O design slim e a qualidade da tela são pontos fortes.",
+      "notas": {
+        "performance": 7,
+        "tela": 9,
+        "custo_beneficio": 9
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Acer Aspire 5 (Configuração Típica)",
+      "preco": "R$ 3.300,00",
+      "link": "deixe vazio",
+      "foto": "https://m.media-amazon.com/images/I/61k1J7F8QTL._AC_SL1500_.jpg",
+      "cpu": "AMD Ryzen 5 5500U",
+      "ram": "8GB DDR4 (expansível)",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "O Acer Aspire 5 é frequentemente recomendado como um dos melhores custo-benefício no mercado brasileiro, oferecendo processadores competentes e tela IPS. Esta configuração com Ryzen 5 e 8GB de RAM é ideal para produtividade e multitarefas, com a vantagem da RAM expansível.",
       "notas": {
         "performance": 8,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 5,
+      "modelo": "Samsung Galaxy Book4 (Intel Core i3 13ª Geração)",
+      "preco": "R$ 3.600,00",
+      "link": "deixe vazio",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/br/np750xgj-kg5br/gallery/br-galaxy-book4-np750xgj-kg5br-np750xgj-kg5br-539091871?$GM_PRD_IMAGE_ZOOM$",
+      "cpu": "Intel Core i3-1335U 13ª Geração",
+      "ram": "8GB LPDDR5 (soldada)",
+      "ssd": "256GB SSD",
+      "tela": "IPS Full HD (15.6\")",
+      "analise": "Destaque pela construção premium em metal e tela IPS Full HD, que o diferencia de muitos concorrentes na faixa de preço. O processador i3 de 13ª geração e 8GB de RAM são adequados para tarefas de estudo e trabalho leve. A memória RAM ser soldada é um ponto a considerar.",
+      "notas": {
+        "performance": 7,
         "tela": 9,
         "custo_beneficio": 8
       }
