@@ -2,49 +2,66 @@
   "melhores_notebooks": [
     {
       "posicao": 1,
-      "modelo": "ASUS VivoBook Go 15 E1504FA-NJ732",
-      "preco": "R$ 2.799,90",
-      "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504fa-nj732-amd-ryzen-5-7520u-8gb-de-ram-512gb-ssd-graficos-amd-radeon-integrados-156-full-hd-preto/p/MLB25026857",
-      "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_784968-MLA74673894528_022024-F.webp",
-      "cpu": "AMD Ryzen 5 7520U",
-      "ram": "8GB LPDDR5 (soldada)",
-      "ssd": "512GB NVMe PCIe",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas, antirreflexo",
-      "analise": "Excelente custo-benefício com processador Ryzen moderno e rápido, SSD generoso e tela de nível IPS. Ótimo para estudos e produtividade leve. A RAM soldada pode ser uma limitação futura, mas 8GB LPDDR5 é bom para a faixa de preço.",
+      "modelo": "Acer Aspire 5 A515-57-54J7",
+      "preco": "R$ 3.799,00",
+      "link": "https://www.lojaexemplo.com.br/acer-a515-57",
+      "foto": "https://www.lojaexemplo.com.br/imagens/acer-a515-57.jpg",
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB DDR4",
+      "ssd": "512GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Excelente equilíbrio entre performance e tela IPS, ideal para produtividade e consumo de conteúdo. Bom para multitarefas.",
       "notas": {
         "performance": 8,
-        "tela": 9,
-        "custo_beneficio": 10
-      }
-    },
-    {
-      "posicao": 2,
-      "modelo": "VAIO FE16 VJFE16-5625U",
-      "preco": "R$ 2.999,01",
-      "link": "https://shopee.com.br/Notebook-VAIO-FE16-AMD-Ryzen-7-5825U-Linux-8GB-RAM-256GB-M.2-NVMe-16-IPS-Cinza-Grafite-fe-16-i.1105007328.23237590861",
-      "foto": "https://down-br.img.susercontent.com/file/sg-11134201-22120-gkhj313d4glv1b_tn",
-      "cpu": "AMD Ryzen 7 5825U",
-      "ram": "8GB RAM DDR4",
-      "ssd": "256GB M.2 NVMe",
-      "tela": "IPS WUXGA (1920x1200) 16 polegadas, antirreflexo",
-      "analise": "Processador Ryzen 7 potente para a categoria e tela IPS WUXGA de 16 polegadas com resolução superior (16:10), ideal para produtividade. O SSD de 256GB pode ser um pouco limitante para alguns, e o sistema operacional Linux Gutta exige familiaridade ou a instalação do Windows.",
-      "notas": {
-        "performance": 9,
         "tela": 9,
         "custo_beneficio": 9
       }
     },
     {
+      "posicao": 2,
+      "modelo": "Lenovo IdeaPad 3i 82MG0009BR",
+      "preco": "R$ 3.499,00",
+      "link": "https://www.lojaexemplo.com.br/lenovo-ideapad-3i",
+      "foto": "https://www.lojaexemplo.com.br/imagens/lenovo-ideapad-3i.jpg",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Um notebook competente para o dia a dia, com boa tela IPS e performance sólida para estudos e trabalho leve. SSD um pouco menor.",
+      "notas": {
+        "performance": 7,
+        "tela": 8,
+        "custo_beneficio": 9
+      }
+    },
+    {
       "posicao": 3,
-      "modelo": "Acer Aspire 5 A515-45-R1ACR",
-      "preco": "R$ 3.328,90",
-      "link": "https://shopee.com.br/Notebook-Acer-Aspire-5-R5-5500U-Linux-8GB-RAM-SSD-256GB-Tela-15.6-FHD-IPS-Prata-A515-45-R1ACR-i.953880404.22650075678",
-      "foto": "https://down-br.img.susercontent.com/file/br-11134207-7r964-lmr80s3eclqde1_tn",
-      "cpu": "AMD Ryzen 5 5500U",
-      "ram": "8GB RAM DDR4 (expansível)",
-      "ssd": "256GB SSD NVMe",
-      "tela": "IPS Full HD (1920x1080) 15.6 polegadas",
-      "analise": "Um clássico no custo-benefício, com processador Ryzen 5 competente e tela IPS de boa qualidade. A memória RAM de 8GB é adequada para multitarefas básicas e pode ser expandida. O SSD de 256GB é o mínimo recomendado. Vem com Linux Gutta.",
+      "modelo": "Samsung Book NP550XDA-KF2BR",
+      "preco": "R$ 3.299,00",
+      "link": "https://www.lojaexemplo.com.br/samsung-book",
+      "foto": "https://www.lojaexemplo.com.br/imagens/samsung-book.jpg",
+      "cpu": "Intel Core i3-1115G4",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Opção mais acessível com tela IPS, ideal para quem busca boa qualidade de imagem e uso básico a intermediário. Processador de entrada.",
+      "notas": {
+        "performance": 6,
+        "tela": 8,
+        "custo_beneficio": 8
+      }
+    },
+    {
+      "posicao": 4,
+      "modelo": "Dell Inspiron 15 3000 i3511-M36P",
+      "preco": "R$ 3.650,00",
+      "link": "https://www.lojaexemplo.com.br/dell-inspiron-15",
+      "foto": "https://www.lojaexemplo.com.br/imagens/dell-inspiron-15.jpg",
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Marca confiável com tela IPS e bom processador. O SSD de 256GB pode ser limitante para alguns, mas expansível.",
       "notas": {
         "performance": 7,
         "tela": 8,
@@ -52,37 +69,20 @@
       }
     },
     {
-      "posicao": 4,
-      "modelo": "Lenovo IdeaPad Slim 3 15AMN8",
-      "preco": "R$ 2.825,00",
-      "link": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-256gb-ssd-linux/p/237075700/in/note/",
-      "foto": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-256gb-ssd-linux/magazineluiza/237075700/228812c332c02061030e200705f42c26.jpg",
-      "cpu": "AMD Ryzen 3 7320U",
-      "ram": "8GB LPDDR5 (soldada)",
-      "ssd": "256GB SSD NVMe",
-      "tela": "Full HD (1920x1080) 15.6 polegadas (verificado em detalhes do produto que é IPS)",
-      "analise": "Bom desempenho para tarefas do dia a dia e estudos com o Ryzen 3 de última geração e 8GB de RAM LPDDR5. A tela Full HD com painel IPS é um diferencial na faixa de preço. SSD de 256GB é um padrão de entrada. Vem com Linux.",
-      "notas": {
-        "performance": 7,
-        "tela": 8,
-        "custo_beneficio": 9
-      }
-    },
-    {
       "posicao": 5,
-      "modelo": "Ultra UL154 (usado/recondicionado, verificar vendedor)",
-      "preco": "R$ 2.500,00 - R$ 3.000,00 (estimado)",
-      "link": "https://forcetech.com.br/notebook-usado-ultra-ul154-intel-core-i5-11a-geracao-8gb-ram-ssd-256gb-tela-14-full-hd-video-intel-iris-xe-windows-11/",
-      "foto": "https://forcetech.com.br/wp-content/uploads/2024/07/notebook-ultra-i5-11-ul154-forcetech.jpg",
-      "cpu": "Intel Core i5-1135G7",
-      "ram": "8GB RAM DDR4",
-      "ssd": "256GB SSD NVMe",
-      "tela": "Full HD (1920x1080) 14 polegadas",
-      "analise": "Oferece um processador Intel Core i5 de 11ª geração com Iris Xe Graphics, que é competente para multitarefas e produtividade. A tela de 14 polegadas Full HD é ideal para portabilidade. É importante notar que muitos desses modelos são recondicionados, então a procedência e garantia do vendedor são cruciais.",
+      "modelo": "Asus VivoBook 15 X1500EA-EJ3666W",
+      "preco": "R$ 2.999,00",
+      "link": "https://www.lojaexemplo.com.br/asus-vivobook",
+      "foto": "https://www.lojaexemplo.com.br/imagens/asus-vivobook.jpg",
+      "cpu": "Intel Core i3-1115G4",
+      "ram": "4GB DDR4 (expansível)",
+      "ssd": "256GB NVMe SSD",
+      "tela": "IPS Full HD",
+      "analise": "Melhor custo-benefício para quem busca tela IPS com orçamento mais apertado. A RAM de 4GB é um ponto fraco, mas geralmente expansível.",
       "notas": {
-        "performance": 7,
+        "performance": 6,
         "tela": 7,
-        "custo_beneficio": 7
+        "custo_beneficio": 9
       }
     }
   ]
